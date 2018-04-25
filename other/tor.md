@@ -20,3 +20,8 @@ HS2 (TCP-only, Hidden Service, v2), operated by [BAN AI Systems](https://ban.ai/
 HS3 (TCP-only, Hidden Service, v3), operated by [BAN AI Systems](https://ban.ai/)
 
 `"flnncw6fyuqqdnwv7m6grf4o4yw5afrcml6g5eyoucldi2oh34vlfzyd.onion:44478"`
+
+
+HS2 (TCP-only, Hidden Service, v2), operated by [Jeff](https://i2p.rocks/contact.txt)
+
+`"syr3orvfo5nxmao3.onion:40329"`
