@@ -4,7 +4,7 @@ Add the strings from the below to the `Peers: [],` list of your config file (com
 
 ## England
 
-London, operated by [BAN AI Systems](https://ban.ai/)
+**CURRENTLY DOWN** -- London, operated by [BAN AI Systems](https://ban.ai/)
 
 `"176.58.99.99:44478"`
 
