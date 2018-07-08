@@ -8,6 +8,9 @@ Please stick to the formating
 
 [yakamo](http://y.yakamo.org) - y.yakamo.org #yggdrasil  - friendly irc server
 
+### IM
+
+[Lex](http://y.yakamo.org) - XMPP server with inband registration also clearnet facing as well  
 
 ### Git
 
