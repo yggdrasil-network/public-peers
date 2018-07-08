@@ -6,7 +6,7 @@ Please stick to the formating
 
 ### IRC
 
-[yakamo](http://y.yakamo.org) - y.yakamo.org #yggdrasil  - friendly irc server
+[yakamo](http://y.yakamo.org#irc) - y.yakamo.org #yggdrasil  - friendly irc server
 
 ### IM
 
