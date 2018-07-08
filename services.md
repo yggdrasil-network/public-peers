@@ -1,9 +1,19 @@
 # Public services provided by users on yggdrasil
 
-Please use the follow format to keep this list readable:   
+Please stick to the formating   
 
-----------------------------------------------------------------
+
 
 ### IRC
 
-[yakamo](https://github.com/yakamok/ygg-services/blob/master/README.md) - y.yakamo.org #yggdrasil  
+[yakamo](https://y.yakamo.org) - y.yakamo.org #yggdrasil  
+
+
+### Git
+
+[yakamo](https://y.yakamo.org) - http://git.h-ic.eu/  
+
+
+### API
+
+[yakamo](https://y.yakamo.org) - [Node List](http://y.yakamo.org:3000/nodes)
