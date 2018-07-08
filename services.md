@@ -1,6 +1,6 @@
 # Public services provided by users on yggdrasil
 
-Format:  
+Please use the follow format to keep this list readable:   
 
 ### Service name
 Description of service  
@@ -10,7 +10,7 @@ __Where:__ ipv6 and or Domain name
 __started:__ Date of Creation  
 __Contact info:__ Contact Details  
 
-
+----------------------------------------------------------------
 
 ### IRC
 Basic IRC server for people wanting to talk about yggdrasil and hang out.  
