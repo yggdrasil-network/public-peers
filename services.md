@@ -6,4 +6,4 @@ Please use the follow format to keep this list readable:
 
 ### IRC
 
-[yakamo](https://github.com/yakamok/ygg-services/blob/master/README.md) - irc://y.yakamo.org/#yggdrasil  
+[yakamo](https://github.com/yakamok/ygg-services/blob/master/README.md) - y.yakamo.org #yggdrasil  
