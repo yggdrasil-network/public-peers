@@ -16,4 +16,4 @@ Please stick to the formating
 
 ### API
 
-[yakamo](https://y.yakamo.org) - [Node List](http://y.yakamo.org:3000/nodes)
+[yakamo](https://y.yakamo.org) - [Ygg Node List](https://github.com/yakamok/ygg-services/blob/master/README.md)
