@@ -6,7 +6,7 @@ Gravelines, operated by [Philly Mesh](https://phillymesh.net)
 
 `"37.187.124.224:12345"`
 
-`"[2001:41d0:a:f5e0::1]:12345"
+`"[2001:41d0:a:f5e0::1]:12345"`
 
 Paris, operated by [Arceliar](https://github.com/Arceliar)
 

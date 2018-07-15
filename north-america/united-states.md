@@ -30,4 +30,4 @@ Seattle, operated by [Philly Mesh](https://phillymesh.net)
 
 `"167.88.124.177:12345"`
 
-`"[ 2604:180:1:568::beef]:12345"`
+`"[2604:180:1:568::beef]:12345"`
