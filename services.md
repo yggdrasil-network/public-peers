@@ -24,3 +24,7 @@ Please stick to the formating
 ### Gaming
 
 - [Piele](http://y.yakamo.org#minecraft) - mc.y.creativeserver.net - Minecraft - survival mode map  
+
+### DNS
+
+- [Famicoman](https://phillymesh.net) - 200:8993:bb44:e1f3:bde7:6234:3f3e:fdd1  - OpenNIC DNS server, also backwards compatible with ICANN TLDs for all clearnet resolution.
