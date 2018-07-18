@@ -4,12 +4,6 @@ Add the strings from the below to the `Peers: [],` list of your config file (com
 
 ## New Jersey
 
-Newark, operated by [BAN AI Systems](https://ban.ai/)
-
-`"97.107.142.154:44478"`
-
-`"[2600:3c03::f03c:91ff:fe40:5199]:44478"`
-
 Newark, operated by [Philly Mesh](https://phillymesh.net)
 
 `"45.76.166.128:12345"`
