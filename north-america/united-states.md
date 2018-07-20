@@ -10,6 +10,16 @@ Newark, operated by [Philly Mesh](https://phillymesh.net)
 
 `"[2001:19f0:5:6ed:5400:ff:fe5f:94f7]:12345"`
 
+Piscataway, operated by [Asymptote Club](https://asymptote.club)
+
+`"45.77.107.150:34660"`
+
+`"[2001:19f0:5:2c95:5400:1ff:fe46:9c]:34660"`
+
+`"63.209.33.47:58149"`
+
+`"[2001:19f0:5:2a83:5400:1ff:fe89:44db]:58149"`
+
 ## Texas
 
 Dallas, operated by [BAN AI Systems](https://ban.ai/)
