@@ -4,7 +4,7 @@ Please stick to the formating
 
 ### API
 
-- [yakamo](http://y.yakamo.org#api) - This api provides a shared view of nodes on the yggdrasil network  
+- [yakamo](http://y.yakamo.org:3000#api) - This api provides a shared view of nodes on the yggdrasil network  
 
 ### Gaming
 
