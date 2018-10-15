@@ -1,14 +1,18 @@
 # Public services provided by users on yggdrasil
 
-Please stick to the formating   
+Please stick to the formating
 
 ### API
 
-- [yakamo](http://y.yakamo.org:3000#api) - This api provides a shared view of nodes on the yggdrasil network  
+- [yakamo](http://y.yakamo.org:3000#api) - This api provides a shared view of nodes on the yggdrasil network
+
+### IRC
+
+- cathugger - 201:4806:21d5:c971:407f:4ea9:4d7d:e491/6667 #yggdrasil - benisnet, cathugger's node
 
 ### Gaming
 
-- [Piele](http://y.yakamo.org#minecraft) - mc.y.creativeserver.net - Minecraft - survival mode map  
+- [Piele](http://y.yakamo.org#minecraft) - mc.y.creativeserver.net - Minecraft - survival mode map
 
 ### DNS
 
