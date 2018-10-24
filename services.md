@@ -8,7 +8,8 @@ Please stick to the formating
 
 ### IRC
 
-- cathugger - 201:4806:21d5:c971:407f:4ea9:4d7d:e491/6667 #yggdrasil - benisnet, cathugger's node
+* benisnet (yggdrasil channel: `#yggdrasil`)
+    - cathugger's node: `201:4806:21d5:c971:407f:4ea9:4d7d:e491` port `6667`
 
 ### Gaming
 
