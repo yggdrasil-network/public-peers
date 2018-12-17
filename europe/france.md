@@ -15,3 +15,15 @@ Paris, operated by [Arceliar](https://github.com/Arceliar)
 Paris, operated by [yakamo](https://github.com/yakamok)
 
 `"51.15.205.147:62071"`
+
+Roubaix, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
+
+`"51.255.223.60:64982"`
+
+`"[2001:41d0:2:c44a:51:255:223:60]:64982"`
+
+Strasbourg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
+
+`"46.105.92.61:62506"`
+
+`"[2001:41d0:401:3000::4227]:62506"`
