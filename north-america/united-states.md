@@ -28,6 +28,10 @@ Dallas, operated by [BAN AI Systems](https://ban.ai/)
 
 `"[2600:3c00::f03c:91ff:feae:3efa]:44478"`
 
+Dallas, operated by [neutralinsomniac](https://github.com/neutralinsomniac)
+
+`"104.225.221.17"`
+
 ## Washington
 
 Seattle, operated by [Philly Mesh](https://phillymesh.net)
