@@ -30,7 +30,7 @@ Dallas, operated by [BAN AI Systems](https://ban.ai/)
 
 Dallas, operated by [neutralinsomniac](https://github.com/neutralinsomniac)
 
-`"104.225.221.17"`
+`"104.225.221.17:59323"`
 
 ## Washington
 
