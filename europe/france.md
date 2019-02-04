@@ -27,3 +27,7 @@ Strasbourg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](http
 `"46.105.92.61:62506"`
 
 `"[2001:41d0:401:3000::4227]:62506"`
+
+Paris, operated by [frafra](https://frafra.eu)
+
+`"[2001:bc8:4400:2500::22:b13]:35033"`
