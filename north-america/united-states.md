@@ -2,6 +2,12 @@
 
 Add the strings from the below to the `Peers: [],` list of your config file (comma separated) to connect to these nodes.
 
+## Massachusetts
+
+Boston, operated by [Stephen304](https://github.com/stephen304)
+
+`"50.236.201.218:56088"`
+
 ## New Jersey
 
 Newark, operated by [Philly Mesh](https://phillymesh.net)
