@@ -4,3 +4,5 @@ Add the strings from the below to the `Peers: [],` list of your config file (com
 
 * Luleå, Norrbotten, operated by [William](https://willeponken.me/)
     * `"tcp://bohr.willeponken.me:42015"`
+* Stockholm, presummably, operated by [kaos](https://cryptoanarchy.org/)
+    * "tcp://yggdrasil.cryptoanarchy.org:1478"
