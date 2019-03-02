@@ -8,6 +8,14 @@ Boston, operated by [Stephen304](https://github.com/stephen304)
 
 `"50.236.201.218:56088"`
 
+## Nevada
+
+Las Vegas, operated by [santost12](https://github.com/santost12)
+
+`"199.175.54.202:47313"`
+
+`"[2607:8b00:0:96::ac18:1f8]:47313"`
+
 ## New Jersey
 
 Newark, operated by [Philly Mesh](https://phillymesh.net)
