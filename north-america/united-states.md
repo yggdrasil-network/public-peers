@@ -34,6 +34,12 @@ Piscataway, operated by [Asymptote Club](https://asymptote.club)
 
 `"[2001:19f0:5:2a83:5400:1ff:fe89:44db]:58149"`
 
+## Kansas
+
+Lenexa, operated by [jcgruenhage](https://jcg.re)
+
+`"108.175.10.127:61216"`
+
 ## Texas
 
 Dallas, operated by [BAN AI Systems](https://ban.ai/)
