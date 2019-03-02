@@ -5,6 +5,9 @@ Add the strings from the below to the `Peers: [],` list of your config file (com
 * Limburg, OVH, less then 1ms from Frankfurt, operated by [jcgruenhage](https://jcg.re/)  
     * `"51.75.65.46:65352"`
 
+* Baden-Baden, IONOS, operated by [jcgruenhage](https://jcg.re/)  
+    * `"82.165.69.111:61216"`
+
 * Frankfurt, DigitalOcean, operated by [Mikaela](https://mikaela.info/)  
     * `"tcp://46.101.250.19:48286"`
     * `"tcp://[2a03:b0c0:3:d0::31f:d001]:48286"`
