@@ -17,3 +17,8 @@ Amsterdam, operated by [Philly Mesh](https://phillymesh.net)
 `"146.185.176.36:12345"`
 
 `"[2a03:b0c0:0:1010::1a7:c001]:12345"`
+
+Amsterdam, operated by [Rostyslav Sotnychenko](https://github.com/rsotnychenko)
+
+`tcp://ams1.y.sota.sh:8080` (both IPv4 and IPv6 are supported)
+
