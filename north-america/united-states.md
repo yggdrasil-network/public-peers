@@ -2,6 +2,20 @@
 
 Add the strings from the below to the `Peers: [],` list of your config file (comma separated) to connect to these nodes.
 
+## Massachusetts
+
+Boston, operated by [Stephen304](https://github.com/stephen304)
+
+`"50.236.201.218:56088"`
+
+## Nevada
+
+Las Vegas, operated by [santost12](https://github.com/santost12)
+
+`"199.175.54.202:47313"`
+
+`"[2607:8b00:0:96::ac18:1f8]:47313"`
+
 ## New Jersey
 
 Newark, operated by [Philly Mesh](https://phillymesh.net)
@@ -19,6 +33,12 @@ Piscataway, operated by [Asymptote Club](https://asymptote.club)
 `"63.209.33.47:58149"`
 
 `"[2001:19f0:5:2a83:5400:1ff:fe89:44db]:58149"`
+
+## Kansas
+
+Lenexa, operated by [jcgruenhage](https://jcg.re)
+
+`"108.175.10.127:61216"`
 
 ## Texas
 
