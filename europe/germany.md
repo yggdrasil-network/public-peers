@@ -4,6 +4,10 @@ Add the strings from the below to the `Peers: [],` list of your config file (com
 
 * Limburg, OVH, less then 1ms from Frankfurt, operated by [jcgruenhage](https://jcg.re/)  
     * `"51.75.65.46:65352"`
+    
+* Limburg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
+   * `"54.38.157.232:37145"`
+   * `"[2001:41d0:701:1100::36e]:37145"`
 
 * Baden-Baden, IONOS, operated by [jcgruenhage](https://jcg.re/)  
     * `"82.165.69.111:61216"`
