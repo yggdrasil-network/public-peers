@@ -1,6 +1,7 @@
 # The Netherlands Peers
 
-Add the strings from the below to the `Peers: [],` list of your config file (comma separated) to connect to these nodes.
+Add connection strings from the below list to the `Peers: []` section of your
+Yggdrasil configuration file to peer with these nodes.
 
 * Amsterdam, operated by [TechInc](https://techinc.nl)
   * `tcp://195.169.146.32:55060`

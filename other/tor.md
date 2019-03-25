@@ -1,6 +1,9 @@
 # Tor hidden service peers
 
-Note that the following assumes tor is running locally and listening on the default `localhost:9050`.
+Add connection strings from the below list to the `Peers: []` section of your
+Yggdrasil configuration file to peer with these nodes.
+
+Note that the following assumes Tor is running locally and listening on the default `localhost:9050`.
 
 * HS2 (TCP-only, Hidden Service, v2), operated by [Jeff](https://i2p.rocks/contact.txt)
   * `socks://localhost:9050/syr3orvfo5nxmao3.onion:40329`

@@ -1,6 +1,7 @@
 # France Peers
 
-Add the strings from the below to the `Peers: [],` list of your config file (comma separated) to connect to these nodes.
+Add connection strings from the below list to the `Peers: []` section of your
+Yggdrasil configuration file to peer with these nodes.
 
 * Gravelines, operated by [Philly Mesh](https://phillymesh.net)
   * `tcp://37.187.124.224:12345`
