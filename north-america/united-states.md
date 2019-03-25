@@ -34,8 +34,8 @@ Yggdrasil configuration file to peer with these nodes.
 ### Texas
 
 * Dallas, operated by [BAN AI Systems](https://ban.ai/)
-  * `"198.58.100.240:44478`
-  * `"[2600:3c00::f03c:91ff:feae:3efa]:44478`
+  * `tcp://198.58.100.240:44478`
+  * `tcp://[2600:3c00::f03c:91ff:feae:3efa]:44478`
 
 * Dallas, operated by [neutralinsomniac](https://github.com/neutralinsomniac)
   * `tcp://104.225.221.17:59323`
