@@ -1,9 +1,8 @@
 # Japan Peers
 
-Add the strings from the below to the `Peers: [],` list of your config file (comma separated) to connect to these nodes.
+Add connection strings from the below list to the `Peers: []` section of your
+Yggdrasil configuration file to peer with these nodes.
 
-Tokyo, operated by [BAN AI Systems](https://ban.ai/)
-
-`"139.162.119.37:44478"`
-
-`"[2400:8902::f03c:91ff:fe1f:c32a]:44478"`
+* Tokyo, operated by [BAN AI Systems](https://ban.ai/)
+  * `tcp://139.162.119.37:44478`
+  * `tcp://[2400:8902::f03c:91ff:fe1f:c32a]:44478`
