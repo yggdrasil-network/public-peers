@@ -3,7 +3,7 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Ulvila, operated by [ano](https://github.com/ano0)
+* Ulvila, Tavu Cloud, operated by [ano](https://github.com/ano0)
   * `tcp://185.87.111.202:8080`
   
 * Ulvila, Tavu Cloud, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
