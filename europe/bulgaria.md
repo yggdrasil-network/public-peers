@@ -1,8 +1,10 @@
-# Singapore Peers
+# Bulgaria Peers
 
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Singapore, operated by passenger
-  * `tcp://45.59.126.34:22301`
-  * `tcp://2406:d500:12:beef:4c38::1:22301`
+* Bulgaria, operated by passenger
+
+ * `tcp://82.118.227.155:1920`
+ * `tcp://2a01:8740:1:fe33:4618:1891:c6cd:1:1920`
+
