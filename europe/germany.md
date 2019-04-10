@@ -19,3 +19,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Falkenstein, Hetzner, FSN1-DC7, operated by [Kipari](https://christoffer.space)
   * `tcp://5.9.112.248:39444`
+
+* Nuremberg, Hetzner, NBG1-DC3, operated by [WebCookies.org](https://webcookies.org)
+  * `tcp://[2a01:4f8:1c1c:c0d0::1]:31337`
+  * `tcp://159.69.35.16:31337`
