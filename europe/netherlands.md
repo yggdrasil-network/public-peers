@@ -21,3 +21,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://134.209.88.112:48440`
   * `tcp://[2a03:b0c0:2:f0::19:b001]:48440`
   * `tcp://hub.crypto-libertarian.com:48440` (both IPv4 and IPv6 are supported)
+  
+* Amsterdam, operated by [Eninspace](https://github.com/Eninspace)
+  * `tcp://167.99.223.207:44333`
+  * `tcp://[2a03:b0c0:2:d0::2c:a001]:44333`
