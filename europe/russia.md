@@ -8,3 +8,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Saratov, DOM.RU, operated by [void.net.in](https://void.net.in)
   * `tcp://void.net.in:1666`
+
+* Sevastopol, Crimea, home user public node. uptime 97%, operated by [Casper_por](https://vk.com/casper_por)
+  *  'tcp://195.211.160.2:5066'
+  
