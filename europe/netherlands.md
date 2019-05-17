@@ -26,6 +26,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://167.99.223.207:44333`
   * `tcp://[2a03:b0c0:2:d0::2c:a001]:44333`
 
-* Amsterdam, Network neighborhood[http://netwhood.online/] public node, operated by [abslimit](http://netwhood.online/feedback/)
+* Dronten, operated by [REI](https://github.com/molecul)
+  * `tcp://yggdrasil.molecul.net:7499`
+
+* Amsterdam, [Network Neighborhood](http://netwhood.online) public node, operated by [abslimit](http://netwhood.online/feedback/)
   * `tcp://51.15.99.80:50001`
   * `tcp://[2001:bc8:4700:2000::6b29]:50001`
