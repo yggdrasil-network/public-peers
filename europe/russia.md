@@ -12,3 +12,5 @@ Yggdrasil configuration file to peer with these nodes.
 * Sevastopol, Crimea, home user public node. uptime 97%, operated by [Casper_por](https://vk.com/casper_por)
   *  `tcp://195.211.160.2:5066`
   
+* Moscow, VScale, operated by [Medium](http://medium.i2p)
+  * `tcp://78.155.207.12:31744
