@@ -14,3 +14,6 @@ Yggdrasil configuration file to peer with these nodes.
   
 * Moscow, VScale, operated by [Medium](http://medium.i2p)
   * `tcp://78.155.207.12:31744
+
+* Moscow, standalone server
+  * `tcp://194.177.21.156:5066
