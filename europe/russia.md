@@ -1,7 +1,8 @@
 # Russia Peers
 
-Add connection strings from the below list to the `Peers: []` section of your
-Yggdrasil configuration file to peer with these nodes.
+Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) community channels!
+
+Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.  
 
 * Moscow, standalone server
   * `tcp://194.177.21.156:5066`
