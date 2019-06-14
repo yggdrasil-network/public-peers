@@ -12,3 +12,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   
 * Sevastopol, Crimea, home user public node. uptime 97%, operated by [Casper_por](https://vk.com/casper_por)
   *  `tcp://195.211.160.2:5066`
+
+* Yekaterinburg, home user public node, operated by [pztrn](https://pztrn.name), **rate-limited to 100 Mbit/s**.
+  * `tcp://188.226.125.64:54321`
+  * `tcp://[2a02:17d0:1b4:bd00::7]:54321`
