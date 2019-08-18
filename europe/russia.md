@@ -19,3 +19,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * [Medium](https://github.com/medium-isp) public node, Moscow, OOO Network of data-centers Selectel, operated by [podivilov](https://github.com/podivilov)
   * `tcp://78.155.207.12:32320`
+* Yggdrasil node running from VPS. Operator: ne-vlezay80
+* ` tcp://195.169.146.32:55060`
