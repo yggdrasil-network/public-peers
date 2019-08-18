@@ -18,7 +18,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://[2a02:17d0:1b4:bd00::7]:54321`
 
 * [Medium](https://github.com/medium-isp) public node, Moscow, OOO Network of data-centers Selectel, operated by [podivilov](https://github.com/podivilov)
-* `tcp://78.155.207.12:32320`
+  * `tcp://78.155.207.12:32320`
 
-* My yggdrasil node. Operator ne-vlezay80
-* `tcp://[2a01:d0:ffff:4353::2]:1198`
+* Public node operated by ne-vlezay80
+  * `tcp://[2a01:d0:ffff:4353::2]:1198`
