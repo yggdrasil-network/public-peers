@@ -19,3 +19,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * [Medium](https://github.com/medium-isp) public node, Moscow, OOO Network of data-centers Selectel, operated by [podivilov](https://github.com/podivilov)
   * `tcp://78.155.207.12:32320`
+
+* Public node operated by ne-vlezay80
+  * `tcp://[2a01:d0:ffff:4353::2]:1198`
