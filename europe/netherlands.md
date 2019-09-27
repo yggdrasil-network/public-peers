@@ -16,3 +16,13 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Amsterdam, operated by [Rostyslav Sotnychenko](https://github.com/rsotnychenko)
   * `tcp://ams1.y.sota.sh:8080` (both IPv4 and IPv6 are supported)
+
+* Dronten, operated by [REI](https://github.com/molecul)
+  * `tcp://yggdrasil.molecul.net:7499`
+
+* Amsterdam, [Network Neighborhood](http://netwhood.online) public node, operated by [abslimit](http://netwhood.online/feedback/)
+  * `tcp://51.15.99.80:50001`
+  * `tcp://[2001:bc8:4700:2000::6b29]:50001`
+  
+* Dronten, operated by ne-vlezay80
+  * `tcp://185.154.13.142:1198`
