@@ -1,6 +1,6 @@
 # Russia Peers
 
-Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Medium](https://github.com/medium-isp/medium) community channels!
+Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [The Medium Foundation](https://github.com/mediumfoundation) community channels!
 
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.  
 
@@ -17,7 +17,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.226.125.64:54321`
   * `tcp://[2a02:17d0:1b4:bd00::7]:54321`
 
-* [Medium](https://github.com/medium-isp) public node, Moscow, OOO Network of data-centers Selectel, operated by [mediumfoundation.org](https://www.mediumfoundation.org/)
+* [The Medium Foundation](https://github.com/mediumfoundation) public node, Moscow, OOO Network of data-centers Selectel, operated by [mediumfoundation.org](https://www.mediumfoundation.org/)
   * `tcp://78.155.207.12:32320`
 
 * Public node operated by ne-vlezay80
