@@ -26,3 +26,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * loskiq public node, Saint Petersburg, operated by [loskiq](https://loskiq.com)
   * `tcp://ygg.loskiq.com:17313`
   
+* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://95.213.195.9:32320`
