@@ -1,6 +1,6 @@
 # Russia Peers
 
-Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Medium](https://github.com/medium-isp/medium) community channels!
+Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Medium](https://github.com/medium-network) community channels!
 
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.  
 
@@ -17,12 +17,17 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.226.125.64:54321`
   * `tcp://[2a02:17d0:1b4:bd00::7]:54321`
 
-* [Medium](https://github.com/medium-isp) public node, Moscow, OOO Network of data-centers Selectel, operated by [podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://78.155.207.12:32320`
 
 * Public node operated by ne-vlezay80
   * `tcp://[2a01:d0:ffff:4353::2]:1198`
 
 * loskiq public node, Saint Petersburg, operated by [loskiq](https://loskiq.com)
-  * `tcp://94.242.55.101:17313`
+  * `tcp://ygg.loskiq.com:17313`
   
+* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://95.213.195.9:32320`
+  
+* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://46.21.249.170:32320`
