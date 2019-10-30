@@ -25,3 +25,6 @@ Yggdrasil configuration file to peer with these nodes.
   
 * Dronten, operated by ne-vlezay80
   * `tcp://185.154.13.142:1198`
+
+* Dronten, openrated by ne-vlezay80
+  * `tls://45.147.198.155:6010`
