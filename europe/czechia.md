@@ -9,3 +9,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * *PEER IS DOWN CURRENTLY* Prague, awnet.cz, operated by [carnhofdaki](https://github.com/carnhofdaki)
   * `tcp://94.230.156.206:9000`
+
+* Praha, vpsFree, operated by @ehmry
+  * `tcp://37.205.14.171:46370`
+  * `tcp://[2a03:3b40:fe:ab::1]:46370`
