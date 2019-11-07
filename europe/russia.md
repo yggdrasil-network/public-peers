@@ -111,32 +111,14 @@ Used by operators of the Medium network to balance traffic by region. Up to 10 b
 
 ### SPB-1 @ AS49505
 
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) balancer public nodes, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64640`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64641`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64642`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64643`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64644`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64645`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64646`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64647`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64648`
-
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:64649`
