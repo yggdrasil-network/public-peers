@@ -45,7 +45,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ## Balancer nodes of the Medium network
 Used by operators of the Medium network to balance by region. Up to 10 balancer nodes per physical server.
 
-### MSK-1 / AS50340
+### MSK-1 (AS50340)
 
 * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://78.155.207.12:64640`
