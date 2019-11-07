@@ -19,6 +19,18 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://78.155.207.12:32320`
+  
+* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://77.244.215.82:32320`
+
+* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://46.21.249.170:32320`
+
+* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://95.213.195.9:32320`
+
+* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://95.213.191.14:32320`
 
 * Public node operated by ne-vlezay80
   * `tcp://[2a01:d0:ffff:4353::2]:1198`
@@ -29,15 +41,36 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Saint Petersburg public node
   * `tcp://88.201.129.205:8777`
   * `tcp://[2a05:3580:d900:1b13:e2d5:5eff:fed8:8b86]:8777`
-  
-* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://95.213.195.9:32320`
-  
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://46.21.249.170:32320`
 
-* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://95.213.191.14:32320`
+## Balancer nodes of the Medium network
+Used by operators of the Medium network to balance by region. Up to 10 balancer nodes per physical server.
 
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://77.244.215.82:32320`
+* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64640`
+
+* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64641`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64642`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64643`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64644`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64645`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64646`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64647`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64648`
+  
+  * [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+  * `tcp://78.155.207.12:64649`
