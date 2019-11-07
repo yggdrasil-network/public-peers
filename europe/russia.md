@@ -47,7 +47,7 @@ Used by operators of the Medium network to balance traffic by region. Up to 10 b
 
 ### MSK-1 @ AS50340
 
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) balancer public nodes, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
 
   * `tcp://78.155.207.12:64640`
   * `tcp://78.155.207.12:64641`
@@ -62,7 +62,7 @@ Used by operators of the Medium network to balance traffic by region. Up to 10 b
 
 ### MSK-2 @ AS50340
 
-* [Medium](https://github.com/medium-network) balancer public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) balancer public nodes, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
 
   * `tcp://46.21.249.170:64640`
   * `tcp://46.21.249.170:64641`
