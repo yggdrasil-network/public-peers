@@ -89,3 +89,18 @@ Used by operators of the Medium network to balance traffic by region. Up to 10 b
   * `tcp://95.213.195.9:64647`
   * `tcp://95.213.195.9:64648`
   * `tcp://95.213.195.9:64649`
+
+### SPB-2 @ AS49505
+
+* [Medium](https://github.com/medium-network) balancer nodes, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+
+  * `tcp://95.213.191.14:64640`
+  * `tcp://95.213.191.14:64641`
+  * `tcp://95.213.191.14:64642`
+  * `tcp://95.213.191.14:64643`
+  * `tcp://95.213.191.14:64644`
+  * `tcp://95.213.191.14:64645`
+  * `tcp://95.213.191.14:64646`
+  * `tcp://95.213.191.14:64647`
+  * `tcp://95.213.191.14:64648`
+  * `tcp://95.213.191.14:64649`
