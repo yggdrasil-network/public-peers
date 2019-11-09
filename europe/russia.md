@@ -77,7 +77,7 @@ Used by operators of the Medium network to balance traffic by region. Up to 10 b
 
 ### SPB-1 @ AS49505
 
-* [Medium](https://github.com/medium-network) balancer nodes, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) balancer nodes, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
 
   * `tcp://95.213.195.9:64640`
   * `tcp://95.213.195.9:64641`
@@ -92,7 +92,7 @@ Used by operators of the Medium network to balance traffic by region. Up to 10 b
 
 ### SPB-2 @ AS49505
 
-* [Medium](https://github.com/medium-network) balancer nodes, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) balancer nodes, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
 
   * `tcp://95.213.191.14:64640`
   * `tcp://95.213.191.14:64641`
