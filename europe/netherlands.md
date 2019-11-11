@@ -22,9 +22,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Amsterdam, [Network Neighborhood](http://netwhood.online) public node, operated by [abslimit](http://netwhood.online/feedback/)
   * `tcp://51.15.99.80:50001`
-  
-* Dronten, operated by ne-vlezay80
-  * `tcp://185.154.13.142:1198`
 
 * Dronten, operated by ne-vlezay80
   * `tls://45.147.198.155:6010`
