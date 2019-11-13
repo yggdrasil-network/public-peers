@@ -39,11 +39,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://77.244.215.82:32320`
 
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.195.9:32320`
 
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.191.14:32320`
 
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
+* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://95.213.237.229:32320`
