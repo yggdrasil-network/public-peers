@@ -28,26 +28,25 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://[2a05:3580:d900:1b13:e2d5:5eff:fed8:8b86]:8777`
   
 * [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://78.155.207.12:32320`
+  * `tcp://msk-1.podivilov.ru:32320`
   
 * [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://46.21.249.170:32320`
+  * `tcp://msk-2.podivilov.ru:32320`
   
 * [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://80.93.177.12:32320`
+  * `tcp://msk-3.podivilov.ru:32320`
 
 * [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://77.244.215.82:32320`
+  * `tcp://vpn.podivilov.ru:32320`
 
 * [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://95.213.195.9:32320`
+  * `tcp://spb-1.podivilov.ru:32320`
 
 * [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://95.213.191.14:32320`
+  * `tcp://spb-2.podivilov.ru:32320`
 
 * [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://95.213.237.229:32320`
+  * `tcp://spb-3.podivilov.ru:32320`
 
 * Nizhniy Novgorod, home user public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
   * `tcp://95.79.97.17:50001`
-  
