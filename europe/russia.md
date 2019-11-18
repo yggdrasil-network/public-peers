@@ -26,6 +26,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Saint Petersburg public node
   * `tcp://88.201.129.205:8777`
   * `tcp://[2a05:3580:d900:1b13:e2d5:5eff:fed8:8b86]:8777`
+  * `tls://88.201.129.205:8778`
+  * `tls://[2a05:3580:d900:1b13:e2d5:5eff:fed8:8b86]:8778`
   
 * [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
   * `tcp://msk-1.podivilov.ru:32320`
