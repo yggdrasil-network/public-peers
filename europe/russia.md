@@ -1,6 +1,6 @@
 # Russia Peers
 
-Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Medium](https://t.me/nic_medium) community channels!
+Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Yggdrasil RU](https://t.me/Yggdrasil_ru) community channels!
 
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.  
 
@@ -29,26 +29,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://88.201.129.205:8778`
   * `tls://[2a05:3580:d900:1b13:e2d5:5eff:fed8:8b86]:8778`
   
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://msk-1.podivilov.ru:32320`
-  
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://msk-2.podivilov.ru:32320`
-  
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://msk-3.podivilov.ru:32320`
-
-* [Medium](https://github.com/medium-network) public node, Moscow, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://vpn.podivilov.ru:32320`
-
-* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://spb-1.podivilov.ru:32320`
-
-* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://spb-2.podivilov.ru:32320`
-
-* [Medium](https://github.com/medium-network) public node, Saint Petersburg, OOO Network of data-centers Selectel, operated by [Mihail Podivilov](https://github.com/podivilov)
-  * `tcp://spb-3.podivilov.ru:32320`
-
 * Nizhniy Novgorod, home user public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
   * `tcp://95.79.97.17:50001`
