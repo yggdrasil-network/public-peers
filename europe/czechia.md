@@ -7,8 +7,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://195.123.245.146:7743`
   * `tcp://[2a05:9403::8b]:7743`
 
-* *PEER IS DOWN CURRENTLY* Prague, awnet.cz, operated by [carnhofdaki](https://github.com/carnhofdaki)
-  * `tcp://94.230.156.206:9000`
+* Praha, centro-net.cz, operated by [carnhofdaki](https://github.com/carnhofdaki)
+  * `tcp://217.195.164.4:10000`
+  * `tls://217.195.164.4:10531`
 
 * Praha, vpsFree, operated by @ehmry
   * `tcp://37.205.14.171:46370`
