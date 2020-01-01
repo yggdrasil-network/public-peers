@@ -19,6 +19,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://[2001:19f0:5:2c95:5400:1ff:fe46:9c]:34660`
   * `tcp://63.209.33.47:58149`
   * `tcp://[2001:19f0:5:2a83:5400:1ff:fe89:44db]:58149`
+  
+### New York
+
+* New York City, operated by [sandpile.net](https://sandpile.net)
+  * `tcp://67.205.187.55:19103`
+  * `tls://67.205.187.55:19102`
+  * `tcp://[2604:a880:400:d0::16e5:7001]:19103`
+  * `tls://[2604:a880:400:d0::16e5:7001]:19102`
 
 ### Kansas
 
