@@ -13,3 +13,6 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 
 * Home yggdrasil i2p node from brocken pc:
   * `socks://127.0.0.1:4447/i6lbsjw7kh4gqmbylcsjtfh3juj3dbbk24bwzrpgvtalhs7xagoa.b32.i2p:2721`
+
+* My i2p peer with test machine:
+ * `socks://127.0.0.1:4447/2ddoxwucodjfy6u34v3toxm2a463nzd3f523hhfzc3y5de7twj6a.b32.i2p:2281'
