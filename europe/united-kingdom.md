@@ -15,4 +15,5 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://curiosity.tdjs.tech:30003`
 
 * London, operated by [rany](https://rany.eu.org)
-  * `tcp://box1.rany.eu.org:5322`
+  * `tcp://167.172.49.239:5322`
+  * `tcp://[2a03:b0c0:1:e0::4fc:4001]:5322`
