@@ -13,3 +13,7 @@ Yggdrasil configuration file to peer with these nodes.
   
 * London, operated by [Tom Snelling](https://tdjs.tech)
   * `tcp://curiosity.tdjs.tech:30003`
+
+* London, operated by [rany](https://rany.eu.org)
+  * `tcp://167.172.49.239:5322`
+  * `tcp://[2a03:b0c0:1:e0::4fc:4001]:5322`
