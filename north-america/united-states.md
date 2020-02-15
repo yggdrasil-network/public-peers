@@ -47,3 +47,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Seattle, operated by [Philly Mesh](https://phillymesh.net)
   * `tcp://167.88.124.177:12345`
   * `tcp://[2604:180:1:568::beef]:12345`
+
+### Georgia
+
+* Atlanta (Vultr), operated by [WebCookies.org](https://webcookies.org).
+  * `tcp://[2001:19f0:5401:272a:5400:2ff:fe21:7a26]:8082`
+  * `tcp://hindsight.krvtz.net:8082`
