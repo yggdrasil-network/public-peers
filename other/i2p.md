@@ -16,3 +16,6 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 
 * My i2p peer with test machine:
   * `socks://127.0.0.1:4447/2ddoxwucodjfy6u34v3toxm2a463nzd3f523hhfzc3y5de7twj6a.b32.i2p:2281`
+
+* I2P Node (I2Pd, sigtype = 7, in/out length = 1, quantity = 5), operated by [R4SAS](https://github.com/r4sas)
+  * `socks://127.0.0.1:4447/ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565`
