@@ -3,14 +3,14 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Limburg, OVH, less then 1ms from Frankfurt, operated by [jcgruenhage](https://jcg.re/)  
+* Limburg, OVH, less then 1ms from Frankfurt, operated by [jcgruenhage](https://jcg.re/)
   * `tcp://51.75.65.46:65352`
 
 * Limburg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://54.38.157.232:39593`
   * `tcp://[2001:41d0:701:1100::36e]:39593`
 
-* Baden-Baden, IONOS, operated by [jcgruenhage](https://jcg.re/)  
+* Baden-Baden, IONOS, operated by [jcgruenhage](https://jcg.re/)
   * `tcp://82.165.69.111:61216`
 
 * Falkenstein, Hetzner, FSN1-DC7, operated by [Kipari](https://christoffer.space)
