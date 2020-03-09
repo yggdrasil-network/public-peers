@@ -18,9 +18,15 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://51.255.223.60:64982`
   * `tcp://[2001:41d0:2:c44a:51:255:223:60]:64982`
 
-* Strasbourg, OVH, operated by [cwinfo](https://cwinfo.net) and   [cwchristerw](https://christerwaren.fi)
+* Strasbourg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://46.105.92.61:62506`
   * `tcp://[2001:41d0:401:3000::4227]:62506`
 
 * Paris, operated by [frafra](https://frafra.eu)
   * `tcp://[2001:bc8:4400:2500::22:b13]:35033`
+
+* Paris, Online SAS, operated by [R4SAS](https://github.com/r4sas)
+  * `tcp://212.129.52.193:39565`
+  * `tcp://[2001:470:1f13:e56::64]:39565`
+  * `tls://212.129.52.193:39575`
+  * `tls://[2001:470:1f13:e56::64]:39575`

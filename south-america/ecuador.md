@@ -5,5 +5,3 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Quito, contact `igel [at] bostonmesh [dot] nyet`
   * `tcp://181.188.197.156:443`
-
-  

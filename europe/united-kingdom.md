@@ -10,7 +10,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://[2a06:8ec0:0:3027::1]:1001`
   * `tls://185.164.138.18:1002` (TLS)
   * `tls://[2a06:8ec0:0:3027::1]:1002` (TLS)
-  
+
 * London, operated by [Tom Snelling](https://tdjs.tech)
   * `tcp://curiosity.tdjs.tech:30003`
 
