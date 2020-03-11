@@ -8,6 +8,31 @@ Yggdrasil configuration file to peer with these nodes.
 * Boston, operated by [Stephen304](https://github.com/stephen304)
   * `tcp://50.236.201.218:56088`
 
+* Boston, operated by `@igel:matrix.org`
+  * babcock.piratemesh.net
+    * Allston
+    * `tcp://64.112.177.94:1617`
+
+  * compose.piratemesh.net
+    * Somerville
+    * `tls://192.34.85.155:443`
+
+  * drydock.piratemesh.net
+    * Seaport, Boston
+    * `tcp://64.112.180.77:1617`
+
+  * fawcett.piratemesh.net
+    * North Cambridge
+    * `tcp://64.112.178.178:1617`
+
+  * hancock.piratemesh.net
+    * Boston
+    * `tcp://64.112.182.119:1617`
+
+  * roxbury.piratemesh.net
+    * Roxbury
+    * `tcp://64.112.176.176:1617`
+
 ### New Jersey
 
 * Newark, operated by [Philly Mesh](https://phillymesh.net)
