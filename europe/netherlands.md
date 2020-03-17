@@ -25,3 +25,7 @@ Yggdrasil configuration file to peer with these nodes.
   
 * Amsterdam, [Phreedom](https://phreedom.tk) public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
   * `tcp://213.227.154.108:5001`
+
+* Amsterdam, operated by [deb](https://ysl.su)
+  * `tcp://51.15.118.10:62486`
+  * `tcp://[2001:bc8:1820:192f::1]:62486`
