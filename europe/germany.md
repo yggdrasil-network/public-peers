@@ -9,6 +9,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Baden-Baden, IONOS, operated by [jcgruenhage](https://jcg.re/)
   * `tcp://82.165.69.111:61216`
+  * `tcp://[2001:8d8:1800:8224::1]:61216`
 
 * Falkenstein, Hetzner, FSN1-DC7, operated by [Kipari](https://christoffer.space)
   * `tcp://5.9.112.248:39444`
