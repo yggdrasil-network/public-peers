@@ -3,9 +3,6 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Limburg, OVH, less then 1ms from Frankfurt, operated by [jcgruenhage](https://jcg.re/)
-  * `tcp://51.75.65.46:65352`
-
 * Limburg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://54.38.157.232:39593`
   * `tcp://[2001:41d0:701:1100::36e]:39593`
