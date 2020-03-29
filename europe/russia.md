@@ -15,7 +15,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * Yekaterinburg, home user public node, operated by [pztrn](https://pztrn.name), **rate-limited to 100 Mbit/s**.
   * `tcp://188.226.125.64:54321`
-  * `tcp://[2a02:17d0:1b4:bd00::7]:54321`
+  * `tcp://[2a02:17d0:1b4:bddd::7]:54321`
 
 * Public node operated by ne-vlezay80
   * `tls://[2a01:d0:ffff:4353::2]:6010`
