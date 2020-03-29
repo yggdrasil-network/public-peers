@@ -17,18 +17,15 @@ Yggdrasil configuration file to peer with these nodes.
 * Amsterdam, operated by [Rostyslav Sotnychenko](https://github.com/rsotnychenko)
   * `tcp://ams1.y.sota.sh:8080` (both IPv4 and IPv6 are supported)
 
-* Amsterdam, operated by [Alex Kotov](https://github.com/kotovalexarian)
-  * `tcp://134.209.88.112:48440`
-  * `tcp://[2a03:b0c0:2:f0::19:b001]:48440`
-  * `tcp://hub.crypto-libertarian.com:48440` (both IPv4 and IPv6 are supported)
-  
-* Amsterdam, operated by [Eninspace](https://github.com/Eninspace)
-  * `tcp://167.99.223.207:44333`
-  * `tcp://[2a03:b0c0:2:d0::2c:a001]:44333`
-
 * Dronten, operated by [REI](https://github.com/molecul)
   * `tcp://yggdrasil.molecul.net:7499`
 
-* Amsterdam, [Network Neighborhood](http://netwhood.online) public node, operated by [abslimit](http://netwhood.online/feedback/)
-  * `tcp://51.15.99.80:50001`
-  * `tcp://[2001:bc8:4700:2000::6b29]:50001`
+* Dronten, operated by ne-vlezay80
+  * `tls://45.147.198.155:6010`
+  
+* Amsterdam, [Phreedom](https://phreedom.tk) public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
+  * `tcp://213.227.154.108:5001`
+
+* Amsterdam, operated by [deb](https://ysl.su)
+  * `tcp://51.15.118.10:62486`
+  * `tcp://[2001:bc8:1820:192f::1]:62486`
