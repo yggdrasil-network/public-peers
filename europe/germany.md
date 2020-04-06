@@ -22,3 +22,5 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://[2a01:4f8:221:2ada::2]:17177`
   * `tcp://78.46.35.38:17177`
 
+* Mauern, [Phreedom](https://phreedom.tk) public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
+  * `tcp://45.11.19.26:5001`
