@@ -20,8 +20,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Dronten, operated by [REI](https://github.com/molecul)
   * `tcp://yggdrasil.molecul.net:7499`
 
-* Amsterdam, [Network Neighborhood](http://netwhood.online) public node, operated by [abslimit](http://netwhood.online/feedback/)
-  * `tcp://51.15.99.80:50001`
-  
 * Dronten, operated by ne-vlezay80
-  * `tcp://185.154.13.142:1198`
+  * `tls://45.147.198.155:6010`
+  
+* Amsterdam, operated by [deb](https://ysl.su)
+  * `tcp://51.15.118.10:62486`
+  * `tcp://[2001:bc8:1820:192f::1]:62486`

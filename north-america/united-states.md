@@ -8,6 +8,31 @@ Yggdrasil configuration file to peer with these nodes.
 * Boston, operated by [Stephen304](https://github.com/stephen304)
   * `tcp://50.236.201.218:56088`
 
+* Boston, operated by `@igel:matrix.org`
+  * babcock.piratemesh.net
+    * Allston
+    * `tcp://64.112.177.94:1617`
+
+  * compose.piratemesh.net
+    * Somerville
+    * `tls://192.34.85.155:443`
+
+  * drydock.piratemesh.net
+    * Seaport, Boston
+    * `tcp://64.112.180.77:1617`
+
+  * fawcett.piratemesh.net
+    * North Cambridge
+    * `tcp://64.112.178.178:1617`
+
+  * hancock.piratemesh.net
+    * Boston
+    * `tcp://64.112.182.119:1617`
+
+  * roxbury.piratemesh.net
+    * Roxbury
+    * `tcp://64.112.176.176:1617`
+
 ### New Jersey
 
 * Newark, operated by [Philly Mesh](https://phillymesh.net)
@@ -20,10 +45,19 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://63.209.33.47:58149`
   * `tcp://[2001:19f0:5:2a83:5400:1ff:fe89:44db]:58149`
 
+### New York
+
+* New York City, operated by [sandpile.net](https://sandpile.net)
+  * `tcp://67.205.187.55:19103`
+  * `tls://67.205.187.55:19102`
+  * `tcp://[2604:a880:400:d0::16e5:7001]:19103`
+  * `tls://[2604:a880:400:d0::16e5:7001]:19102`
+
 ### Kansas
 
 * Lenexa, operated by [jcgruenhage](https://jcg.re)
   * `tcp://108.175.10.127:61216`
+  * `tcp://[2607:f1c0:1801:d4::1]:61216`
 
 ### Texas
 
@@ -31,11 +65,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://198.58.100.240:44478`
   * `tcp://[2600:3c00::f03c:91ff:feae:3efa]:44478`
 
-* Dallas, operated by [neutralinsomniac](https://github.com/neutralinsomniac)
-  * `tcp://104.225.221.17:59323`
-
 ### Washington
 
 * Seattle, operated by [Philly Mesh](https://phillymesh.net)
   * `tcp://167.88.124.177:12345`
   * `tcp://[2604:180:1:568::beef]:12345`
+
+### Georgia
+
+* Atlanta (Vultr), operated by [WebCookies.org](https://webcookies.org).
+  * `tcp://[2001:19f0:5401:272a:5400:2ff:fe21:7a26]:8082`
+  * `tcp://hindsight.krvtz.net:8082`
