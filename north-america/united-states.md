@@ -52,6 +52,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://67.205.187.55:19102`
   * `tcp://[2604:a880:400:d0::16e5:7001]:19103`
   * `tls://[2604:a880:400:d0::16e5:7001]:19102`
+* NYC, operated by [@therealklanni](https://github.com/therealklanni)
+  * `tcp://104.248.15.125:31337`
+  * `tls://104.248.15.125:32337`
+  * `tcp://[2604:a880:800:c1::2c2:a001]:31337`
+  * `tls://[2604:a880:800:c1::2c2:a001]:32337`
 
 ### Kansas
 
