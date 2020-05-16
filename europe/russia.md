@@ -32,6 +32,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Nizhniy Novgorod, home user public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
   * `tcp://95.79.97.17:50001`
 
-* Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46)
-  * `tcp://176.215.237.83:2755`
-  * `tls://176.215.237.83:2756`
+* Novosibirsk public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 200 Mbit/s*
+  * `"tcp://91.206.93.65:1333" // RU-NVS-HOST-D35E`
+  * `"tcp://[2a00:b700:2::6:69]:1333" // RU-NVS-HOST-D35E`
+  * `"tls://91.206.93.65:1444" // RU-NVS-HOST-D35E`
+  * `"tls://[2a00:b700:2::6:69]:1444" // RU-NVS-HOST-D35E`
+
+* Irkutsk home user public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 100 Mbit/s*
+  * `"tcp://176.215.237.83:2755" // RU-IRK-HOST-E52B`
+  * `"tls://176.215.237.83:2756" // RU-IRK-HOST-E52B`
