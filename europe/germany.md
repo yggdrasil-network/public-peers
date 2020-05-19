@@ -3,10 +3,6 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Limburg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
-  * `tcp://54.38.157.232:39593`
-  * `tcp://[2001:41d0:701:1100::36e]:39593`
-
 * Baden-Baden, IONOS, operated by [jcgruenhage](https://jcg.re/)
   * `tcp://82.165.69.111:61216`
   * `tcp://[2001:8d8:1800:8224::1]:61216`
