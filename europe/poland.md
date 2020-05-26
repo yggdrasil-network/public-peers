@@ -6,6 +6,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Warsaw, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://54.37.137.221:37145`
   * `tcp://[2001:41d0:601:1100::cf2]:37145`
+  * `tls://54.37.137.221:14987`
+  * `tls://[2001:41d0:601:1100::cf2]:14987`
 
 * Warsaw, OVH hosting, [Network Neighborhood](http://netwhood.online) public node, operated by [abslimit](http://netwhood.online/feedback/)
   * `tcp://51.75.44.73:50001`
