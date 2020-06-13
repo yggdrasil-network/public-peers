@@ -10,10 +10,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Paris, operated by [Arceliar](https://github.com/Arceliar)
   * `tcp://51.15.204.214:12345`
 
-* Paris, Scaleway, operated by [rany](https://rany.eu.org)
-  * `tls://51.15.217.33:8443`
-  * `tls://[2001:bc8:608:f19::1]:8443`
-
 * Roubaix, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://51.255.223.60:64982`
   * `tcp://[2001:41d0:2:c44a:51:255:223:60]:64982`
