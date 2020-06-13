@@ -1,8 +1,11 @@
 # Public Peers
 
 This repository contains peering information for publicly accessible nodes on
-the Yggdrasil network. If you are new to the network then this is a good place
-to start in order to get connected.
+the Yggdrasil network. 
+
+Note that not all peers in this repository are guaranteed to be online - check
+the [Public Peers](https://publicpeers.neilalexander.dev/) page instead to find
+peers that are online now.
 
 In most cases, public peers should be accessible by adding the string provided
 for each peer to the `Peers: []` section of your `yggdrasil.conf` configuration
@@ -20,6 +23,9 @@ Peers:
 ```
 
 ### How do I pick peers?
+
+If you are new to the network then take a look at the [Public Peers](https://publicpeers.neilalexander.dev/)
+page to find public peers that are online.
 
 Always try to pick peers that are as close to you geographically as possible, as
 this will keep the latency of the network down.
