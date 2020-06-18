@@ -41,3 +41,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Irkutsk home user public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 100 Mbit/s*
   * `"tcp://176.215.237.83:2755" // RU-IRK-HOST-E52B`
   * `"tls://176.215.237.83:2756" // RU-IRK-HOST-E52B`
+
+* Moscow, home public node, operated by [TomasGl](https://vk.com/tmsconsole)
+  * `tcp://95.165.99.143:61933`
