@@ -3,10 +3,6 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-### California
-* Irvine, operated by [kylerchin](https://github.com/kylerchin)
-  * `tcp://[2600:8802:2300:bb6:6d53:e9b:c0aa:58ce]:46650`
-
 ### Massachusetts
 
 * Boston, operated by [Stephen304](https://github.com/stephen304)
@@ -16,10 +12,6 @@ Yggdrasil configuration file to peer with these nodes.
   * babcock.piratemesh.net
     * Allston
     * `tcp://64.112.177.94:1617`
-
-  * compose.piratemesh.net
-    * Somerville
-    * `tls://192.34.85.155:443`
 
   * drydock.piratemesh.net
     * Seaport, Boston
