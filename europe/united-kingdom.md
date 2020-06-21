@@ -13,7 +13,6 @@ Yggdrasil configuration file to peer with these nodes.
   See [ssb.webcookies.pub](https://ssb.webcookies.pub) for more info.
   * `tcp://[2001:19f0:7402:1aae:5400:2ff:fe7f:5d8e]:31337`
   * `tcp://217.163.11.185:31337`
-  * `tcp://ssb.webcookies.pub:31338`
 
 * London (Vultr), operated by [WebCookies.org](https://webcookies.org).
   * `tcp://[2001:19f0:7402:431:5400:2ff:fe21:7912]:8082`
