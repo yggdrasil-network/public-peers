@@ -9,10 +9,14 @@ Yggdrasil configuration file to peer with these nodes.
 * Roubaix, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://51.255.223.60:64982`
   * `tcp://[2001:41d0:2:c44a:51:255:223:60]:64982`
+  * `tls://51.255.223.60:23443`
+  * `tls://[2001:41d0:2:c44a:51:255:223:60]:23443`
 
 * Strasbourg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://46.105.92.61:62506`
   * `tcp://[2001:41d0:401:3000::4227]:62506`
+  * `tls://46.105.92.61:46394`
+  * `tls://[2001:41d0:401:3000::4227]:46394`
 
 * Paris, Online SAS, operated by [R4SAS](https://github.com/r4sas)
   * `tcp://212.129.52.193:39565`
