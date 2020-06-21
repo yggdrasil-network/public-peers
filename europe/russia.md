@@ -7,12 +7,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, standalone server
   * `tcp://194.177.21.156:5066`
 
-* [Network neighborhood](https://netwhood.online/) public node, Moscow Oblast, Podolsk, ALDIS Telecom Ltd, operated by [abslimit](http://netwhood.online/feedback/)
-  * `tcp://46.151.26.194:60575`
-
-* Sevastopol, Crimea, home user public node. uptime 97%, operated by [Casper_por](https://vk.com/casper_por)
-  * `tcp://195.211.160.2:5066` (**DOWN since 28/01/20**)
-
 * Yekaterinburg, home user public node, operated by [pztrn](https://pztrn.name), *rate-limited to 100 Mbit/s*
   * `tcp://188.226.125.64:54321`
   * `tcp://[2a02:17d0:1b4:bddd::7]:54321`
@@ -33,14 +27,14 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://95.79.97.17:50001`
 
 * Novosibirsk public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 200 Mbit/s*
-  * `"tcp://91.206.93.65:1333" // RU-NVS-HOST-D35E`
-  * `"tcp://[2a00:b700:2::6:69]:1333" // RU-NVS-HOST-D35E`
-  * `"tls://91.206.93.65:1444" // RU-NVS-HOST-D35E`
-  * `"tls://[2a00:b700:2::6:69]:1444" // RU-NVS-HOST-D35E`
+  * `tcp://91.206.93.65:1333` - RU-NVS-HOST-D35E
+  * `tcp://[2a00:b700:2::6:69]:1333` - RU-NVS-HOST-D35E
+  * `tls://91.206.93.65:1444` - RU-NVS-HOST-D35E
+  * `tls://[2a00:b700:2::6:69]:1444` - RU-NVS-HOST-D35E
 
 * Irkutsk home user public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 100 Mbit/s*
-  * `"tcp://176.215.237.83:2755" // RU-IRK-HOST-E52B`
-  * `"tls://176.215.237.83:2756" // RU-IRK-HOST-E52B`
+  * `tcp://176.215.237.83:2755` - RU-IRK-HOST-E52B
+  * `tls://176.215.237.83:2756` - RU-IRK-HOST-E52B
 
 * Moscow, home public node, operated by [TomasGl](https://vk.com/tmsconsole)
   * `tcp://95.165.99.143:61933`

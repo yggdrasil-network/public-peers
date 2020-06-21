@@ -3,10 +3,6 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-### California
-* Irvine, operated by [kylerchin](https://github.com/kylerchin)
-  * `tcp://[2600:8802:2300:bb6:6d53:e9b:c0aa:58ce]:46650`
-
 ### Massachusetts
 
 * Boston, operated by [Stephen304](https://github.com/stephen304)
@@ -16,10 +12,6 @@ Yggdrasil configuration file to peer with these nodes.
   * babcock.piratemesh.net
     * Allston
     * `tcp://64.112.177.94:1617`
-
-  * compose.piratemesh.net
-    * Somerville
-    * `tls://192.34.85.155:443`
 
   * drydock.piratemesh.net
     * Seaport, Boston
@@ -39,15 +31,8 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### New Jersey
 
-* Newark, operated by [Philly Mesh](https://phillymesh.net)
-  * `tcp://45.76.166.128:12345`
-  * `tcp://[2001:19f0:5:6ed:5400:ff:fe5f:94f7]:12345`
-
 * Piscataway, operated by [Asymptote Club](https://asymptote.club)
   * `tcp://45.77.107.150:34660`
-  * `tcp://[2001:19f0:5:2c95:5400:1ff:fe46:9c]:34660`
-  * `tcp://63.209.33.47:58149`
-  * `tcp://[2001:19f0:5:2a83:5400:1ff:fe89:44db]:58149`
 
 ### New York
 
@@ -74,12 +59,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Dallas, operated by [BAN AI Systems](https://ban.ai/)
   * `tcp://198.58.100.240:44478`
   * `tcp://[2600:3c00::f03c:91ff:feae:3efa]:44478`
-
-### Washington
-
-* Seattle, operated by [Philly Mesh](https://phillymesh.net)
-  * `tcp://167.88.124.177:12345`
-  * `tcp://[2604:180:1:568::beef]:12345`
 
 ### Georgia
 
