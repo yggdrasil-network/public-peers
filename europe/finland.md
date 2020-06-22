@@ -3,8 +3,8 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Helsinki, Hetzhner, operated by [samip537/samip5](https://samip.fi)
-  * `tcp://95.216.230.135:65444`
-  * `tcp://[2a01:4f9:2b:f800::2]:6544`
-  * `tls://95.216.230.135:65445`
-  * `tls://[2a01:4f9:2b:f800::2]:65445`
+* Helsinki, Hetzner, operated by [samip537/samip5](https://samip.fi)
+  * `tcp://vyos.v4.hel1.servers.devices.y.samip.fi:65444`
+  * `tcp://vyos.v6.hel1.servers.devices.y.samip.fi:65444`
+  * `tls://vyos.v4.hel1.servers.devices.y.samip.fi:65445`
+  * `tls://vyos.v6.hel1.servers.devices.y.samip.fi:65445`
