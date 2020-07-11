@@ -19,7 +19,7 @@ Yggdrasil configuration file to peer with these nodes.
 
   * fawcett.piratemesh.net
     * North Cambridge
-    * `tcp://64.112.178.178:1617`
+    * `tcp://64.112.182.182:1617`
 
   * hancock.piratemesh.net
     * Boston
