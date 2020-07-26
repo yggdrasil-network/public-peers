@@ -26,6 +26,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://88.201.129.205:8778`
   * `tls://[2a05:3580:d900:1b13:e2d5:5eff:fed8:8b86]:8778`
 
+* Saint Petersburg public node by [AveryanAlex](https://t.me/averyanalex)
+  * `tcp://89.223.121.211:5353`
+  * `tcp://[2a03:6f00:5:1::59df:79d3]:5353`
+  * `tls://89.223.121.211:3535`
+  * `tls://[2a03:6f00:5:1::59df:79d3]:3535`
+
 * Nizhniy Novgorod, home user public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
   * `tcp://95.79.97.17:50001`
 
