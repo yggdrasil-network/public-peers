@@ -45,3 +45,4 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * Moscow, home public node, operated by [TomasGl](https://vk.com/tmsconsole)
   * `tcp://95.165.99.143:61933`
+  * `tls://95.165.99.143:61944`
