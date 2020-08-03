@@ -30,6 +30,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://89.223.121.211:5353` (working)
   * `tcp://[2a03:6f00:5:1::59df:79d3]:5353` (should work)
 
+* Ufa home user public node, operated by [tdemin](https://tdem.in), *rate-limited to 100 Mbit/s*
+  * `tcp://lan.tdem.in:50001`
+
 * Nizhniy Novgorod, home user public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
   * `tcp://95.79.97.17:50001`
 
