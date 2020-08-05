@@ -19,6 +19,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * loskiq public node, Saint Petersburg, operated by [loskiq](https://loskiq.com)
   * `tcp://ygg.loskiq.com:17313`
+  * `tls://ygg.loskiq.com:17314`
 
 * Saint Petersburg public node
   * `tcp://88.201.129.205:8777`
