@@ -7,8 +7,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, standalone server
   * `tcp://194.177.21.156:5066`
   
-* [Network neighborhood](https://netwhood.online/) public node, Moscow Oblast, Podolsk, ALDIS Telecom Ltd, operated by [abslimit](http://netwhood.online/feedback/)
+* [Network neighborhood](https://netwhood.online/) public node, Moscow Oblast, Podolsk, ALDIS Telecom Ltd. [Feedback contacts](http://netwhood.online/feedback/). Operated by [abslimit](https://mstdn.netwhood.online/@abslimit)
   * `tcp://46.151.26.194:60575`
+  * `tls://46.151.26.194:8443`
 
 * Yekaterinburg, home user public node, operated by [pztrn](https://pztrn.name), *rate-limited to 100 Mbit/s*
   * `tcp://188.226.125.64:54321`
