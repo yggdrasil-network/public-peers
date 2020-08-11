@@ -12,3 +12,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Kiev, operated by [mvvpt](mvvpt0@bigmir.net)
   * `tls://78.27.153.163:33166`
+
+* Odessa, operated by [commagray](https://github.com/commagray)
+  * `tcp://glimmy.092918.xyz:50001`
+  * `tls://glimmy.092918.xyz:58008`
