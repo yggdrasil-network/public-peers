@@ -11,4 +11,5 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://141.105.132.110:20001`
 
 * Kiev, operated by [mvvpt](mvvpt0@bigmir.net)
+  * `tcp://78.27.153.163:33165`
   * `tls://78.27.153.163:33166`
