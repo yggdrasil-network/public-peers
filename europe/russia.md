@@ -52,4 +52,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://176.215.237.83:2756` - RU-IRK-HOST-E52B
 
 * Moscow, home public node, operated by [TomasGl](https://vk.com/tmsconsole)
-  * `tcp://95.165.99.143:61933`
+  * `tcp://vps.tomasgl.ru:61933`
+  * `tls://vps.tomasgl.ru:61944`
