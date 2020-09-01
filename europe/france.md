@@ -7,10 +7,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://51.15.204.214:12345`
 
 * Roubaix, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
-  * `tcp://51.255.223.60:64982`
-  * `tcp://[2001:41d0:2:c44a:51:255:223:60]:64982`
-  * `tls://51.255.223.60:23443`
-  * `tls://[2001:41d0:2:c44a:51:255:223:60]:23443`
+  * `tcp://51.255.223.60:26409`
+  * `tcp://[2001:41d0:2:c44a:51:255:223:60]:26409`
+  * `tls://51.255.223.60:10259`
+  * `tls://[2001:41d0:2:c44a:51:255:223:60]:10259`
 
 * Strasbourg, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://46.105.92.61:62506`
