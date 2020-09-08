@@ -54,3 +54,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, home public node, operated by [TomasGl](https://vk.com/tmsconsole)
   * `tcp://vps.tomasgl.ru:61933`
   * `tls://vps.tomasgl.ru:61944`
+  
+  
+* Moscow, home public node, operated by [Nikat](https://t.me/nikat_meh), *rate-limited to 100 Mbit/s*
+  * `tcp://yggnode.ddns.net:18226
+  * `tcp://yggnode.ddns.net:18228
+
+  * `tls://yggnode.ddns.net:18227
+  * `tls://yggnode.ddns.net:18229
