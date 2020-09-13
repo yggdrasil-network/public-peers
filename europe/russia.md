@@ -37,10 +37,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://lan.tdem.in:50001`
   * `tls://lan.tdem.in:50002`
 
-* Nizhniy Novgorod, home user public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
-  * `tcp://95.79.97.17:50001`
-  * `tls://95.79.97.17:50002`
-
 * Novosibirsk public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 200 Mbit/s*
   * `tcp://91.206.93.65:1333` - RU-NVS-HOST-D35E
   * `tcp://[2a00:b700:2::6:69]:1333` - RU-NVS-HOST-D35E
