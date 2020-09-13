@@ -28,6 +28,12 @@ Yggdrasil configuration file to peer with these nodes.
   * roxbury.piratemesh.net
     * Roxbury
     * `tcp://64.112.176.176:1617`
+    
+### Minnesota
+
+* Minneapolis, operated by [Stephanie](https://github.com/RX14)
+  * `tcp://lancis.iscute.moe:49273`
+  * `tls://lancis.iscute.moe:49274`
 
 ### New Jersey
 
