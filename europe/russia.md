@@ -57,3 +57,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
   * `tls://yggnode.ddns.net:18227`
   * `tls://yggnode.ddns.net:18229`
+ 
+* Nizhniy Novgorod node, operated by [Tolstoevsky](https://tolstoevsky.ml)
+  * `tcp://95.79.25.190:50001`
+  * `tls://95.79.25.190:50002`
