@@ -33,7 +33,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://88.201.129.205:8778`
   * `tls://[2a05:3580:d900:1b13:e2d5:5eff:fed8:8b86]:8778`
 
-* Saint Petersburg, public node by [AveryanAlex](https://t.me/averyanalex)
+* Saint Petersburg, public node, operated by [AveryanAlex](https://t.me/averyanalex)
   * `tcp://89.223.121.211:5353` (working)
   * `tcp://[2a03:6f00:5:1::59df:79d3]:5353` (should work)
   
@@ -71,5 +71,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   
   
 ### Unknown
-* Public node operated by ne-vlezay80
+* Public node, operated by ne-vlezay80
   * `tls://[2a01:d0:ffff:4353::2]:6010`
