@@ -40,6 +40,10 @@ Yggdrasil configuration file to peer with these nodes.
 * Piscataway, operated by [Asymptote Club](https://asymptote.club)
   * `tcp://45.77.107.150:34660`
 
+* Piscataway, operated by [1200bps](https://longseason.1200bps.xyz)
+  * `tcp://longseason.1200bps.xyz:13121`
+  * `tls://longseason.1200bps.xyz:13122`
+
 ### New York
 
 * New York City, operated by [sandpile.net](https://sandpile.net)
