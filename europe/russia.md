@@ -5,10 +5,6 @@ Operators of Yggdrasil public peers in Russia should consider joining the [Russi
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.
 
 ### Moscow
-* Moscow, standalone server
-  * `tcp://194.177.21.156:5066`
-  * `tls://194.177.21.156:5068`
-  
 * Moscow Oblast, Podolsk, [Network neighborhood](https://netwhood.online/) public node, ALDIS Telecom Ltd. [Feedback contacts](http://netwhood.online/feedback/). Operated by [abslimit](https://mstdn.netwhood.online/@abslimit)
   * `tcp://46.151.26.194:60575`
   * `tls://46.151.26.194:8443`
