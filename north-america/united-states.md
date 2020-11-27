@@ -69,9 +69,3 @@ Yggdrasil configuration file to peer with these nodes.
 * Dallas, operated by [BAN AI Systems](https://ban.ai/)
   * `tcp://198.58.100.240:44478`
   * `tcp://[2600:3c00::f03c:91ff:feae:3efa]:44478`
-
-### Georgia
-
-* Atlanta (Vultr), operated by [WebCookies.org](https://webcookies.org).
-  * `tcp://[2001:19f0:5401:272a:5400:2ff:fe21:7a26]:8082`
-  * `tcp://hindsight.krvtz.net:8082`
