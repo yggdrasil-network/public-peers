@@ -41,17 +41,17 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   
   
 ### Novosibirsk
-* Novosibirsk, public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 200 Mbit/s*
-  * `tcp://91.206.93.65:1333` - RU-NVS-HOST-D35E
-  * `tcp://[2a00:b700:2::6:69]:1333` - RU-NVS-HOST-D35E
-  * `tls://91.206.93.65:1444` - RU-NVS-HOST-D35E
-  * `tls://[2a00:b700:2::6:69]:1444` - RU-NVS-HOST-D35E
+* Novosibirsk, public node, operated by [Saiv46](https://t.me/Saiv46), *bandwidth from 200 Mbps to 1 Gbps*
+  * `tcp://91.206.93.65:1333`
+  * `tcp://[2a00:b700:2::6:69]:1333`
+  * `tls://91.206.93.65:1444`
+  * `tls://[2a00:b700:2::6:69]:1444`
 
 
 ### Irkutsk
-* Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 100 Mbit/s*
-  * `tcp://176.215.237.83:2755` - RU-IRK-HOST-E52B
-  * `tls://176.215.237.83:2756` - RU-IRK-HOST-E52B
+* Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46), *bandwidth from 60 Mbps to 250 Mbps* (__NO UPTIME GUARANTEES__)
+  * `tcp://176.215.237.83:2755`
+  * `tls://176.215.237.83:2756` **(DEPRECATED)**
 
 
 ### Nizhniy Novgorod 
