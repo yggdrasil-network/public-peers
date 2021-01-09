@@ -14,8 +14,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://vps.tomasgl.ru:61944`
 
 * Moscow, vps public node, operated by [Nikat](https://t.me/nikat_meh)
-  * `tcp://yggnode.ddns.net:18228`
-  * `tls://yggnode.ddns.net:18229`
+  * `tcp://yggnode.cf:18228`
+  * `tls://yggnode.cf:18229`
   
   
 ### Saint Petersburg
