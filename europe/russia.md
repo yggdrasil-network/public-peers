@@ -17,15 +17,15 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://yggnode.cf:18228`
   * `tls://yggnode.cf:18229`
   
-  
+  * Moscow, vps public node, operated by [AveryanAlex](https://t.me/averyanalex) *Rate-limited to 75 Mbit/s*
+  * `tcp://37.230.116.83:5353`
+  * `tcp://[2a01:230:2::208]:5353`
+
+
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
   * `tcp://ygg.loskiq.dev:17313`
   * `tls://ygg.loskiq.dev:17314`
-
-* Saint Petersburg, public node, operated by [AveryanAlex](https://t.me/averyanalex)
-  * `tcp://89.223.121.211:5353` (working)
-  * `tcp://[2a03:6f00:5:1::59df:79d3]:5353` (should work)
   
   
 ### Yekaterinburg
