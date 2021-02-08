@@ -10,3 +10,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Mauern, [Phreedom](https://phreedom.tk) public node, operated by [Tolstoevsky](https://phreedom.tk/@tolstoevsky)
   * `tcp://45.11.19.26:5001`
   * `tls://45.11.19.26:5002`
+
+* Frankfurt, public node on free Oracle Cloud server, operated by [vechur](https://mstdn.netwhood.online/@vechur)
+  * `tcp://130.61.65.117:80`
+  * `tls://130.61.65.117:443`
