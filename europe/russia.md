@@ -41,18 +41,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://lan.tdem.in:50002`
 
 
-### Novosibirsk
-* Novosibirsk, public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 200 Mbps*
-  * `tcp://nsk.peering.flying-squid.host:8080?ed25519=f15dceb84a40697471b68f4c04b3620c734478a782e7d844fe2be6ff52ef1f6f`
-  * `tls://nsk.peering.flying-squid.host:8433?ed25519=f15dceb84a40697471b68f4c04b3620c734478a782e7d844fe2be6ff52ef1f6f`
-  * ~~`tcp://91.206.93.65:1333`~~ **(DEPRECATED)**
-  * ~~`tcp://[2a00:b700:2::6:69]:1333`~~ **(DEPRECATED)**
-  * ~~`tls://91.206.93.65:1444`~~ **(DEPRECATED)**
-  * ~~`tls://[2a00:b700:2::6:69]:1444`~~ **(DEPRECATED)**
-
-
 ### Irkutsk
-* Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46), *rate-limited to 250 Mbps*
+* Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46), *bandwidth up to 250 Mbps*
   * `tcp://irk.peering.flying-squid.host:8080?ed25519=3e77f7671788b8853860b60e9941d12bf539a7f4d2bd7f00e8c36ead9e12c7b2`
   * `tls://irk.peering.flying-squid.host:8433?ed25519=3e77f7671788b8853860b60e9941d12bf539a7f4d2bd7f00e8c36ead9e12c7b2`
   * ~~`tcp://176.215.237.83:2755`~~ **(DEPRECATED)**
