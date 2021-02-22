@@ -54,11 +54,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://176.215.237.83:2756` **(DEPRECATED)**
 
 
-### Nizhniy Novgorod 
-* Nizhniy Novgorod, node, operated by [Tolstoevsky](https://tolstoevsky.ml)
-  * `tcp://95.79.25.190:50001`
-  * `tls://95.79.25.190:50002`
-  
   
 ### Unknown
 * Public node, operated by ne-vlezay80
