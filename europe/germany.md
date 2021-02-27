@@ -12,3 +12,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://45.11.19.26:5002`
   * `tcp://45.138.172.192:5001`
   * `tls://45.138.172.192:5002`
+
+* Frankfurt, public node on free Oracle Cloud server, operated by [vechur](https://mstdn.netwhood.online/@vechur)
+  * `tcp://130.61.65.117:80`
+  * `tls://130.61.65.117:443`
