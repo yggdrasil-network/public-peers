@@ -16,3 +16,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, public node on free Oracle Cloud server, operated by [vechur](https://mstdn.netwhood.online/@vechur)
   * `tcp://130.61.65.117:80`
   * `tls://130.61.65.117:443`
+
+* Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server
+  * `tcp://94.130.203.208:5999`
