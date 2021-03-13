@@ -20,4 +20,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Paris, Online SAS, operated by [R4SAS](https://github.com/r4sas)
   * `tcp://212.129.52.193:39565`
+  * `tcp://[2001:470:1f13:e56::64]:39565`
   * `tls://212.129.52.193:39575`
+  * `tls://[2001:470:1f13:e56::64]:39575`
