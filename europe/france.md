@@ -17,3 +17,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://[2001:470:1f13:e56::64]:39565`
   * `tls://212.129.52.193:39575`
   * `tls://[2001:470:1f13:e56::64]:39575`
+
+* Paris, Online SAS, operated by [babz](https://tfnux.org)
+  * `tcp://163.172.26.210:25348`
+  * `tcp://[2001:bc8:2495:100::1]:25349`
