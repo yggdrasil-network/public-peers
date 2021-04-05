@@ -16,3 +16,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Amsterdam, operated by [deb](https://ysl.su)
   * `tcp://51.15.118.10:62486`
   * `tcp://[2001:bc8:1820:192f::1]:62486`
+
+* Amsterdam, operated by [babz](https://tfnux.org)
+  * `tcp://51.15.3.66:23752`
+  * `tcp://[2001:bc8:2495:200::1]:23753`
