@@ -17,3 +17,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server
   * `tcp://94.130.203.208:5999`
+
+* Public node hosted on msk.host (500 Mbit/s), operated by @cofob:kde.org (matrix)
+  * `tcp://51.89.92.114:5555`
+  * `tls://51.89.92.114:5556`
