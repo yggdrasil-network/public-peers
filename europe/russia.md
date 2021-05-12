@@ -22,6 +22,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://37.230.116.83:5353`
   * `tcp://[2a01:230:2::208]:5353`
 
+* Moscow, vps public node, operated by [Shurale](https://github.com/shurale) *Rate-limited to 100 Mbit/s*
+  * `tcp://185.228.233.50:60575`
+  * `tls://185.228.233.50:8443`
+
 
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
