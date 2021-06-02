@@ -21,3 +21,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Public node hosted on msk.host (500 Mbit/s), operated by @cofob:kde.org (matrix)
   * `tcp://51.89.92.114:5555`
   * `tls://51.89.92.114:5556`
+
+* Nuremberg, node hosted on a small Homeserver, 100mbit/s connection/bandwidth
+  * `tcp://bunkertreff.ddns.net:5454`
