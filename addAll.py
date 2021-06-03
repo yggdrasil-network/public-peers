@@ -35,23 +35,31 @@ if __name__ == "__main__":
     group.add_argument('-b', '--blacklist', help='blacklists peer file (delimited by space)')
     group.add_argument('-w', '--whitelist', help='whitelists peer file (delimited by space)')
     parser.add_argument('-d', '--peer-directory', default='.', help='peer directory (default pwd)')
+    parser.add_argument('-p', '--protocol', help='only show specified protocol (delimited by space) (default tcp, tls for -46a and all for everything else)')
     parser.add_argument('-4', '--ipv4', help='only show ipv4 peers', action='store_true')
     parser.add_argument('-6', '--ipv6', help='only show ipv6 peers', action='store_true')
     parser.add_argument('-a', '--dns', help='only show dns peers', action='store_true')
     args = parser.parse_args()
     if args.blacklist is not None:
-        args.blacklist.split(' ')
+        args.blacklist = args.blacklist.split(' ')
     if args.whitelist is not None:
-        args.whitelist.split(' ')
+        args.whitelist = args.whitelist.split(' ')
+    if args.protocol is not None:
+        args.protocol = args.protocol.split(' ')
+    else:
+        if (args.ipv4 or args.ipv6 or args.dns):
+            args.protocol = ['tcp','tls']
+        else:
+            args.protocol = ['tcp','tls','socks']
 
     for root, dirs, files in os.walk(args.peer_directory):
         if os.path.relpath(root, args.peer_directory) not in ['asia', 'europe', 'north-america', 'other', 'south-america']:
             continue
 
         for file in files:
-            if args.blacklist is not None and file.split('.')[0].lower() in args.blacklist.split('.')[0].lower():
+            if args.blacklist is not None and file.split('.')[0].lower() in [ x.split('.')[0].lower() for x in args.blacklist ]:
                 continue
-            if args.whitelist is not None and file.split('.')[0].lower() not in args.whitelist.split('.')[0].lower():
+            if args.whitelist is not None and file.split('.')[0].lower() not in [ x.split('.')[0].lower() for x in args.whitelist ]:
                 continue
 
             try:
@@ -59,10 +67,11 @@ if __name__ == "__main__":
                     with open(os.path.join(root, file), 'r') as f:
                         for line in f:
                             for match in re.findall(r'\*\s*`(.*?)`', line):
+                                proto = match.split(':')[0]
+                                if proto not in args.protocol: continue
+
                                 if args.ipv4 or args.ipv6 or args.dns:
-                                    proto = match.split(':')[0]
                                     host = match.split('/')[2]
-                                    if proto not in ['tcp','tls']: continue
 
                                     try:
                                         if args.ipv4 and is_ipv4(host.split(':')[0]):
