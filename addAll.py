@@ -19,14 +19,14 @@ def is_ipv6(value):
     except:
         return False
 
-def check_if_domain(value):
+def is_domain(value):
     # Regex from https://github.com/kvesteri/validators/blob/master/validators/domain.py#L5-L10
     return re.match(
         r'^(?:[a-zA-Z0-9]'  # First character of the domain
         r'(?:[a-zA-Z0-9-_]{0,61}[A-Za-z0-9])?\.)'  # Sub domain + hostname
         r'+[A-Za-z0-9][A-Za-z0-9-_]{0,61}'  # First 61 characters of the gTLD
         r'[A-Za-z]$'  # Last character of the gTLD
-        , value.split(':')[0]
+        , value.encode('idna').decode('ascii')
     )
 
 if __name__ == "__main__":
@@ -52,19 +52,16 @@ if __name__ == "__main__":
         else:
             args.protocol = ['tcp','tls','socks']
 
-    for root, dirs, files in os.walk(args.peer_directory):
-        if os.path.relpath(root, args.peer_directory) not in ['asia', 'europe', 'north-america', 'other', 'south-america']:
-            continue
-
-        for file in files:
+    for dir in ['asia', 'europe', 'north-america', 'other', 'south-america']:
+        for file in os.listdir(os.path.join(args.peer_directory, dir)):
             if args.blacklist is not None and file.split('.')[0].lower() in [ x.split('.')[0].lower() for x in args.blacklist ]:
                 continue
             if args.whitelist is not None and file.split('.')[0].lower() not in [ x.split('.')[0].lower() for x in args.whitelist ]:
                 continue
 
             try:
-                if file.split('.')[-1] == 'md':
-                    with open(os.path.join(root, file), 'r') as f:
+                if file.split('.')[-1] == 'md' and os.path.isfile(os.path.join(args.peer_directory, dir, file)):
+                    with open(os.path.join(args.peer_directory, dir, file), 'r') as f:
                         for line in f:
                             for match in re.findall(r'\*\s*`(.*?)`', line):
                                 proto = match.split(':')[0]
@@ -88,7 +85,7 @@ if __name__ == "__main__":
                                         pass
 
                                     try:
-                                        if args.dns and check_if_domain(host):
+                                        if args.dns and is_domain(host.split(':')[0]):
                                                 print(match)
                                                 continue
                                     except:
