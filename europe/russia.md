@@ -59,3 +59,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Unknown
 * Public node, operated by ne-vlezay80
   * `tls://[2a01:d0:ffff:4353::2]:6010`
+
+
+### Omsk
+* Omsk, home user public node, operated by [Kesha](https://matrix.to/#/@keshapsix:matrix.org)
+  * `tcp://92.124.136.131:30111`
