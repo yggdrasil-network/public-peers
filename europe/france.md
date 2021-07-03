@@ -4,7 +4,8 @@ Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
 * Paris, operated by [Arceliar](https://github.com/Arceliar)
-  * `tcp://51.15.204.214:12345`
+  * `tcp://51.15.204.214:12345/?key=0000000230d4e2faac3a016ed5a5541a1e89bf6640ffd1e083be71e8dae575db`
+  * `tls://51.15.204.214:54321/?key=0000000230d4e2faac3a016ed5a5541a1e89bf6640ffd1e083be71e8dae575db`
 
 * Roubaix, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
   * `tcp://51.255.223.60:26409`
