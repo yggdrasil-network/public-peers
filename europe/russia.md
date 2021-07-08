@@ -28,6 +28,14 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, vps public node, operated by [AleksdemSA](https://github.com/AleksdemSA)
   * `tls://185.22.60.71:8443`
 
+* Public node hosted on msk.host (500 Mbit/s), operated by [cofob](https://t.me/cofob).
+  * `tcp://ygg-ru.cofob.ru:18000`
+  * `tls://ygg-ru.cofob.ru:18001`
+
+* Public node hosted on msk.host (200 Mbit/s), operated by [cofob](https://t.me/cofob).
+  * `tcp://ygg-ru2.cofob.ru:80`
+  * `tls://ygg-ru2.cofob.ru:443`
+
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
   * `tcp://ygg.loskiq.dev:17313`
