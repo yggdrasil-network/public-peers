@@ -21,4 +21,4 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
   * `socks://localhost:4447/ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565`
 
 * I2P Node (I2Pd), operated by [TomasGl](https://tomasgl.ru)
-  * `socks://localhost:4447/5cejostqhllvdnbjgmtsua46z6wt5eiecirljvthlz45yvn5hswa.b32.i2p:61933`
+  * `socks://localhost:4447/5cejostqhllvdnbjgmtsua46z6wt5eiecirljvthlz45yvn5hswa.b32.i2p:61944`
