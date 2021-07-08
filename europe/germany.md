@@ -22,5 +22,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://51.89.92.114:5555`
   * `tls://51.89.92.114:5556`
 
+* Public node hosted on msk.host (200 Mbit/s), operated by cofob.
+  * `tcp://ygg.cofob.ru:80`
+  * `tls://ygg.cofob.ru:443`
+
 * Nuremberg, node hosted on a small Homeserver, 100mbit/s connection/bandwidth
   * `tcp://bunkertreff.ddns.net:5454`
