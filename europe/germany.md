@@ -24,3 +24,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Nuremberg, node hosted on a small Homeserver, 100mbit/s connection/bandwidth
   * `tcp://bunkertreff.ddns.net:5454`
+
+* Frankfurt, active 1 GmbH, dedicated, 10Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
+  * `tcp://yugudorashiru.de:80`
+  * `tls://yugudorashiru.de:443`
