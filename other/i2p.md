@@ -19,3 +19,6 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 
 * I2P Node (I2Pd, sigtype = 7, in/out length = 1, quantity = 5), operated by [R4SAS](https://github.com/r4sas)
   * `socks://localhost:4447/ro7bwwx7ch6echfqwgivsi37tgojgcrjosgq5jrgx5ebadu4xsaq.b32.i2p:39565`
+
+* I2P Node (I2Pd), operated by [TomasGl](https://tomasgl.ru)
+  * `socks://localhost:4447/5cejostqhllvdnbjgmtsua46z6wt5eiecirljvthlz45yvn5hswa.b32.i2p:61944`
