@@ -23,3 +23,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Amsterdam, operated by [babz](https://tfnux.org)
   * `tcp://51.15.3.66:23752`
   * `tcp://[2001:bc8:2495:200::1]:23753`
+
+* Rotterdam, operated by [tomz](https://gitlab.com/tomzander)
+  * `tls://77.95.229.240:62486`
+  * `tls://[2a00:7b80:3013::1]:62486`
