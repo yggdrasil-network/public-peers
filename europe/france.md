@@ -3,6 +3,11 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
+* Gravelines, OVH, operated by [cwinfo](https://cwinfo.net) and [cwchristerw](https://christerwaren.fi)
+  * `tls://fr2.servers.devices.cwinfo.net:23108`
+  * `tls://152.228.216.112:23108`
+  * `tls://[2001:41d0:304:200::ace3]:23108`
+
 * Paris, operated by [Arceliar](https://github.com/Arceliar)
   * `tcp://51.15.204.214:12345`
   * `tls://51.15.204.214:54321`
