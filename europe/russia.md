@@ -74,3 +74,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Omsk
 * Omsk, home user public node, operated by [Kesha](https://matrix.to/#/@keshapsix:matrix.org)
   * `tcp://92.124.136.131:30111`
+
+### Krasnoyarsk
+* Krasnoyarsk, public node, operated by [multed](https://multed.com/about)
+  * `tcp://itcom.multed.com:7991`
