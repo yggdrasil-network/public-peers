@@ -62,8 +62,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46), *bandwidth up to 250 Mbps*
   * `tcp://irk.peering.flying-squid.host:8080`
   * `tls://irk.peering.flying-squid.host:8433`
-  * ~~`tcp://176.215.237.83:2755`~~ **(DEPRECATED)**
-  * ~~`tls://176.215.237.83:2756`~~ **(DEPRECATED)**
 
 
 ### Unknown
