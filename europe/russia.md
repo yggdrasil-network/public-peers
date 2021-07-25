@@ -21,10 +21,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, home public node, operated by [AveryanAlex](https://t.me/averyanalex) *Up to 200 Mbit/s*
   * `tcp://95.165.99.73:5353`
 
-* Moscow, vps public node, operated by [Shurale](https://github.com/shurale) *Rate-limited to 100 Mbit/s*
-  * `tcp://185.228.233.50:60575`
-  * `tls://185.228.233.50:8443`
-
 * Moscow, vps public node, operated by [AleksdemSA](https://github.com/AleksdemSA)
   * `tls://185.22.60.71:8443`
 
@@ -41,16 +37,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://ygg.loskiq.dev:17313`
   * `tls://ygg.loskiq.dev:17314`
 
-* Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s*
-  * `tcp://box.paulll.cc:13337`
-  * `tls://box.paulll.cc:13338`
-
-
-### Yekaterinburg
-* Yekaterinburg, home user public node, operated by [pztrn](https://pztrn.name), *rate-limited to 100 Mbit/s*
-  * `tcp://188.226.125.64:54321`
-  * `tcp://[2a02:17d0:1b4:bddd::7]:54321`
-
 
 ### Ufa
 * Ufa, home user public node, operated by [tdemin](https://tdem.in), *rate-limited to 100 Mbit/s*
@@ -62,8 +48,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46), *bandwidth up to 250 Mbps*
   * `tcp://irk.peering.flying-squid.host:8080`
   * `tls://irk.peering.flying-squid.host:8433`
-  * ~~`tcp://176.215.237.83:2755`~~ **(DEPRECATED)**
-  * ~~`tls://176.215.237.83:2756`~~ **(DEPRECATED)**
 
 
 ### Unknown
