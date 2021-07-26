@@ -6,3 +6,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Kiev, operated by [mvvpt](mvvpt0@bigmir.net)
   * `tcp://78.27.153.163:33165`
   * `tls://78.27.153.163:33166`
+* Bila Tserkva, operated by [ufm](ufm@ufm.lol)
+  * `tcp://193.111.114.28:8080`
+  * `tls://193.111.114.28:1443`
