@@ -62,3 +62,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Krasnoyarsk
 * Krasnoyarsk, public node, operated by [multed](https://multed.com/about)
   * `tcp://itcom.multed.com:7991`
+
+### Yekaterinburg
+* Yekaterinburg, home user public node, operated by [lolechka](https://t.me/lolichga)
+  * `tcp://ygg.legalloli.net:28001`
+  * `tls://ygg.legalloli.net:28002`
