@@ -12,4 +12,4 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://193.111.114.28:1443`
 
 * Stakhanov, operated by [gena](https://t.me/gennadykataev)
-  * `tls://91.224.254.114:5222`
+  * `tls://91.224.254.114:18001`
