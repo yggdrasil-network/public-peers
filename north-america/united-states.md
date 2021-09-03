@@ -39,3 +39,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Lenexa, operated by [jcgruenhage](https://jcg.re)
   * `tcp://108.175.10.127:61216`
   * `tcp://[2607:f1c0:1801:d4::1]:61216`
+
+### Texas
+* Dallas, TX operated by [IncogNET](https://incognet.io)
+ * `tcp://ygg-tx-us.incognet.io:8883`
+ * `tls://ygg-tx-us.incognet.io:8884`
