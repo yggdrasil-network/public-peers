@@ -24,3 +24,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, active 1 GmbH, dedicated, 10Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
   * `tcp://yugudorashiru.de:80`
   * `tls://yugudorashiru.de:443`
+
+* Heilbronn, public node hosted on a Homeserver, 50 mbit/s, operated by [phrl](http://phrl42.ydns.eu)
+  *  `tcp://phrl42.ydns.eu:8842`
