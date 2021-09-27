@@ -44,3 +44,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Dallas, TX operated by [IncogNET](https://incognet.io)
  * `tcp://ygg-tx-us.incognet.io:8883`
  * `tls://ygg-tx-us.incognet.io:8884`
+
+### Washington
+* Eatonville, WA operated by [2CS3505](tba)
+ * `tls://200:1739:db5e:8cfe:14ce:ba7e:c683:9274`
