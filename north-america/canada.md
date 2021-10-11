@@ -16,3 +16,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Toronto, operated by [bbigras](https://matrix.to/#/@bbigras:matrix.org)
   * `tcp://159.203.12.215:1010`
   * `tls://159.203.12.215:1020`
+
+### Alberta
+
+* Rivercourse, operated by [planex](https://planex.me)
+  * `tls://[200:79ec:8a4b:96c6:fd:579b:8e6d:6ebf]:1070`
+  * `tls://ca-ygg-peer.planex.me:1070`
