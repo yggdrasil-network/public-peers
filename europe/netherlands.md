@@ -6,10 +6,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Meppel, operated by Zina Korzina
   * `tls://94.103.82.150:8080`
 
-* Amsterdam, operated by [Piele / CreativeServer.Net](https://github.com/petertambach)
-  * `tcp://85.17.15.221:35239`
-  * `tcp://[2001:1af8:4700:a119:7::1]:35239`
-
 * Amsterdam, operated by [Rostyslav Sotnychenko](https://github.com/rsotnychenko)
   * `tcp://ams1.y.sota.sh:8080` (both IPv4 and IPv6 are supported)
 
