@@ -5,4 +5,4 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Almaty 
 
 * Almaty, VPS public node (up to 100 Mbit/s), operated by [BratishkaErik](https://t.me/BratishkaErik)
-  * `tls://minecast.xyz:2020`
+  * `tls://194.146.43.53:2020`
