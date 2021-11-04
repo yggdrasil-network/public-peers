@@ -29,7 +29,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ygg-ru.cofob.ru:18001`
 
 * Public node operated by [pvsur].
-  * `tls://217.174.178.101:8443`
+  * `tls://217.174.178.102:8443`
 
 
 ### Saint Petersburg
