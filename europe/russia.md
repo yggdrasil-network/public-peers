@@ -24,9 +24,13 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, vps public node, operated by [AleksdemSA](https://github.com/AleksdemSA)
   * `tls://185.22.60.71:8443`
 
-* Public node, operated by [cofob](https://t.me/cofob)
-  * `tcp://ygg-ru.cofob.ru:18000`
-  * `tls://ygg-ru.cofob.ru:18001`
+* Public node, operated by [@cofob:cofob.ru](https://matrix.to/#/@cofob:cofob.ru)
+  * `tcp://kazi.peer.cofob.ru:18000`
+  * `tls://kazi.peer.cofob.ru:18001`
+
+* Public node, operated by [@cofob:cofob.ru](https://matrix.to/#/@cofob:cofob.ru)
+  * `tcp://toki.peer.cofob.ru:80`
+  * `tls://toki.peer.cofob.ru:443`
 
 * Public node operated by [pvsur].
   * `tls://217.174.178.101:8443`
