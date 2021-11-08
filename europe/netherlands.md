@@ -16,10 +16,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://51.15.118.10:62486`
   * `tcp://[2001:bc8:1820:192f::1]:62486`
 
-* Rotterdam, operated by [tomz](https://gitlab.com/tomzander)
-  * `tls://77.95.229.240:62486`
-  * `tls://[2a00:7b80:3013:bc5::]:62486`
-
 * Naaldwijk, operated by [IncogNET](https://incognet.io)
   * `tcp://ygg-nl.incognet.io:8883`
   * `tls://ygg-nl.incognet.io:8884`
