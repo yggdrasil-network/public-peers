@@ -49,3 +49,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
   *  `tls://167.160.89.98:7040`
   *  `tls://[2605:9f80:2000:64::2]:7040`
+
+### Ohio
+* Delaware, OH operated by [herronjo](https://joshiepoo.com)
+  * `tcp://[2001:470:c177:2:216:3eff:fe8f:264f]:13121`
+  * `tls://[2001:470:c177:2:216:3eff:fe8f:264f]:13122`
