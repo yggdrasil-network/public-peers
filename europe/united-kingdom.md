@@ -12,3 +12,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * London, operated by [Tom Snelling](https://tdjs.tech)
   * `tcp://curiosity.tdjs.tech:30003`
+
+* Stratagem Hosting, operated by mkb2091
+  * `tls://185.175.90.87:43006`
+  * `tls://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006`
