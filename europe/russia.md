@@ -62,6 +62,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Omsk
 * Omsk, home user public node, operated by [Kesha](https://matrix.to/#/@keshapsix:matrix.org)
   * `tcp://92.124.136.131:30111`
+* Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
+  * `tcp://srv.itrus.su:7991`
 
 ### Krasnoyarsk
 * Krasnoyarsk, public node, operated by [multed](https://multed.com/about)
@@ -71,3 +73,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Yekaterinburg, home user public node, operated by [lolechka](https://t.me/lolichga)
   * `tcp://ygg.legalloli.net:28001`
   * `tls://ygg.legalloli.net:28002`
+* Yekaterinburg, home public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 300 Mbps*
+  * `tcp://ekb.itrus.su:7991`
