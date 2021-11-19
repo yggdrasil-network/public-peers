@@ -6,6 +6,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 
 ### Gomel
-* Gomel Oblast
+* Gomel region
   * `tcp://yggby.ddns.net:7991`
   * `tls://yggby.ddns.net:7992`
