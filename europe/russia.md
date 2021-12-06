@@ -32,9 +32,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://toki.peer.cofob.ru:80`
   * `tls://toki.peer.cofob.ru:443`
 
-* Public node operated by [pvsur].
-  * `tls://217.174.178.102:8443`
-
 
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
