@@ -21,5 +21,5 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-nl.incognet.io:8884`
 
 * Haarlem, Tilaa, VPS, 1Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
-  * `tcp://bsdler.de:80`
-  * `tls://bsdler.de:443`
+  * `tcp:/01.hrl.nld.ygg.yt:80`
+  * `tls://01.hrl.nld.ygg.yt:443`
