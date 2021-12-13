@@ -19,3 +19,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Naaldwijk, operated by [IncogNET](https://incognet.io)
   * `tcp://ygg-nl.incognet.io:8883`
   * `tls://ygg-nl.incognet.io:8884`
+
+* Haarlem, Tilaa, VPS, 1Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
+  * `tcp://01.hrl.nld.ygg.yt:80`
+  * `tls://01.hrl.nld.ygg.yt:443`
