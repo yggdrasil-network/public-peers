@@ -11,6 +11,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://[2a09:8280:1::a:2e2]:10010`
   * `tls://[2a09:8280:1::a:2e2]:10020`
 
+* Silicon Valley, Vultr, VPS, 1Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
+  * `tcp://01.scv.usa.ygg.yt:80`
+  * `tls://01.scv.usa.ygg.yt:443`
+
 ### Massachusetts
 
 * Boston, operated by [Stephen304](https://github.com/stephen304)
