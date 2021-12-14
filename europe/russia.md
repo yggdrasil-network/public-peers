@@ -32,6 +32,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://toki.peer.cofob.ru:80`
   * `tls://toki.peer.cofob.ru:443`
 
+* Moskow VPS node, operated by [BiGLapa](https://ygg.biglapa.ru)
+  * `tcp://188.120.228.75:7991`
+  * `tls://188.120.228.75:7992`
 
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
