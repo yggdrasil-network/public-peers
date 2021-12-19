@@ -15,6 +15,12 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://01.scv.usa.ygg.yt:80`
   * `tls://01.scv.usa.ygg.yt:443`
 
+### Kansas
+
+* Lenexa, operated by [jcgruenhage](https://jcg.re)
+  * `tcp://108.175.10.127:61216`
+  * `tcp://[2607:f1c0:1801:d4::1]:61216`
+
 ### Massachusetts
 
 * Boston, operated by [Stephen304](https://github.com/stephen304)
@@ -38,11 +44,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://[2a09:8280:1::3:312]:10010`
   * `tls://[2a09:8280:1::3:312]:10020`
 
-### Kansas
-
-* Lenexa, operated by [jcgruenhage](https://jcg.re)
-  * `tcp://108.175.10.127:61216`
-  * `tcp://[2607:f1c0:1801:d4::1]:61216`
+### Ohio
+* Delaware, OH operated by [herronjo](https://joshiepoo.com)
+  * `tcp://[2001:470:c177:2:216:3eff:fe8f:264f]:13121`
+  * `tls://[2001:470:c177:2:216:3eff:fe8f:264f]:13122`
 
 ### Texas
 * Dallas, TX operated by [IncogNET](https://incognet.io)
@@ -54,7 +59,12 @@ Yggdrasil configuration file to peer with these nodes.
   *  `tls://167.160.89.98:7040`
   *  `tls://[2605:9f80:2000:64::2]:7040`
 
-### Ohio
-* Delaware, OH operated by [herronjo](https://joshiepoo.com)
-  * `tcp://[2001:470:c177:2:216:3eff:fe8f:264f]:13121`
-  * `tls://[2001:470:c177:2:216:3eff:fe8f:264f]:13122`
+### New York
+* New York, New York operated by [IncogNET](https://incognet.io)
+ * `tcp://ygg-ny-us.incognet.io:8883`
+ * `tls://ygg-ny-us.incognet.io:8884`
+
+### Nevada
+* Las Vegas, Nevada operated by [IncogNET](https://incognet.io)
+ * `tcp://ygg-nv-us.incognet.io:8883`
+ * `tls://ygg-nv-us.incognet.io:8884`
