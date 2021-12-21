@@ -32,6 +32,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.120.228.75:7991`
   * `tls://188.120.228.75:7992`
 
+* Moscow VPS public node, operated by [L27001](https://yggdrasil.ezdomain.ru), *rate-limited to 100 Mbit/s IPv4/IPv6*
+  * `tcp://ygg0.ezdomain.ru:11129`
+  * `tls://ygg0.ezdomain.ru:11130`
+
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
   * `tcp://ygg.loskiq.dev:17313`
