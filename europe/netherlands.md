@@ -11,7 +11,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Dronten, operated by ne-vlezay80
   * `tls://45.147.198.155:6010`
-  
+
 * Amsterdam, operated by [deb](https://ysl.su)
   * `tcp://51.15.118.10:62486`
   * `tcp://[2001:bc8:1820:192f::1]:62486`
@@ -23,3 +23,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Haarlem, Tilaa, VPS, 1Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
   * `tcp://01.hrl.nld.ygg.yt:80`
   * `tls://01.hrl.nld.ygg.yt:443`
+
+* Nijemgen, operated by [ehmry](https://gemini.spam.works/users/emery/)
+  * `tls://77.249.167.165:8084`
