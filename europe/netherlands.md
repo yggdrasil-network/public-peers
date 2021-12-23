@@ -23,3 +23,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Haarlem, Tilaa, VPS, 1Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
   * `tcp://01.hrl.nld.ygg.yt:80`
   * `tls://01.hrl.nld.ygg.yt:443`
+
+* Amsterdam, VPS, 1Gbit/s, IPv4/IPv6 support, operated by [L27001](https://yggdrasil.ezdomain.ru)
+  * `tcp://ygg1.ezdomain.ru:11129`
+  * `tls://ygg1.ezdomain.ru:11130`
