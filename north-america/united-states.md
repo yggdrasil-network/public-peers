@@ -12,7 +12,7 @@ Yggdrasil configuration file to peer with these nodes.
 ### Kansas
 
 * Lenexa, operated by [jcgruenhage](https://jcg.re)
-  * `tcp://108.175.10.127:61216`
+  * `tls://108.175.10.127:61216`
   * `tcp://[2607:f1c0:1801:d4::1]:61216`
 
 ### Massachusetts
