@@ -46,12 +46,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://box.paulll.cc:13338`
 
 
-### Ufa
-* Ufa, home user public node, operated by [tdemin](https://tdem.in), *rate-limited to 100 Mbit/s*
-  * `tcp://lan.tdem.in:50001`
-  * `tls://lan.tdem.in:50002`
-
-
 ### Irkutsk
 * Irkutsk, home user public node, operated by [Saiv46](https://t.me/Saiv46), *bandwidth up to 250 Mbps*
   * `tcp://irk.peering.flying-squid.host:8080`
