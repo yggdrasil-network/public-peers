@@ -11,8 +11,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ygg.tomasgl.ru:61944?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576`
 
 * Moscow, vps public node, operated by [Nikat](https://t.me/nikat_meh)
-  * `tcp://yggnode.cf:18226`
-  * `tls://yggnode.cf:18227`
+  * `tcp://yggno.de:18226`
+  * `tls://yggno.de:18227`
+  * `tcp://188.225.9.167:18226`
+  * `tls://188.225.9.167:18227`
 
 * Moscow, home public node, operated by [AveryanAlex](https://t.me/averyanalex) *Up to 200 Mbit/s*
   * `tcp://95.165.99.73:5353`
