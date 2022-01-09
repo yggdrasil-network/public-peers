@@ -11,8 +11,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 Note that the following assumes Tor is running locally and listening on the default `localhost:9050`.
 
-* HS3 (TCP-only, Hidden Service, v3), operated by [Jeff](https://i2p.rocks/contact.txt)
-  * `socks://localhost:9050/ruoqfb5l2n55x62gu4qsooqm6yamnkjnbqmr6xbxppkxbccgyvioc3ad.onion:5050`
 
 * HS3 (TCP-only, Hidden Service, v3), operated by [cathugger](http://cathug2kyi4ilneggumrenayhuhsvrgn6qv2y47bgeet42iivkpynqad.onion/contact.html)
   * `socks://localhost:9050/yggnekkmyitzepgl5ltdl277y5wdg36n4pc45sualo3yesm3usnuwyad.onion:1863`
