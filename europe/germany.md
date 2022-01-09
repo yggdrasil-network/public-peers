@@ -25,5 +25,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://01.ffm.deu.ygg.yt:80`
   * `tls://01.ffm.deu.ygg.yt:443`
 
+* Frankfurt, public node hosted on a free tier vps, monthly traffic limit 10Tb, operated by [efim](https://github.com/efim)
+  * `tcp://130.61.94.233:13338`
+
 * Heilbronn, public node hosted on a Homeserver, 50 mbit/s, operated by [phrl](http://phrl42.ydns.eu)
   *  `tcp://phrl42.ydns.eu:8842`
