@@ -44,8 +44,11 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Texas
 * Dallas, TX operated by [IncogNET](https://incognet.io)
- * `tcp://ygg-tx-us.incognet.io:8883`
- * `tls://ygg-tx-us.incognet.io:8884`
+  * `tcp://ygg-tx-us.incognet.io:8883`
+  * `tls://ygg-tx-us.incognet.io:8884`
+
+* Dallas, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
+  * `tls://bazari.sh:3725`
 
 ### Washington
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
@@ -61,3 +64,4 @@ Yggdrasil configuration file to peer with these nodes.
 * Las Vegas, Nevada operated by [IncogNET](https://incognet.io)
  * `tcp://ygg-nv-us.incognet.io:8883`
  * `tls://ygg-nv-us.incognet.io:8884`
+
