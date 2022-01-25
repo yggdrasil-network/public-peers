@@ -65,3 +65,8 @@ Yggdrasil configuration file to peer with these nodes.
  * `tcp://ygg-nv-us.incognet.io:8883`
  * `tls://ygg-nv-us.incognet.io:8884`
 
+### Virginia
+* OVH virginia, operated by jeff
+  * `tcp://51.81.46.170:5000`
+
+
