@@ -10,6 +10,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Kiev, operated by [mvvpt](mvvpt0@bigmir.net)
   * `tcp://78.27.153.163:33165`
   * `tls://78.27.153.163:33166`
+  * `tls://78.27.153.163:3785`
+  * `tls://78.27.153.163:3784`
+  * `tls://78.27.153.163:179`
 
 * Kiev, operated by [IncogNET](https://incognet.io)
  * `tcp://ygg-ukr.incognet.io:8883`
