@@ -10,4 +10,5 @@ These peers only only resolvable inside of Lokinet onion routing network with lo
 Operated by jeff:
   * `tcp://jeff.loki:5000`
   * `tcp://yes.loki:5000`
+Operated by Chief36
   * `tcp://chiefsnapp.loki:42753`
