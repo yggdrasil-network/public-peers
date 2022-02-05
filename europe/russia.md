@@ -38,6 +38,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://ygg0.ezdomain.ru:11129`
   * `tls://ygg0.ezdomain.ru:11130`
 
+* Public node, operated by [h3xcode](https://h3xco.de)
+  * `tls://cluster.h3xco.de:7040`
+
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
   * `tcp://ygg.loskiq.dev:17313`
