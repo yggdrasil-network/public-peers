@@ -9,7 +9,3 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Praha, centro-net.cz, running `0.4.0`, tls-only, operated by [carnhofdaki](https://github.com/carnhofdaki)
   * `tls://217.195.164.4:10531`
-
-* Praha, vpsFree, operated by @ehmry
-  * `tcp://37.205.14.171:46370`
-  * `tcp://[2a03:3b40:fe:ab::1]:46370`
