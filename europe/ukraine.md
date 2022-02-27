@@ -4,6 +4,7 @@ Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
 * Bila Tserkva, operated by [ufm](ufm@ufm.lol)
+* These peers do not accept connects from Russia and Belarus
   * `tcp://193.111.114.28:8080`
   * `tls://193.111.114.28:1443`
 
