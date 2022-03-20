@@ -46,8 +46,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Saint Petersburg
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
-  * `tcp://ygg.loskiq.dev:17313`
-  * `tls://ygg.loskiq.dev:17314`
+  * `tcp://ygg.loskiq.ru:17313`
+  * `tls://ygg.loskiq.ru:17314`
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
   * `tcp://box.paulll.cc:13337`
