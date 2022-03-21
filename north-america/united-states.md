@@ -39,8 +39,8 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Ohio
 * Delaware, OH operated by [herronjo](https://joshiepoo.com)
-  * `tcp://[2001:470:e08f:2:216:3eff:fe8f:264f]:13121`
-  * `tls://[2001:470:e08f:2:216:3eff:fe8f:264f]:13122`
+  * `tcp://yggdrasil.sticloud.gq:13121`
+  * `tls://yggdrasil.sticloud.gq:13122`
 
 ### Texas
 * Dallas, TX operated by [IncogNET](https://incognet.io)
