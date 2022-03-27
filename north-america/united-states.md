@@ -42,6 +42,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://yggdrasil.sticloud.gq:13121`
   * `tls://yggdrasil.sticloud.gq:13122`
 
+### Oregon
+
+* Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)
+  * `tls://44.234.134.124:443`
+
 ### Texas
 * Dallas, TX operated by [IncogNET](https://incognet.io)
   * `tcp://ygg-tx-us.incognet.io:8883`
