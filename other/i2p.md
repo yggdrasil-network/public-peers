@@ -24,4 +24,4 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
   * `socks://localhost:4447/5cejostqhllvdnbjgmtsua46z6wt5eiecirljvthlz45yvn5hswa.b32.i2p:61944`
 
 * I2P Node (I2Pd), operated by Prophet
-  * `socks://localhost:4447/xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30111`
+  * `socks://localhost:4447/xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112`
