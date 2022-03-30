@@ -38,3 +38,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://aaoth.xyz:7777`
   * `tcp://95.179.155.103:7777`
   * `tcp://[2001:19f0:5001:3579::1]:7777`
+
+* Flevoland/Dronten, operated by [igorhvr](https://www.iasylum.net/)
+  * `tcp://ipv4.dronten.flevoland.netherlands.iasylum.net:40000`
+  * `tcp://ipv6.dronten.flevoland.netherlands.iasylum.net:41000`
+  * `tls://ipv4.dronten.flevoland.netherlands.iasylum.net:50000`
+  * `tls://ipv6.dronten.flevoland.netherlands.iasylum.net:51000`
