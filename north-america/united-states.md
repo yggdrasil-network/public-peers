@@ -9,6 +9,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://01.scv.usa.ygg.yt:80`
   * `tls://01.scv.usa.ygg.yt:443`
 
+* Los Angeles, Virmach, VPS, operated by [YuetAu](https://yuetau.net)
+  * `tcp://lax.yuetau.net:6642`
+  * `tls://lax.yuetau.net:6643`
+
+
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
@@ -24,7 +29,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Boston, operated by [Stephen304](https://github.com/stephen304)
   * `tcp://50.236.201.218:56088`
-    
+
 ### Minnesota
 
 * Minneapolis, operated by [Stephanie](https://github.com/RX14)
@@ -73,5 +78,3 @@ Yggdrasil configuration file to peer with these nodes.
 ### Virginia
 * OVH virginia, operated by jeff
   * `tcp://51.81.46.170:5000`
-
-
