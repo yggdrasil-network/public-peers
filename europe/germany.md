@@ -30,3 +30,11 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Heilbronn, public node hosted on a Homeserver, 50 mbit/s, operated by [phrl](http://phrl42.ydns.eu)
   *  `tcp://phrl42.ydns.eu:8842`
+
+* Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
+  * `tcp://ygg1.mk16.de:1337`
+  * `tls://ygg1.mk16.de:1338`
+
+* Jena, hosted on Euserv, operated by [Marek Küthe](https://mk16.de/)
+  * `tcp://ygg2.mk16.de:1337`
+  * `tls://ygg2.mk16.de:1338`
