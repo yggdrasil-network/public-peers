@@ -5,7 +5,6 @@ Operators of Yggdrasil public peers in Belarus should consider joining the [Russ
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.
 
 
-### Gomel
-* Gomel region
-  * `tcp://yggby.ddns.net:7991`
-  * `tls://yggby.ddns.net:7992`
+### Gomel region
+* Gomel 
+  * `tls://93.84.87.130:3333`
