@@ -67,13 +67,13 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### New York
 * New York, New York operated by [IncogNET](https://incognet.io)
- * `tcp://ygg-ny-us.incognet.io:8883`
- * `tls://ygg-ny-us.incognet.io:8884`
+  * `tcp://ygg-ny-us.incognet.io:8883`
+  * `tls://ygg-ny-us.incognet.io:8884`
 
 ### Nevada
 * Las Vegas, Nevada operated by [IncogNET](https://incognet.io)
- * `tcp://ygg-nv-us.incognet.io:8883`
- * `tls://ygg-nv-us.incognet.io:8884`
+  * `tcp://ygg-nv-us.incognet.io:8883`
+  * `tls://ygg-nv-us.incognet.io:8884`
 
 ### Virginia
 * OVH virginia, operated by jeff
