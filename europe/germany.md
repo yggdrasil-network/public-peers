@@ -18,9 +18,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg.cofob.ru:80`
   * `tls://ygg.cofob.ru:443`
 
-* Nuremberg, node hosted on a small Homeserver, 100mbit/s connection/bandwidth
-  * `tcp://bunkertreff.ddns.net:5454`
-
 * Frankfurt, active 1 GmbH, dedicated, 10Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
   * `tcp://01.ffm.deu.ygg.yt:80`
   * `tls://01.ffm.deu.ygg.yt:443`
