@@ -24,9 +24,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://01.hrl.nld.ygg.yt:80`
   * `tls://01.hrl.nld.ygg.yt:443`
 
-* Nijemgen, operated by [ehmry](https://gemini.spam.works/users/emery/)
-  * `tls://77.249.167.165:8084`
-
 * Amsterdam, VPS, 1Gbit/s, IPv4/IPv6 support, operated by [L27001](https://yggdrasil.ezdomain.ru)
   * `tcp://ygg1.ezdomain.ru:11129`
   * `tls://ygg1.ezdomain.ru:11130`
