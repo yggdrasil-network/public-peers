@@ -19,9 +19,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, home public node, operated by [AveryanAlex](https://t.me/averyanalex) *Up to 200 Mbit/s*
   * `tcp://95.165.99.73:5353`
 
-* Moscow, vps public node, operated by [AleksdemSA](https://github.com/AleksdemSA)
-  * `tls://185.22.60.71:8443`
-
 * Public node, operated by [@cofob:cofob.ru](https://matrix.to/#/@cofob:cofob.ru)
   * `tcp://kazi.peer.cofob.ru:18000`
   * `tls://kazi.peer.cofob.ru:18001`
@@ -29,10 +26,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Public node, operated by [@cofob:cofob.ru](https://matrix.to/#/@cofob:cofob.ru)
   * `tcp://toki.peer.cofob.ru:80`
   * `tls://toki.peer.cofob.ru:443`
-
-* Moskow VPS node, operated by [BiGLapa](https://ygg.biglapa.ru)
-  * `tcp://188.120.228.75:7991`
-  * `tls://188.120.228.75:7992`
 
 * Moscow VPS public node, operated by [L27001](https://yggdrasil.ezdomain.ru), *rate-limited to 100 Mbit/s IPv4/IPv6*
   * `tcp://ygg0.ezdomain.ru:11129`
