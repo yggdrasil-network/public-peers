@@ -9,6 +9,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Amsterdam, operated by [Rostyslav Sotnychenko](https://github.com/rsotnychenko)
   * `tcp://ams1.y.sota.sh:8080` (both IPv4 and IPv6 are supported)
 
+* Amsterdam, Inferno Solutions public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
+  * `tcp://vpn.itrus.su:7991`
+
 * Dronten, operated by ne-vlezay80
   * `tls://45.147.198.155:6010`
 

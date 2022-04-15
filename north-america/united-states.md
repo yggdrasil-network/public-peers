@@ -70,6 +70,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg-ny-us.incognet.io:8883`
   * `tls://ygg-ny-us.incognet.io:8884`
 
+* New Yourk, DigitalOcean public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
+  * `tcp://zabugor.itrus.su:7991`
+
 ### Nevada
 * Las Vegas, Nevada operated by [IncogNET](https://incognet.io)
   * `tcp://ygg-nv-us.incognet.io:8883`
