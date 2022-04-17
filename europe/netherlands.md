@@ -27,6 +27,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Amsterdam, VPS, 1Gbit/s, IPv4/IPv6 support, operated by [L27001](https://yggdrasil.ezdomain.ru)
   * `tcp://ygg1.ezdomain.ru:11129`
   * `tls://ygg1.ezdomain.ru:11130`
+  * `tcp://ygg2.ezdomain.ru:11129`
+  * `tls://ygg2.ezdomain.ru:11130`
 
 * Amsterdam, VPS, IPv4/IPv6 support, operated by [la ninpre](https://github.com/la-ninpre)
   * `tls://aaoth.xyz:25565`
