@@ -35,6 +35,10 @@ Yggdrasil configuration file to peer with these nodes.
 * Jena, hosted on Euserv, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg2.mk16.de:1337`
   * `tls://ygg2.mk16.de:1338`
+  
+* Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
+  * `tcp://p2p-node.de:1337`
+  * `tls://p2p-node.de:1338`
 
 * Hetzner, Nürnberg
   * `tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d`
