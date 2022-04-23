@@ -28,3 +28,6 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
   
 * I2P node (Java I2P, TCP-only, Standard I2P service, b32 address), operated by [Marek Küthe](https://mk16.de/)
   * `socks://localhost:4447/3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p`
+
+* Yet another I2P peer (I2Pd, TCP-only):
+  * `socks://localhost:4447/i3omrziluv2hl42hoixtxa6clqye6bjjcuee2sboghdfgkwhenoq.b32.i2p:29269`
