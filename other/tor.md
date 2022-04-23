@@ -27,3 +27,6 @@ Note that the following assumes Tor is running locally and listening on the defa
   
 * HS3 (TCP-only), operated by [Marek Küthe](https://mk16.de/)
   * `socks://localhost:9050/p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337`
+
+* Yet another Tor peer (TCP-only, Hidden Service, v3):
+  * `socks://localhost:9050/wr2ua2k6rn7j5hb5pwiqtjdfagacpc2c4aue5d6kxgb5egcucw26ziyd.onion:5223`
