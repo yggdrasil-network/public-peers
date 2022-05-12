@@ -13,6 +13,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://lax.yuetau.net:6642`
   * `tls://lax.yuetau.net:6643`
 
+* Fremont, Linode, VPS, operated by [derpindialer](https://github.com/derpindialer)
+  * `tls://tasty.chowder.land:9001`
 
 ### Illinois
 
