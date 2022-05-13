@@ -27,6 +27,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://108.175.10.127:61216`
   * `tls://[2607:f1c0:1801:d4::1]:61216`
 
+### Oklahoma 
+ * Tulsa, Operated by Smithtacticalsolutions, 1 gbit, dedicated, Bridge to Threefold
+   * `tcp://108.242.38.187:1337`
+  
 ### Massachusetts
 
 * Boston, operated by [Stephen304](https://github.com/stephen304)
