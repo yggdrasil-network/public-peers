@@ -49,8 +49,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Irkutsk
 * Irkutsk, home user public node, operated by [Saiv46](https://matrix.to/#/@saiv46:tomesh.net), *IPv4 only*
-  * `tcp://176.215.237.83:8080?sni=irk.peering.flying-squid.host&key=f69da2c11d5fe8bcee7d026a6ed28dc7873db9ecb88c797b29348546e411d934`
-  * `tls://176.215.237.83:8443?sni=irk.peering.flying-squid.host&key=f69da2c11d5fe8bcee7d026a6ed28dc7873db9ecb88c797b29348546e411d934`
+  * `tcp://90.188.237.136:8080?sni=irk.peering.flying-squid.host&key=f69da2c11d5fe8bcee7d026a6ed28dc7873db9ecb88c797b29348546e411d934`
+  * `tls://90.188.237.136:8443?sni=irk.peering.flying-squid.host&key=f69da2c11d5fe8bcee7d026a6ed28dc7873db9ecb88c797b29348546e411d934`
 
 
 ### Unknown
