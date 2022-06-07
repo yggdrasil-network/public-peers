@@ -45,3 +45,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Hetzner, Falkenstein, operated by [Chaz6](https://github.com/chaz6)
   * `tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444`
+
+* Nuremberg, operated by [deb](https://ysl.su)
+  * `tcp://yggdrasil.su:62486`
+  * `tls://yggdrasil.su:62586`
