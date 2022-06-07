@@ -15,10 +15,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Dronten, operated by ne-vlezay80
   * `tls://45.147.198.155:6010`
 
-* Amsterdam, operated by [deb](https://ysl.su)
-  * `tcp://51.15.118.10:62486`
-  * `tcp://[2001:bc8:1820:192f::1]:62486`
-
 * Naaldwijk, operated by [IncogNET](https://incognet.io)
   * `tcp://ygg-nl.incognet.io:8883`
   * `tls://ygg-nl.incognet.io:8884`
