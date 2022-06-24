@@ -42,3 +42,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ipv6.dronten.flevoland.netherlands.iasylum.net:41000`
   * `tls://ipv4.dronten.flevoland.netherlands.iasylum.net:50000`
   * `tls://ipv6.dronten.flevoland.netherlands.iasylum.net:51000`
+
+* Amsterdam, operated by Verugin Gleb (https://git.glebmail.xyz/)
+  * `tls://109.107.177.214:8090`
+  * `tcp://109.107.177.214:8091`
+  * `udp://109.107.177.214:8092`
