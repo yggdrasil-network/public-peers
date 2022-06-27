@@ -64,8 +64,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://itcom.multed.com:7991`
 
 ### Yekaterinburg
-* Yekaterinburg, home user public node, operated by [lolechka](https://t.me/lolichga)
-  * `tcp://ygg.legalloli.net:28001`
-  * `tls://ygg.legalloli.net:28002`
+* Yekaterinburg, home user public node, operated by [lolechka](https://t.me/lolichga) *bandwidth up to 300 Mbps*
+  * `tcp://y.infirium.ru:5555`
+  * `tls://y.infirium.ru:5556`
 * Yekaterinburg, home public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 300 Mbps*
   * `tcp://ekb.itrus.su:7991`
