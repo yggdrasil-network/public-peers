@@ -68,6 +68,10 @@ Yggdrasil configuration file to peer with these nodes.
 * Dallas, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
   * `tls://bazari.sh:3725`
 
+* Dallas, Linode VPS, operated by [derpindialer](https://github.com/derpindialer)
+  * `tcp://creamy.chowder.land:9001`
+  * `tls://creamy.chowder.land:9002`
+
 ### Washington
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
   *  `tls://167.160.89.98:7040`
