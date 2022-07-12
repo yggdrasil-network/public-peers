@@ -46,11 +46,13 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
 
-
 ### Unknown
 * Public node, operated by ne-vlezay80
   * `tls://[2a01:d0:ffff:4353::2]:6010`
 
+### Perm
+* Homeserver public node, operated by [avevad](https://avevad.com)
+  * `tls://avevad.com:1337`
 
 ### Omsk
 * Omsk, home user public node, operated by [Prophet](https://matrix.to/#/@soderzhanie:matrix.org) *bandwidth up to 300 Mbps*
