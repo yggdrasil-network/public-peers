@@ -20,7 +20,9 @@ Yggdrasil configuration file to peer with these nodes.
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
+  * `tls://supergay.network:443`
   * `tls://supergay.network:9001`
+  * `tcp://supergay.network:9002`
 * Chicago, IL operated by [styromaniac](https://github.com/styromaniac)
   * `tcp://149.28.123.138:8008`
 ### Kansas
