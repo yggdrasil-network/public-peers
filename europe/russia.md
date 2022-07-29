@@ -27,10 +27,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://toki.peer.cofob.ru:80`
   * `tls://toki.peer.cofob.ru:443`
 
-* Moscow VPS public node, operated by [L27001](https://yggdrasil.ezdomain.ru), *rate-limited to 100 Mbit/s IPv4/IPv6*
-  * `tcp://ygg0.ezdomain.ru:11129`
-  * `tls://ygg0.ezdomain.ru:11130`
-
 * Public node, operated by [h3xcode](https://h3xco.de)
   * `tls://cluster.h3xco.de:7040`
 
