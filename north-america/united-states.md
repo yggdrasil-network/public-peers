@@ -73,6 +73,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Dallas, Linode VPS, operated by [derpindialer](https://github.com/derpindialer)
   * `tcp://creamy.chowder.land:9001`
   * `tls://creamy.chowder.land:9002`
+  * `tls://creamy.chowder.land:443`
 
 ### Washington
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
