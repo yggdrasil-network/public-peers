@@ -18,8 +18,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg-ukr.incognet.io:8883`
   * `tls://ygg-ukr.incognet.io:8884`
 
-* Kyiv, operated by [d4708](https://github.com/d4708)
-  * `tls://146.0.83.140:4708`
+* Kyiv, operated by [TwisterArmy](https://twisterarmy.org/)
+  * `tls://ygg-ua.twisterarmy.org:4708`
 
 * Stakhanov, operated by [gena](https://t.me/gennadykataev)
   * `tls://91.224.254.114:18001`
