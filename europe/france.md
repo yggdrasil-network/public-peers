@@ -24,3 +24,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://s2.i2pd.xyz:39575`
   * `tls://62.210.85.80:39575`
   * `tls://[2001:470:1f13:e56::64]:39575`
+* Paris, Online SAS, operated by [Jorropo](https://github.com/Jorropo)
+  * `tls://jorropo.net:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab75c900fe183b&sni=jorropo.net`
+  * `tls://163.172.31.60:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab75c900fe183b&sni=jorropo.net`
