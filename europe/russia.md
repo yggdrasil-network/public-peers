@@ -4,8 +4,8 @@ Operators of Yggdrasil public peers in Russia should consider joining the [Russi
 
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.
 
-
 ### Moscow
+
 * Moscow, vps public node, operated by [TomasGl](https://tomasgl.ru), *rate-limited to 200 Mbit/s*, ipv4/ipv6
   * `tcp://ygg.tomasgl.ru:61933?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576`
   * `tls://ygg.tomasgl.ru:61944?key=c5e0c28a600c2118e986196a0bbcbda4934d8e9278ceabea48838dc5d8fae576`
@@ -16,24 +16,15 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.225.9.167:18226`
   * `tls://188.225.9.167:18227`
 
-* Moscow, home public node, operated by [AveryanAlex](https://t.me/averyanalex) *Up to 200 Mbit/s*
-  * `tcp://95.165.99.73:5353`
-
 * Public node, operated by [@cofob:cofob.ru](https://matrix.to/#/@cofob:cofob.ru)
   * `tcp://kazi.peer.cofob.ru:18000`
   * `tls://kazi.peer.cofob.ru:18001`
-
-* Public node, operated by [@cofob:cofob.ru](https://matrix.to/#/@cofob:cofob.ru)
-  * `tcp://toki.peer.cofob.ru:80`
-  * `tls://toki.peer.cofob.ru:443`
-
-* Public node, operated by [h3xcode](https://h3xco.de)
-  * `tls://cluster.h3xco.de:7040`
 
 * Public node, operated by pvsur
   * `tls://yggpvs.duckdns.org:8443`
 
 ### Saint Petersburg
+
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
   * `tcp://ygg.loskiq.dev:17313`
   * `tls://ygg.loskiq.dev:17314`
@@ -43,14 +34,17 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://box.paulll.cc:13338`
 
 ### Unknown
+
 * Public node, operated by ne-vlezay80
   * `tls://[2a01:d0:ffff:4353::2]:6010`
 
 ### Perm
+
 * Homeserver public node, operated by [avevad](https://avevad.com)
   * `tls://avevad.com:1337`
 
 ### Omsk
+
 * Omsk, home user public node, operated by [Web-Prophet](https://prophet.fun/index.html) *bandwidth up to 300 Mbps*
   * `tcp://92.124.136.131:30111`
   * `tcp://prophet.fun:30111`
@@ -58,10 +52,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://srv.itrus.su:7991`
 
 ### Krasnoyarsk
+
 * Krasnoyarsk, public node, operated by [multed](https://multed.com/about)
   * `tcp://itcom.multed.com:7991`
 
 ### Yekaterinburg
+
 * Yekaterinburg, home user public node, operated by [lolechka](https://t.me/lolichga) *bandwidth up to 300 Mbps*
   * `tcp://y.infirium.ru:5555`
   * `tls://y.infirium.ru:5556`
