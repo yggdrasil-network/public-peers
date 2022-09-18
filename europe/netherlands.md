@@ -22,7 +22,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Amsterdam, VPS, IPv4/IPv6 support, operated by [la ninpre](https://github.com/la-ninpre)
   * `tls://aaoth.xyz:25565`
   * `tcp://aaoth.xyz:7777`
- 
+
 * Flevoland/Dronten, operated by [igorhvr](https://www.iasylum.net/)
   * `tcp://ipv4.dronten.flevoland.netherlands.iasylum.net:40000`
   * `tcp://ipv6.dronten.flevoland.netherlands.iasylum.net:41000`
