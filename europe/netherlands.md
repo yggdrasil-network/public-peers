@@ -3,6 +3,9 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
+* Amsterdam, operated by [Merededdo](https://merded.fun)
+  * `tls://109.107.173.235:9111`
+
 * Meppel, operated by Zina Korzina
   * `tls://94.103.82.150:8080`
 
