@@ -75,10 +75,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Virginia
 
-* OVH virginia, operated by jeff
-  * `tcp://51.81.46.170:5000`
-  * `tls://51.81.46.170:5222`
-
 * Hetzner Virginia, operated by jeff
   * `tls://5.161.114.182:443`
   * `tls://5.161.139.99:443`
