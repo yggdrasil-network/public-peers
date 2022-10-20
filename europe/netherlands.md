@@ -28,3 +28,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ipv6.dronten.flevoland.netherlands.iasylum.net:41000`
   * `tls://ipv4.dronten.flevoland.netherlands.iasylum.net:50000`
   * `tls://ipv6.dronten.flevoland.netherlands.iasylum.net:51000`
+
+* incognet NL rented dedi, run by jeff
+  * `tls://23.137.251.45:5222`
