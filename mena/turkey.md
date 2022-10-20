@@ -8,5 +8,5 @@ Yggdrasil configuration file to peer with these nodes.
 * Turk.net host operated by [Cyber](https://t.me/tregubov)
   * `tcp://212.154.86.134:8800`
   * `tls://212.154.86.134:4433`
-  * `tcp://[2a02:ff0:10f2:98c9::64]:8800`
-  * `tls://[2a02:ff0:10f2:98c9::64]:4433`
+  * `tcp://ip6-antalya.ddns.net:8800`
+  * `tls://ip6-antalya.ddns.net:4433`
