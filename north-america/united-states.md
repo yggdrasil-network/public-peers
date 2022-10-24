@@ -13,6 +13,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://tasty.chowder.land:9001`
   * `tcp://tasty.chowder.land:9002`
 
+* San Francisco, Digital Ocean, VPS, operated by [derpindialer](https://github.com/derpindialer)
+  * `tls://corn.chowder.land:443'
+  * `tcp://corn.chowder.land:9002`
+
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
@@ -60,11 +64,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Dallas, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
   * `tls://bazari.sh:3725`
-
-* Dallas, Linode VPS, operated by [derpindialer](https://github.com/derpindialer)
-  * `tls://creamy.chowder.land:443`
-  * `tcp://creamy.chowder.land:9001`
-  * `tls://creamy.chowder.land:9002`
 
 ### Washington
 
