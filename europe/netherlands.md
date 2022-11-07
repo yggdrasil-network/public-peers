@@ -31,3 +31,12 @@ Yggdrasil configuration file to peer with these nodes.
 
 * incognet NL rented dedi, run by jeff
   * `tls://23.137.251.45:5222`
+
+* Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
+  * `tls://x-ams.sergeysedoy97.ru:65535`
+  * `tls://89.22.237.91:65535`
+  * `tls://[2a0d:8480:1:f9::]:65535`
+
+* Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
+  * `tls://x-ams-promo.sergeysedoy97.ru:65535`
+  * `tls://79.137.196.222:65535`

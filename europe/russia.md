@@ -23,6 +23,15 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Public node, operated by pvsur
   * `tls://yggpvs.duckdns.org:8443`
 
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
+  * `tls://x-msk.sergeysedoy97.ru:65535`
+  * `tls://178.20.45.32:65535`
+  * `tls://[2a0d:8480:2:54::]:65535`
+
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
+  * `tls://x-msk-promo.sergeysedoy97.ru:65535`
+  * `tls://217.114.43.19:65535`
+
 ### Saint Petersburg
 
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
