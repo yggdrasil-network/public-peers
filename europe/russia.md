@@ -16,10 +16,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.225.9.167:18226`
   * `tls://188.225.9.167:18227`
 
-* Public node, operated by [@cofob:cofob.ru](https://matrix.to/#/@cofob:cofob.ru)
-  * `tcp://kazi.peer.cofob.ru:18000`
-  * `tls://kazi.peer.cofob.ru:18001`
-
 * Public node, operated by pvsur
   * `tls://yggpvs.duckdns.org:8443`
 
