@@ -14,7 +14,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://tasty.chowder.land:9002`
 
 * San Francisco, Digital Ocean, VPS, operated by [derpindialer](https://github.com/derpindialer)
-  * `tls://corn.chowder.land:443'
+  * `tls://corn.chowder.land:443`
   * `tcp://corn.chowder.land:9002`
 
 ### Illinois
