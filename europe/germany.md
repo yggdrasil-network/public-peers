@@ -16,7 +16,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
   * `tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
-  
+
 * Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://p2p-node.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
   * `tls://p2p-node.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
@@ -30,3 +30,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, operated by [deb](https://ysl.su)
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
+
+* Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
+  * `tls://x-fra-promo.sergeysedoy97.ru:65535`
+  * `tls://87.251.77.39:65535`
