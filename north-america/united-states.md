@@ -59,6 +59,10 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)
   * `tls://44.234.134.124:443`
+  
+* hosted by Evolution Host via OVH SAS, operated by [Marek Küthe](https://mk16.de/)
+  * `tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
+  * `tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
 
 ### Texas
 
