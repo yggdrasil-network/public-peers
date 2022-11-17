@@ -13,6 +13,10 @@ Yggdrasil configuration file to peer with these nodes.
 * Heilbronn, public node hosted on a Homeserver, 50 mbit/s, operated by [phrl](http://phrl42.ydns.eu)
   * `tcp://phrl42.ydns.eu:8842`
 
+* Nuremberg, public node hosted on Hetzner Online GmbH operated by [TheTrialGamer](https://gutsche.tech)
+  * `tcp://gutsche.tech:8888`
+  * `tls://gutsche.tech:8889`
+
 * Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
   * `tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
