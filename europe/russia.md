@@ -16,9 +16,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.225.9.167:18226`
   * `tls://188.225.9.167:18227`
 
-* Public node, operated by pvsur
-  * `tls://yggpvs.duckdns.org:8443`
-
 * Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tls://x-msk.sergeysedoy97.ru:65535`
   * `tls://178.20.45.32:65535`
