@@ -21,6 +21,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://01.lon.gbr.ygg.yt:80`
   * `tls://01.lon.gbr.ygg.yt:443`
 
-* London, OVH, operated by [l1qu1d.net](https://l1qu1d.net)
-  * `tcp://0.ygg.l1qu1d.net:11100`
-  * `tls://0.ygg.l1qu1d.net:11101`
+* London, OVH, 1Gbit/s, operated by [l1qu1d.net](https://l1qu1d.net) and [0x1a8510f2](https://0x1a8510f2.space)
+  * `tcp://0.ygg.l1qu1d.net:11100?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680`
+  * `tls://0.ygg.l1qu1d.net:11101?key=0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680`
