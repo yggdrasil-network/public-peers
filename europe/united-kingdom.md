@@ -20,3 +20,7 @@ Yggdrasil configuration file to peer with these nodes.
 * London, Linode, VPS, 1Gbit/s, operated by [/dev/null/v](https://dev.nul.lv)
   * `tcp://01.lon.gbr.ygg.yt:80`
   * `tls://01.lon.gbr.ygg.yt:443`
+
+* London, OVH, operated by [l1qu1d.net](https://l1qu1d.net)
+  * `tcp://0.ygg.l1qu1d.net:11100`
+  * `tls://0.ygg.l1qu1d.net:11101`
