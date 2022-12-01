@@ -34,7 +34,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://[2607:f1c0:1801:d4::1]:61216`
   
 * Kansas City, hosted by August Internet, operated by [Marek Küthe](https://mk16.de/)
-* No connectivity to China and North Korea
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
