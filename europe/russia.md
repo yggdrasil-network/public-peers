@@ -41,7 +41,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Unknown
 
 * Public node, operated by ne-vlezay80
-  * `tls://[2a01:d0:ffff:4353::2]:6010`
+  * `tls://[2a01:d0:c353:1::1]:6010`
+  * `tls://[2001:470:1f15:a:4::1]:6010`
 
 ### Perm
 
