@@ -17,10 +17,10 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Naaldwijk, operated by [IncogNET](https://incognet.io)
   * `tcp://ygg-nl.incognet.io:8883`
-  * `tls://ygg-nl.incognet.io:8884
+  * `tls://ygg-nl.incognet.io:8884`
 
 * Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
-  * `tls://23.137.249.65:443
+  * `tls://23.137.249.65:443`
 
 * Amsterdam, VPS, IPv4/IPv6 support, operated by [la ninpre](https://github.com/la-ninpre)
   * `tls://aaoth.xyz:25565`
