@@ -24,9 +24,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://supergay.network:9001`
   * `tcp://supergay.network:9002`
 
-* Chicago, IL operated by [styromaniac](https://github.com/styromaniac)
-  * `tcp://149.28.123.138:8008`
-
 ### Kansas
 
 * Lenexa, operated by [jcgruenhage](https://jcg.re)
