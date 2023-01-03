@@ -66,11 +66,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
   * `tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
 
-### Texas
-
-* Dallas, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
-  * `tls://bazari.sh:3725`
-
 ### Washington
 
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
