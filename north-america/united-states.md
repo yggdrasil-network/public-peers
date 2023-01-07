@@ -51,6 +51,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://lancis.iscute.moe:49273`
   * `tls://lancis.iscute.moe:49274`
 
+### Missouri 
+
+* terrahost KCMO, operated by jeff
+  * `tls://102.223.180.74:993`
+
 ### New Jersey
 
 * Piscataway, operated by [1200bps](https://longseason.1200bps.xyz)
@@ -74,9 +79,3 @@ Yggdrasil configuration file to peer with these nodes.
 
 * New Yourk, DigitalOcean public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
   * `tcp://zabugor.itrus.su:7991`
-
-### Virginia
-
-* Hetzner Virginia, operated by jeff
-  * `tls://5.161.114.182:443`
-  * `tls://5.161.139.99:443`
