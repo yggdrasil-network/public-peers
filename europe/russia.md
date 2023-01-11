@@ -25,6 +25,16 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://x-msk-promo.sergeysedoy97.ru:65535`
   * `tls://217.114.43.19:65535`
 
+* Моscow, VPS public node:
+  * tcp://45.147.200.202:12402
+  * tcp://[2a00:b700::a:279]:12402
+  * tls://45.147.200.202:443
+  * tls://[2a00:b700::a:279]:443
+
+* Moscow, home public node (300 mbit/s):
+  * tcp://77.37.218.131:12402
+  * tls://77.37.218.131:443
+
 ### Saint Petersburg
 
 * Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
