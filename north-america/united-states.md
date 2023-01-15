@@ -71,6 +71,12 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
   * `tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
 
+### Texas
+
+* Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
+  * `tls://cowboy.supergay.network:443`
+  * `tcp://cowboy.supergay.network:9001`
+
 ### Washington
 
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
