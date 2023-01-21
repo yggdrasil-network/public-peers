@@ -16,9 +16,9 @@ Example in `yggdrasil.conf`:
 Peers:
 [
   tcp://a.b.c.d:e
-  tcp://d.c.b.a:e
+  tls://d.c.b.a:e
   tcp://[a:b:c::d]:e
-  tcp://[d:c:b::a]:e
+  tls://[d:c:b::a]:e
 ]
 ```
 
@@ -36,14 +36,24 @@ network.
 
 For normal usage, you probably only need 2 or 3 peers.
 
-### TLS peers
+### Protocols
 
-As of Yggdrasil v0.3.11, peering connections over TLS are now possible. This hides
-the peering connection inside a regular TLS session, which can help in some cases
-where firewalls or deep packet inspection may identify or block regular Yggdrasil
-peering traffic.
+Currently Yggdrasil only operates as overlay network, so it requires underlaying networking.
+As for 0.4.5, following protocols supoorted for peering:
 
-TLS public peers are identified by the prefix `tls://` instead of `tcp://`. 
+- Plain TCP (`tcp://host:port`)
+- TLS (`tls://host:port`)
+- TCP over SOCKS5 (`socks://user:pass@proxy/host:port`)
+- UNIX sockets (`unix:///path/to/socket.sock`)
 
-Note that, due to the additional layer of encryption, performance via TLS peers
-may be slightly worse than via regular `tcp://` peers.
+### URI options
+
+Some peers may use additional options as query string.
+
+All supported options from 0.4.7:
+
+* `key=PUBLICKEY` for public key pinning, allowing peering only when peer provides specified public key, you can pass multiple keys with same option name.
+
+* `priority=N` for prioritising multiple peerings to the same peer, priority must be integer between 0 and 254.
+
+* *(TLS only)* `sni=DOMAIN` sets optional Server Name Indication (SNI) of session, you can use that to hide the peering inside a "regular" TLS session.
