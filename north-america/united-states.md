@@ -35,6 +35,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
 
+* terrahost, operated by jeff
+  * `tls://102.223.180.74:993`
+
 ### Oklahoma
 
 * Tulsa, Operated by Smithtacticalsolutions, 1 gbit, dedicated, Bridge to Threefold
@@ -50,11 +53,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Minneapolis, operated by [Stephanie](https://github.com/RX14)
   * `tcp://lancis.iscute.moe:49273`
   * `tls://lancis.iscute.moe:49274`
-
-### Missouri 
-
-* terrahost KCMO, operated by jeff
-  * `tls://102.223.180.74:993`
 
 ### New Jersey
 
