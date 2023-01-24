@@ -38,6 +38,3 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
   * `tls://x-fra-promo.sergeysedoy97.ru:65535`
   * `tls://87.251.77.39:65535`
-
-* Nuremberg, public node, operated by [Ben](https://t.me/msk797rus), IPv6 only
-  * `tls://[2a01:4f9:6a:49e7:1068:cf52:a4aa:1]:8443`
