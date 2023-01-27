@@ -17,6 +17,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg-fin.incognet.io:8883`
   * `tls://ygg-fin.incognet.io:8884`
 
-* Tuusula, Hetzner, operated by [Ben](https://t.me/msk797rus), IPv6 and IPv4 gateway from IPv6
+* Tuusula, Hetzner, operated by [Ben](https://t.me/msk799rus), IPv6 and IPv4 gateway from IPv6
   * `tls://[2a01:4f9:6a:49e7:1068:cf52:a4aa:1]:8443`
   * `tls://94.23.116.184:1944`
