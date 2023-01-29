@@ -42,3 +42,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, Hetzner, operated by [Ben](https://t.me/msk799rus), IPv6 and IPv4 gateway from IPv6
   * `tls://[2a01:4f8:13a:19e5:103a:263e:890c:1]:8443?key=4308ccec1a3a9c68c4f376000cf9c7084c1daae4921eb123cd93b6eb96fd8d84`
   * `tls://94.23.116.184:1945?key=4308ccec1a3a9c68c4f376000cf9c7084c1daae4921eb123cd93b6eb96fd8d84`
+
+* Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
+  * `tcp://193.107.20.230:7743`
+  
