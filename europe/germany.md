@@ -45,4 +45,3 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
   * `tcp://193.107.20.230:7743`
-  
