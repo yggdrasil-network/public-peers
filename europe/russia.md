@@ -17,13 +17,22 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://188.225.9.167:18227`
 
 * Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
-  * `tls://x-msk.sergeysedoy97.ru:65535`
+  * `tls://x-msk-0.sergeysedoy97.ru:65535`
+  * `tls://s-msk-0.sergeysedoy97.ru:65535` _by Cloudflare Spectrum_
   * `tls://178.20.45.32:65535`
   * `tls://[2a0d:8480:2:54::]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
-  * `tls://x-msk-promo.sergeysedoy97.ru:65535`
-  * `tls://217.114.43.19:65535`
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, Dual-Stack
+  * `tls://x-msk-1.sergeysedoy97.ru:65535`
+  * `tls://s-msk-1.sergeysedoy97.ru:65535` _by Cloudflare Spectrum_
+  * `tls://185.103.109.63:65535`
+  * `tls://[2a09:5302:ffff::ac9]:65535`
+
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack
+  * `tls://x-msk-2.sergeysedoy97.ru:65535`
+  * `tls://s-msk-2.sergeysedoy97.ru:65535` _by Cloudflare Spectrum_
+  * `tls://45.95.202.91:65535`
+  * `tls://[2a09:5302:ffff::aca]:65535`
 
 ### Saint Petersburg
 
