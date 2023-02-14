@@ -12,7 +12,3 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Toronto, operated by [Kusoneko](https://github.com/Kusoneko)
   * `tcp://kusoneko.moe:9002` (Both IPv4 and IPv6)
-
-* Toronto, CloudAtCost, VPS, operated by [YuetAu](https://yuetau.net)
-  * `tcp://yyz.yuetau.net:6642`
-  * `tls://yyz.yuetau.net:6643`

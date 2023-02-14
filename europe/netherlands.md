@@ -26,12 +26,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://aaoth.xyz:25565`
   * `tcp://aaoth.xyz:7777`
 
-* Flevoland/Dronten, operated by [igorhvr](https://www.iasylum.net/)
-  * `tcp://ipv4.dronten.flevoland.netherlands.iasylum.net:40000`
-  * `tcp://ipv6.dronten.flevoland.netherlands.iasylum.net:41000`
-  * `tls://ipv4.dronten.flevoland.netherlands.iasylum.net:50000`
-  * `tls://ipv6.dronten.flevoland.netherlands.iasylum.net:51000`
-
 * incognet NL rented dedi, run by jeff
   * `tls://23.137.251.45:5222`
 

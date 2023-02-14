@@ -5,10 +5,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### California
 
-* Los Angeles, Virmach, VPS, operated by [YuetAu](https://yuetau.net)
-  * `tcp://lax.yuetau.net:6642`
-  * `tls://lax.yuetau.net:6643`
-
 * Fremont, Linode, VPS, operated by [derpindialer](https://github.com/derpindialer)
   * `tls://tasty.chowder.land:9001`
   * `tcp://tasty.chowder.land:9002`
@@ -28,7 +24,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Lenexa, operated by [jcgruenhage](https://jcg.re)
   * `tls://108.175.10.127:61216`
-  * `tls://[2607:f1c0:1801:d4::1]:61216`
   
 * Kansas City, hosted by August Internet, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
@@ -37,11 +32,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * terrahost, operated by jeff
   * `tls://102.223.180.74:993`
-
-### Oklahoma
-
-* Tulsa, Operated by Smithtacticalsolutions, 1 gbit, dedicated, Bridge to Threefold
-  * `tcp://108.242.38.187:1337`
   
 ### Massachusetts
 

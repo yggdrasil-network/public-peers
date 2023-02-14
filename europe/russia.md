@@ -36,19 +36,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Saint Petersburg
 
-* Saint Petersburg, loskiq public node, operated by [loskiq](https://loskiq.dev)
-  * `tcp://ygg.loskiq.dev:17313`
-  * `tls://ygg.loskiq.dev:17314`
-
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
-
-### Unknown
-
-* Public node, operated by ne-vlezay80
-  * `tls://[2a01:d0:c353:1::1]:6010`
-  * `tls://[2001:470:1f15:a:4::1]:6010`
 
 ### Perm
 
@@ -70,8 +60,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Yekaterinburg
 
-* Yekaterinburg, home user public node, operated by [lolechka](https://t.me/lolichga) *bandwidth up to 300 Mbps*
-  * `tcp://y.infirium.ru:5555`
-  * `tls://y.infirium.ru:5556`
 * Yekaterinburg, home public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 300 Mbps*
   * `tcp://ekb.itrus.su:7991`
