@@ -10,3 +10,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Linköping, operated by [ananace](https://github.com/ananace) (@ace:kittenface.studio)
  * `tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
  * `tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
+
+* Operated by [Zhoska](https://prophet.fun) 
+  * `tcp://80.78.27.103:30111
+  * `tcp://prophet.fun:30111
