@@ -47,6 +47,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://77.37.218.131:12402`
   * `tls://77.37.218.131:443`
 
+* Moscow, VPS puclic node operated by [Adon T](https://phast.ru)
+  *  `tls://88.218.60.91:65534`
+
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
