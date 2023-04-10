@@ -60,9 +60,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Omsk
 
-* Omsk, home user public node, operated by [Web-Prophet](https://prophet.fun/index.html) *bandwidth up to 300 Mbps*
+* Omsk, home user public node, operated by Prophet *bandwidth up to 300 Mbps*
   * `tcp://92.124.136.131:30111`
-  * `tcp://prophet.fun:30111`
 * Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
   * `tcp://srv.itrus.su:7991`
 
