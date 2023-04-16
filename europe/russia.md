@@ -64,6 +64,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://92.124.136.131:30111`
 * Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
   * `tcp://srv.itrus.su:7991`
+### Novosibirsk
+
+* Novoibirsk, home user public node, operated by WipedLife *bandwidth up to 500 Mbps*
+  * `tcp://antebeot.ru:7890`
+  * `tls://antebeot.ru:7891`
 
 ### Krasnoyarsk
 
