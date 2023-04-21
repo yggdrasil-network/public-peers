@@ -59,6 +59,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
   * `tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
 
+* Hillsboro, OR (Hetzner, AMD x86, IPv4 + IPv6)
+ * `tls://ygg.mnpnk.com:443`
+
 ### Texas
 
 * Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
