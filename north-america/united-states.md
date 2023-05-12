@@ -68,6 +68,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://cowboy.supergay.network:443`
   * `tcp://cowboy.supergay.network:9111`
 
+### Utah
+
+* Spanish Fork, UT operated by [jjolly](https://github.com/jjolly)
+  * `tls://ygg.jjolly.dev:3443`
+
 ### Washington
 
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
