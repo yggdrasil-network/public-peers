@@ -24,7 +24,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Lenexa, operated by [jcgruenhage](https://jcg.re)
   * `tls://108.175.10.127:61216`
-  
+
 * Kansas City, hosted by August Internet, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
@@ -32,11 +32,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * terrahost, operated by jeff
   * `tls://102.223.180.74:993`
-  
-### Massachusetts
-
-* Boston, operated by [Stephen304](https://github.com/stephen304)
-  * `tcp://50.236.201.218:56088`
 
 ### Minnesota
 
@@ -54,7 +49,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)
   * `tls://44.234.134.124:443`
-  
+
 * hosted by Evolution Host via OVH SAS, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
   * `tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
