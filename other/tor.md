@@ -27,3 +27,6 @@ Note that the following assumes Tor is running locally and listening on the defa
   
 * HS3 (TCP-only), operated by [Marek Küthe](https://mk16.de/)
   * `socks://localhost:9050/p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337`
+
+* HS3 (TCP-only), operated by Chief36
+  * `socks://localhost:9050/yzkelq2cd76znzdbexyeqp35hw2fgsj5pyc5yd5jntxode3cu4bysnqd.onion:42753`
