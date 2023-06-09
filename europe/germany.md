@@ -42,3 +42,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
   * `tcp://193.107.20.230:7743`
+
+* Frankfurt, hosted on SYNLINQ, dedicated server with 10Gb/s, operated by [SolSoCoG](https://ieji.de/@solsocog)
+  * `tcp://ygg.yt:80`
+  * `tls://ygg.yt:443`
