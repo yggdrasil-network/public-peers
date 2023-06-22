@@ -14,3 +14,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Stockholm, operated by Zhoska
   * `tcp://zhoskiy.xyz:30111`
   * `tcp://80.78.27.103:30111`
+
+* Stockholm, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack
+  * `tls://x-sto-0.sergeysedoy97.ru:65535`
+  * `tls://s-sto-0.sergeysedoy97.ru:65535` _IPv6 by Cloudflare Spectrum_
+  * `tls://77.91.84.76:65535`
+  * `tls://[2a12:5940:b1a0::2]:65535`
