@@ -6,6 +6,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Moscow
 
+* Moscow, VPS public node, operated by [AveryanAlex](https://t.me/averyanalex), 1 Gbit/s, IPv4 Only
+  * `tcp://ygg-msk-1.averyan.ru:8363`
+  * `tls://ygg-msk-1.averyan.ru:8362`
+
 * Moscow, vps public node, operated by [Nikat](https://t.me/nikat_meh)
   * `tcp://yggno.de:18226`
   * `tls://yggno.de:18227`
