@@ -68,6 +68,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://s-led-0.sergeysedoy97.ru:65535` _Dual-Stack by Cloudflare Spectrum_
   * `tls://[2a00:b700:5::5:34]:65535`
 
+* Saint Petersburg, public node, operated by [ivabus](https://ivabus.dev), 200 Mbit/s, IPv4/IPv6
+  * `tls://ygg.iva.bz:50002`
+  * `tcp://ygg.iva.bz:50001`
+
 ### Perm
 
 * Homeserver public node, operated by [avevad](https://avevad.com)
