@@ -90,8 +90,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Novosibirsk
 
 * Novoibirsk, home user public node, operated by WipedLife *bandwidth up to 500 Mbps*
-  * `tcp://antebeot.ru:7890`
-  * `tls://antebeot.ru:7891`
+  * `tcp://94.180.118.146:7890`
+  * `tls://94.180.118.146:7891`
 
 * Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tls://x-ovb-0.sergeysedoy97.ru:65535`
