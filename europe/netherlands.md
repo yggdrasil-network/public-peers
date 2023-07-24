@@ -11,6 +11,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Amsterdam, Inferno Solutions public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
   * `tcp://vpn.itrus.su:7991`
+  * `tls://vpn.itrus.su:7992`
 
 * Dronten, operated by ne-vlezay80
   * `tls://45.147.198.155:6010`

@@ -76,3 +76,4 @@ Yggdrasil configuration file to peer with these nodes.
 
 * New Yourk, DigitalOcean public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
   * `tcp://zabugor.itrus.su:7991`
+  * `tls://zabugor.itrus.su:7992`
