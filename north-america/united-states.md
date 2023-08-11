@@ -60,7 +60,6 @@ Yggdrasil configuration file to peer with these nodes.
 ### Texas
 
 * Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
-  * `tls://cowboy.supergay.network:443`
   * `tcp://cowboy.supergay.network:9111`
 
 ### Utah
