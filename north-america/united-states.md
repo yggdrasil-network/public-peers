@@ -13,6 +13,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://corn.chowder.land:443`
   * `tcp://corn.chowder.land:9002`
 
+* San Francisco, Digital Ocean, VPS, operated by [marioaugustorama](https://github.com/marioaugustorama)
+  * `tls://165.227.17.198:2235`
+  * `tcp://165.227.17.198:9002`
+
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
