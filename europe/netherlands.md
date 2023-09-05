@@ -33,8 +33,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tls://x-ams-0.sergeysedoy97.ru:65535`
   * `tls://s-ams-0.sergeysedoy97.ru:65535` _IPv6 by Cloudflare Spectrum_
-  * `tls://89.22.237.91:65535`
-  * `tls://[2a0d:8480:1:f9::]:65535`
+  * `tls://88.210.3.30:65535`
+  * `tls://[2a0d:8480:1:2e::]:65535`
 
 * Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack
   * `tls://x-ams-1.sergeysedoy97.ru:65535`

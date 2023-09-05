@@ -19,8 +19,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tls://x-mow-0.sergeysedoy97.ru:65535`
   * `tls://s-mow-0.sergeysedoy97.ru:65535` _IPv6 by Cloudflare Spectrum_
-  * `tls://178.20.45.32:65535`
-  * `tls://[2a0d:8480:2:54::]:65535`
+  * `tls://178.20.41.3:65535`
+  * `tls://[2a0d:8480:2:6bd::]:65535`
 
 * Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, Dual-Stack
   * `tls://x-mow-1.sergeysedoy97.ru:65535`
