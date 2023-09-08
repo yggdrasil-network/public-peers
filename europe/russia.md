@@ -19,8 +19,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tls://x-mow-0.sergeysedoy97.ru:65535`
   * `tls://s-mow-0.sergeysedoy97.ru:65535` _IPv6 by Cloudflare Spectrum_
-  * `tls://178.20.45.32:65535`
-  * `tls://[2a0d:8480:2:54::]:65535`
+  * `tls://178.20.41.3:65535`
+  * `tls://[2a0d:8480:2:6bd::]:65535`
 
 * Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, Dual-Stack
   * `tls://x-mow-1.sergeysedoy97.ru:65535`
@@ -87,6 +87,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://92.124.136.131:30111`
 * Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
   * `tcp://srv.itrus.su:7991`
+  * `tls://srv.itrus.su:7992`
+
 ### Novosibirsk
 
 * Novoibirsk, home user public node, operated by WipedLife *bandwidth up to 500 Mbps*
@@ -112,6 +114,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * Yekaterinburg, home public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 300 Mbps*
   * `tcp://ekb.itrus.su:7991`
+  * `tls://ekb.itrus.su:7992`
 
 ### Kazan
 

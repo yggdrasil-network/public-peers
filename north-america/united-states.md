@@ -13,6 +13,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://corn.chowder.land:443`
   * `tcp://corn.chowder.land:9002`
 
+* San Francisco, Digital Ocean, VPS, operated by [marioaugustorama](https://github.com/marioaugustorama)
+  * `tls://165.227.17.198:2235`
+  * `tcp://165.227.17.198:9002`
+
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
@@ -60,7 +64,6 @@ Yggdrasil configuration file to peer with these nodes.
 ### Texas
 
 * Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
-  * `tls://cowboy.supergay.network:443`
   * `tcp://cowboy.supergay.network:9111`
 
 ### Utah
@@ -76,3 +79,4 @@ Yggdrasil configuration file to peer with these nodes.
 
 * New Yourk, DigitalOcean public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
   * `tcp://zabugor.itrus.su:7991`
+  * `tls://zabugor.itrus.su:7992`
