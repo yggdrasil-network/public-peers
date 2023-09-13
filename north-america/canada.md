@@ -12,3 +12,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Toronto, operated by [Kusoneko](https://github.com/Kusoneko)
   * `tcp://kusoneko.moe:9002` (Both IPv4 and IPv6)
+*  Toronto, Ontario, Canada by WipedLife
+   * `tls://170.75.166.158:443`
+   * `tcp://170.75.166.158:80`
