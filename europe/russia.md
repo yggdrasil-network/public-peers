@@ -91,9 +91,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Novosibirsk
 
-* Novoibirsk, home user public node, operated by WipedLife *bandwidth up to 500 Mbps*
-  * `tcp://94.180.118.146:7890`
-  * `tls://94.180.118.146:7891`
 * Novosibirsk, VDS, operated by WipedLife 100mbit/s, IPv4 only
   * `tcp://185.177.216.199:7890`
   * `tls://185.177.216.199:7891`
