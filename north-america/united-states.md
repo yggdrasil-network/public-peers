@@ -5,10 +5,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### California
 
-* Fremont, Linode, VPS, operated by [derpindialer](https://github.com/derpindialer)
-  * `tls://tasty.chowder.land:9001`
-  * `tcp://tasty.chowder.land:9002`
-
 * San Francisco, Digital Ocean, VPS, operated by [derpindialer](https://github.com/derpindialer)
   * `tls://corn.chowder.land:443`
   * `tcp://corn.chowder.land:9002`
