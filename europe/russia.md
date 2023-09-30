@@ -76,11 +76,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ygg.iva.bz:50002`
   * `tcp://ygg.iva.bz:50001`
 
-### Perm
-
-* Homeserver public node, operated by [avevad](https://avevad.com)
-  * `tls://avevad.com:1337`
-
 ### Omsk
 
 * Omsk, home user public node, operated by Prophet *bandwidth up to 300 Mbps*
