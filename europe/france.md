@@ -16,6 +16,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Paris, operated by [Arceliar](https://github.com/Arceliar)
   * `tcp://51.15.204.214:12345`
   * `tls://51.15.204.214:54321`
+  * `tcp://51.15.204.214:54321` (v0.5 testing only)
 
 * Paris, Online SAS, operated by [R4SAS](https://github.com/r4sas)
   * `tcp://s2.i2pd.xyz:39565`
