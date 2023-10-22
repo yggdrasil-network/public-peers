@@ -56,7 +56,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://45.95.202.21:443`
   * `tls://[2a09:5302:ffff::992]:443`
 
-
 * Moscow, home public node (300 mbit/s) operated by [gastarbeiter14](https://t.me/gastarbeiter14):
   * `tcp://77.37.218.131:12402`
   * `tls://77.37.218.131:443`
@@ -78,8 +77,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Omsk
 
-* Omsk, home user public node, operated by Prophet *bandwidth up to 300 Mbps*
-  * `tcp://92.124.136.131:30111`
 * Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
   * `tcp://srv.itrus.su:7991`
   * `tls://srv.itrus.su:7992`
@@ -89,7 +86,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Novosibirsk, VDS, operated by WipedLife 100mbit/s, IPv4 only
   * `tcp://185.177.216.199:7890`
   * `tls://185.177.216.199:7891`
-
 
 * Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tls://x-ovb-0.sergeysedoy97.ru:65535`

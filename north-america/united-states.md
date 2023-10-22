@@ -28,16 +28,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Kansas City, hosted by August Internet, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
-  * `tls://ygg4.mk16.de:443?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
 
 * terrahost, operated by jeff
   * `tls://102.223.180.74:993`
-
-### Minnesota
-
-* Minneapolis, operated by [Stephanie](https://github.com/RX14)
-  * `tcp://lancis.iscute.moe:49273`
-  * `tls://lancis.iscute.moe:49274`
 
 ### New Jersey
 
@@ -72,7 +65,3 @@ Yggdrasil configuration file to peer with these nodes.
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
   * `tls://167.160.89.98:7040`
   * `tls://[2605:9f80:2000:64::2]:7040`
-
-* New Yourk, DigitalOcean public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
-  * `tcp://zabugor.itrus.su:7991`
-  * `tls://zabugor.itrus.su:7992`
