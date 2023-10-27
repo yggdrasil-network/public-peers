@@ -35,10 +35,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
 
-* Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
-  * `tls://x-fra-0.sergeysedoy97.ru:65535`
-  * `tls://s-fra-0.sergeysedoy97.ru:65535` _Dual-Stack by Cloudflare Spectrum_
-  * `tls://87.251.77.39:65535`
+* Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only, *(v0.5 testing only)*
+  * `tcp://x-fra-0.sergeysedoy97.ru:65533`
+  * `tcp://s-fra-0.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://87.251.77.39:65533`
+  * `tls://x-fra-0.sergeysedoy97.ru:65534`
+  * `tls://s-fra-0.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://87.251.77.39:65534`
+  * `quic://87.251.77.39:65535`
 
 * Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
   * `tcp://193.107.20.230:7743`
