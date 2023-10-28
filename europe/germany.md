@@ -55,9 +55,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://yggdrasil.neilalexander.dev:64648` (v0.5 testing only)
 
 * OVH, Limburg, dedicated server owned and operated by Liizzii
-  * `tcp://51.89.65.73:42069` (v0.5 testing only)
-  * `tls://51.89.65.73:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4` (v0.5 testing only)
-  * `quic://51.89.65.73:42269` (v0.5 testing only)
-  * `tcp://[2001:41d0:700:3949::]:42069` (v0.5 testing only)
-  * `tls://[2001:41d0:700:3949::]:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4` (v0.5 testing only)
-  * `quic://[2001:41d0:700:3949::]:42069` (v0.5 testing only)
+  * `tcp://bode.theender.net:42069` (v0.5 testing only)
+  * `tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4` (v0.5 testing only)
+  * `quic://bode.theender.net:42269` (v0.5 testing only)
