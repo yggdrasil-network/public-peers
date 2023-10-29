@@ -50,6 +50,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, hosted on SYNLINQ, dedicated server with 10Gb/s, operated by [SolSoCoG](https://ieji.de/@solsocog)
   * `tcp://ygg.yt:80`
   * `tls://ygg.yt:443`
+  * `quic://ygg.yt:443`
 
 * Hetzner, Falkenstein, operated by neilalexander
   * `tls://yggdrasil.neilalexander.dev:64648` (v0.5 testing only)
