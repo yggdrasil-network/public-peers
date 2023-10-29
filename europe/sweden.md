@@ -8,8 +8,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://[2a07:e01:105:444:c634:6bff:feb5:6e28]:7040`
 
 * Linköping, operated by [ananace](https://github.com/ananace) (@ace:kittenface.studio)
- * `tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
- * `tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
+  * `tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
+  * `tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
 
 * Stockholm, operated by Zhoska
   * `tcp://zhoskiy.xyz:30111`
