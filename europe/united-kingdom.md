@@ -13,3 +13,5 @@ Yggdrasil configuration file to peer with these nodes.
 * Stratagem Hosting, operated by mkb2091
   * `tls://185.175.90.87:43006`
   * `tls://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006`
+  * `quic://185.175.90.87:43006`
+  * `quic://[2a10:4740:40:0:2222:3f9c:b7cf:1]:43006`
