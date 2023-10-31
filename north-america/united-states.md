@@ -16,9 +16,9 @@ Yggdrasil configuration file to peer with these nodes.
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
-  * `tls://supergay.network:443`
-  * `tls://supergay.network:9001`
-  * `tcp://supergay.network:9002`
+  * `tls://supergay.network:443`  (requires version 0.5.1+)
+  * `tls://supergay.network:9001` (requires version 0.5.1+)
+  * `tcp://supergay.network:9002` (requires version 0.5.1+)
 
 ### Kansas
 
@@ -48,7 +48,7 @@ Yggdrasil configuration file to peer with these nodes.
 ### Oregon
 
 * Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)
-  * `tls://44.234.134.124:443`
+  * `tls://44.234.134.124:443` (requires version 0.5.1+)
 
 * hosted by Evolution Host via OVH SAS, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
@@ -60,7 +60,7 @@ Yggdrasil configuration file to peer with these nodes.
 ### Texas
 
 * Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
-  * `tcp://cowboy.supergay.network:9111`
+  * `tcp://cowboy.supergay.network:9111` (requires version 0.5.1+)
 
 ### Utah
 
