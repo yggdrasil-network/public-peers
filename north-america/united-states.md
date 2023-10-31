@@ -38,6 +38,13 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://longseason.1200bps.xyz:13121`
   * `tls://longseason.1200bps.xyz:13122`
 
+### Ohio
+
+* Columbus, OH (500 Mbps, IPv4 + IPv6), operated by [herronjo](https://joshiepoo.com)
+  * `tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf`
+  * `tls://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf`
+  * `quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf`
+
 ### Oregon
 
 * Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)
