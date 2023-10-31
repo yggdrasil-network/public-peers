@@ -43,6 +43,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Columbus, OH (500 Mbps, IPv4 + IPv6), operated by [herronjo](https://joshiepoo.com)
   * `tcp://yggdrasil-2.herronjo.com:1336`
   * `tls://yggdrasil-2.herronjo.com:1337`
+  * `quic://yggdrasil-2.herronjo.com:1337`
 
 ### Oregon
 
