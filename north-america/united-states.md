@@ -29,8 +29,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
 
-* terrahost, operated by jeff
-  * `tls://102.223.180.74:993`
 
 ### New Jersey
 
@@ -72,3 +70,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
   * `tls://167.160.89.98:7040`
   * `tls://[2605:9f80:2000:64::2]:7040`
+ 
+* Liberty Lake, WA operated by jeff.
+  * `tls://23.184.48.86:993`
+  * `tls://[2602:fc24:18:7a42::1]:993`
