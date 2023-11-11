@@ -5,8 +5,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Mecca
 
-* Jeddah, operated by [Salem Yaslem](https://sy.sa/)
-  * `tls://158.101.229.219:17001`
-  * `tcp://158.101.229.219:17002`
-  * `tls://[2603:c023:8001:1600:35e0:acde:2c6e:b27f]:17001`
-  * `tcp://[2603:c023:8001:1600:35e0:acde:2c6e:b27f]:17002`
+* Jeddah, operated by [Salem Yaslem](https://sy.sa/) [Peer Information Page](https://pp1.ygg.sy.sa/) **DualStack (IPv4+IPv6)**
+  * `tcp://pp1.ygg.sy.sa:8441`
+  * `tls://pp1.ygg.sy.sa:8442`
+  * `quic://pp1.ygg.sy.sa:8443`
