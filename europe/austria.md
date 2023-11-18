@@ -7,4 +7,4 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://77.244.252.40:65534`
 
 * Wien, VPS, operated by [marekjm](https://github.com/marekjm), 100 Mb/s
-  * `tls://77.244.252.40:60050` (v0.5 testing only)
+  * `tls://77.244.252.40:60050`

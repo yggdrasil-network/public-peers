@@ -17,57 +17,57 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.225.9.167:18226`
   * `tls://188.225.9.167:18227`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack, *(v0.5 testing only)*
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tcp://x-mow-0.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-0.sergeysedoy97.ru:65533` _IPv6 by Cloudflare Spectrum_
+  * `tcp://s-mow-0.sergeysedoy97.ru:65533` *IPv6 by Cloudflare Spectrum*
   * `tcp://178.20.41.3:65533`
   * `tcp://[2a0d:8480:2:6bd::]:65533`
   * `tls://x-mow-0.sergeysedoy97.ru:65534`
-  * `tls://s-mow-0.sergeysedoy97.ru:65534` _IPv6 by Cloudflare Spectrum_
+  * `tls://s-mow-0.sergeysedoy97.ru:65534` *IPv6 by Cloudflare Spectrum*
   * `tls://178.20.41.3:65534`
   * `tls://[2a0d:8480:2:6bd::]:65534`
   * `quic://178.20.41.3:65535`
   * `quic://[2a0d:8480:2:6bd::]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, Dual-Stack, *(v0.5 testing only)*
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, Dual-Stack
   * `tcp://x-mow-1.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-1.sergeysedoy97.ru:65533` _IPv6 by Cloudflare Spectrum_
+  * `tcp://s-mow-1.sergeysedoy97.ru:65533` *IPv6 by Cloudflare Spectrum*
   * `tcp://185.103.109.63:65533`
   * `tcp://[2a09:5302:ffff::ac9]:65533`
   * `tls://x-mow-1.sergeysedoy97.ru:65534`
-  * `tls://s-mow-1.sergeysedoy97.ru:65534` _IPv6 by Cloudflare Spectrum_
+  * `tls://s-mow-1.sergeysedoy97.ru:65534` *IPv6 by Cloudflare Spectrum*
   * `tls://185.103.109.63:65534`
   * `tls://[2a09:5302:ffff::ac9]:65534`
   * `quic://185.103.109.63:65535`
   * `quic://[2a09:5302:ffff::ac9]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack, *(v0.5 testing only)*
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack
   * `tcp://x-mow-2.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-2.sergeysedoy97.ru:65533` _IPv6 by Cloudflare Spectrum_
+  * `tcp://s-mow-2.sergeysedoy97.ru:65533` *IPv6 by Cloudflare Spectrum*
   * `tcp://45.95.202.91:65533`
   * `tcp://[2a09:5302:ffff::aca]:65533`
   * `tls://x-mow-2.sergeysedoy97.ru:65534`
-  * `tls://s-mow-2.sergeysedoy97.ru:65534` _IPv6 by Cloudflare Spectrum_
+  * `tls://s-mow-2.sergeysedoy97.ru:65534` *IPv6 by Cloudflare Spectrum*
   * `tls://45.95.202.91:65534`
   * `tls://[2a09:5302:ffff::aca]:65534`
   * `quic://45.95.202.91:65535`
   * `quic://[2a09:5302:ffff::aca]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only, *(v0.5 testing only)*
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-mow-3.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-3.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://s-mow-3.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tcp://[2a00:b700::c:2e1]:65533`
   * `tls://x-mow-3.sergeysedoy97.ru:65534`
-  * `tls://s-mow-3.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://s-mow-3.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700::c:2e1]:65534`
   * `quic://[2a00:b700::c:2e1]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only, *(v0.5 testing only)*
+* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-mow-4.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-4.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://s-mow-4.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tcp://[2a00:b700:3::3:3b4]:65533`
   * `tls://x-mow-4.sergeysedoy97.ru:65534`
-  * `tls://s-mow-4.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://s-mow-4.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700:3::3:3b4]:65534`
   * `quic://[2a00:b700:3::3:3b4]:65535`
   
@@ -90,15 +90,15 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
-  * `tcp://box.paulll.cc:13337`
-  * `tls://box.paulll.cc:13338`
+  * `tcp://box.paulll.cc:13337` (v0.4 only)
+  * `tls://box.paulll.cc:13338` (v0.4 only)
 
-* Saint Petersburg, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only, *(v0.5 testing only)*
+* Saint Petersburg, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-led-0.sergeysedoy97.ru:65533`
-  * `tcp://s-led-0.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://s-led-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tcp://[2a00:b700:5::5:34]:65533`
   * `tls://x-led-0.sergeysedoy97.ru:65534`
-  * `tls://s-led-0.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://s-led-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700:5::5:34]:65534`
   * `quic://[2a00:b700:5::5:34]:65535`
 
@@ -116,24 +116,24 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Novosibirsk
 
 * Novosibirsk, VDS, operated by WipedLife 100mbit/s, IPv4 only
-  * `tcp://185.177.216.199:7890`
-  * `tls://185.177.216.199:7891`
+  * `tcp://185.177.216.199:7890` (v0.4 only)
+  * `tls://185.177.216.199:7891` (v0.4 only)
 
-* Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only, *(v0.5 testing only)*
+* Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-ovb-0.sergeysedoy97.ru:65533`
-  * `tcp://s-ovb-0.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://s-ovb-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tcp://[2a00:b700:2::5:2d4]:65533`
   * `tls://x-ovb-0.sergeysedoy97.ru:65534`
-  * `tls://s-ovb-0.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://s-ovb-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700:2::5:2d4]:65534`
   * `quic://[2a00:b700:2::5:2d4]:65535`
 
-* Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only, *(v0.5 testing only)*
+* Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-ovb-1.sergeysedoy97.ru:65533`
-  * `tcp://s-ovb-1.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://s-ovb-1.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tcp://[2a00:b700:4::3:6f]:65533`
   * `tls://x-ovb-1.sergeysedoy97.ru:65534`
-  * `tls://s-ovb-1.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://s-ovb-1.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700:4::3:6f]:65534`
   * `quic://[2a00:b700:4::3:6f]:65535`
 
@@ -151,11 +151,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Kazan
 
-* Kazan, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only, *(v0.5 testing only)*
+* Kazan, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-kzn-0.sergeysedoy97.ru:65533`
-  * `tcp://s-kzn-0.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://s-kzn-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tcp://[2a00:b700:1::38]:65533`
   * `tls://x-kzn-0.sergeysedoy97.ru:65534`
-  * `tls://s-kzn-0.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://s-kzn-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700:1::38]:65534`
   * `quic://[2a00:b700:1::38]:65535`

@@ -29,12 +29,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
 
-
 ### New Jersey
 
 * Piscataway, operated by [1200bps](https://longseason.1200bps.xyz)
-  * `tcp://longseason.1200bps.xyz:13121`
-  * `tls://longseason.1200bps.xyz:13122`
+  * `tcp://longseason.1200bps.xyz:13121` (v0.4 only)
+  * `tls://longseason.1200bps.xyz:13122` (v0.4 only)
 
 ### Ohio
 
@@ -68,12 +67,11 @@ Yggdrasil configuration file to peer with these nodes.
 ### Washington
 
 * Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
-  * `tls://167.160.89.98:7040`
-  * `tls://[2605:9f80:2000:64::2]:7040`
- 
+  * `tls://167.160.89.98:7040` (v0.4 only)
+  * `tls://[2605:9f80:2000:64::2]:7040` (v0.4 only)
+
 * Liberty Lake, WA operated by jeff.
   * `tls://23.184.48.86:993`
   * `tls://[2602:fc24:18:7a42::1]:993`
   * `quic://23.184.48.86:993`
   * `quic://[2602:fc24:18:7a42::1]:993`
-

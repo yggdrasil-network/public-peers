@@ -11,11 +11,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg.mkg20001.io:80`
 
 * Heilbronn, public node hosted on a Homeserver, 50 mbit/s, operated by [phrl](http://phrl42.ydns.eu)
-  * `tcp://phrl42.ydns.eu:8842`
+  * `tcp://phrl42.ydns.eu:8842` (v0.4 only)
 
 * Nuremberg, public node hosted on Hetzner Online GmbH operated by [TheTrialGamer](https://gutsche.tech)
-  * `tcp://gutsche.tech:8888`
-  * `tls://gutsche.tech:8889`
+  * `tcp://gutsche.tech:8888` (v0.4 only)
+  * `tls://gutsche.tech:8889` (v0.4 only)
 
 * Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
@@ -35,12 +35,12 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
 
-* Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only, *(v0.5 testing only)*
+* Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
   * `tcp://x-fra-0.sergeysedoy97.ru:65533`
-  * `tcp://s-fra-0.sergeysedoy97.ru:65533` _Dual-Stack by Cloudflare Spectrum_
+  * `tcp://s-fra-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tcp://87.251.77.39:65533`
   * `tls://x-fra-0.sergeysedoy97.ru:65534`
-  * `tls://s-fra-0.sergeysedoy97.ru:65534` _Dual-Stack by Cloudflare Spectrum_
+  * `tls://s-fra-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://87.251.77.39:65534`
   * `quic://87.251.77.39:65535`
 
@@ -53,9 +53,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://ygg.yt:443`
 
 * Hetzner, Falkenstein, operated by neilalexander
-  * `tls://yggdrasil.neilalexander.dev:64648` (v0.5 testing only)
+  * `tls://yggdrasil.neilalexander.dev:64648`
 
 * OVH, Limburg, dedicated server owned and operated by Liizzii
-  * `tcp://bode.theender.net:42069` (v0.5 testing only)
-  * `tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4` (v0.5 testing only)
-  * `quic://bode.theender.net:42269` (v0.5 testing only)
+  * `tcp://bode.theender.net:42069`
+  * `tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4`
+  * `quic://bode.theender.net:42269`
