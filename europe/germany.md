@@ -54,6 +54,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Hetzner, Falkenstein, operated by neilalexander
   * `tls://yggdrasil.neilalexander.dev:64648`
+  * `quic://yggdrasil.neilalexander.dev:64648`
 
 * OVH, Limburg, dedicated server owned and operated by Liizzii
   * `tcp://bode.theender.net:42069`
