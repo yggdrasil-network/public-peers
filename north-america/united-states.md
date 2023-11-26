@@ -32,10 +32,10 @@ Yggdrasil configuration file to peer with these nodes.
 ### Michigan
 
 * Midland, (350 Mbps, IPv4 + IPv6), operated by [Blade](https://matrix.to/#/@blade:matrix.darkness.services)
-  * 'tcp://matrix.darkness.services:10100'
-  * `tls://matrix.darkness.services:10101'
-  * 'tcp://matrixv6.darkness.services:10100'
-  * `tls://matrixv6.darkness.services:10101'
+  * `tcp://matrix.darkness.services:10100`
+  * `tls://matrix.darkness.services:10101`
+  * `tcp://matrixv6.darkness.services:10100`
+  * `tls://matrixv6.darkness.services:10101`
     
 ### New Jersey
 
