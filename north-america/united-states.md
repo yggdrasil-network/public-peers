@@ -29,6 +29,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
 
+### Michigan
+
+* Midland, (350 Mbps, IPv4 + IPv6), operated by [Blade](https://matrix.to/#/@blade:matrix.darkness.services)
+  * 'tcp://matrix.darkness.services:10100'
+  * `tls://matrix.darkness.services:10101'
+  * 'tcp://matrixv6.darkness.services:10100'
+  * `tls://matrixv6.darkness.services:10101'
+    
 ### New Jersey
 
 * Piscataway, operated by [1200bps](https://longseason.1200bps.xyz)
