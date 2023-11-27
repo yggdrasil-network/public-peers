@@ -159,3 +159,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://s-kzn-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700:1::38]:65534`
   * `quic://[2a00:b700:1::38]:65535`
+
+### Volgograd
+
+* Volgograd, home public node, operated by [yggtab] 1 Gbit/s
+  * `tls://yggtab.duckdns.org:8888?key=0000000006e1aff6798dd28a4f88321f5b0ce3e0ff376513eae19607ba8142c7`
