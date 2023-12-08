@@ -19,6 +19,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://supergay.network:443`
   * `tls://supergay.network:9001`
   * `tcp://supergay.network:9002`
+* Chicago, IL, UpCloud VPS, operated by [anton](mailto:anton.stay.connected@gmail.com)
+  * `tcp://rendezvous.anton.molyboha.me:25453`
 
 ### Kansas
 
