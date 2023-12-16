@@ -102,10 +102,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://[2a00:b700:5::5:34]:65534`
   * `quic://[2a00:b700:5::5:34]:65535`
 
-* Saint Petersburg, public node, operated by [ivabus](https://ivabus.dev), 200 Mbit/s, IPv4/IPv6
-  * `tls://ygg.iva.bz:50002`
-  * `tcp://ygg.iva.bz:50001`
-
 ### Omsk
 
 * Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
