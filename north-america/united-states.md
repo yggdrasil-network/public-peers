@@ -5,7 +5,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### California
 
-* San Francisco, Digital Ocean, VPS, operated by [derpindialer](https://github.com/derpindialer)
+* San Francisco, Digital Ocean, VPS, ygg version 0.5.1+, operated by [derpindialer](https://github.com/derpindialer)
   * `tls://corn.chowder.land:443`
   * `tcp://corn.chowder.land:9002`
 
