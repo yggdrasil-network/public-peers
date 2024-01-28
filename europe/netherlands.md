@@ -3,16 +3,10 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Meppel, operated by Zina Korzina
-  * `tls://94.103.82.150:8080` (v0.4 only)
-
 * Amsterdam, Inferno Solutions public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 1000 Mbps*
   * `tcp://vpn.itrus.su:7991`
   * `tls://vpn.itrus.su:7992`
   * `quic://vpn.itrus.su:7993`
-
-* Dronten, operated by ne-vlezay80
-  * `tls://45.147.198.155:6010` (v0.4 only)
 
 * Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
   * `tls://23.137.249.65:444`

@@ -90,8 +90,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
-  * `tcp://box.paulll.cc:13337` (v0.4 only)
-  * `tls://box.paulll.cc:13338` (v0.4 only)
+  * `tcp://box.paulll.cc:13337`
+  * `tls://box.paulll.cc:13338`
 
 * Saint Petersburg, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-led-0.sergeysedoy97.ru:65533`
@@ -112,8 +112,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Novosibirsk
 
 * Novosibirsk, VDS, operated by WipedLife 100mbit/s, IPv4 only
-  * `tcp://185.177.216.199:7890` (v0.4 only)
-  * `tls://185.177.216.199:7891` (v0.4 only)
+  * `tcp://185.177.216.199:7890`
+  * `tls://185.177.216.199:7891`
 
 * Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
   * `tcp://x-ovb-0.sergeysedoy97.ru:65533`

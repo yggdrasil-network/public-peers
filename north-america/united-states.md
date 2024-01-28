@@ -5,10 +5,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### California
 
-* San Francisco, Digital Ocean, VPS, operated by [derpindialer](https://github.com/derpindialer)
-  * `tls://corn.chowder.land:443`
-  * `tcp://corn.chowder.land:9002`
-
 * San Francisco, Digital Ocean, VPS, operated by [marioaugustorama](https://github.com/marioaugustorama)
   * `tls://165.227.17.198:2235`
   * `tcp://165.227.17.198:9002`
@@ -24,26 +20,9 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Kansas
 
-* Lenexa, operated by [jcgruenhage](https://jcg.re)
-  * `tls://108.175.10.127:61216`
-
 * Kansas City, hosted by August Internet, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
-
-### Michigan
-
-* Midland, (350 Mbps, IPv4 + IPv6), operated by [Blade](https://matrix.to/#/@blade:matrix.darkness.services)
-  * `tcp://matrix.darkness.services:10100`
-  * `tls://matrix.darkness.services:10101`
-  * `tcp://matrixv6.darkness.services:10100`
-  * `tls://matrixv6.darkness.services:10101`
-    
-### New Jersey
-
-* Piscataway, operated by [1200bps](https://longseason.1200bps.xyz)
-  * `tcp://longseason.1200bps.xyz:13121` (v0.4 only)
-  * `tls://longseason.1200bps.xyz:13122` (v0.4 only)
 
 ### Ohio
 
@@ -75,10 +54,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg.jjolly.dev:3443`
 
 ### Washington
-
-* Seattle, WA operated by [vaultec81](https://github.com/vaultec81) (@vaultec:matrix.org) and [3Speak](https://3speak.tv)
-  * `tls://167.160.89.98:7040` (v0.4 only)
-  * `tls://[2605:9f80:2000:64::2]:7040` (v0.4 only)
 
 * Liberty Lake, WA operated by jeff.
   * `tls://23.184.48.86:993`
