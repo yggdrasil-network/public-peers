@@ -43,6 +43,12 @@ Yggdrasil configuration file to peer with these nodes.
 * Hillsboro, OR (Hetzner, AMD x86, IPv4 + IPv6)
   * `tls://ygg.mnpnk.com:443`
 
+### New Jersey
+
+* Piscataway, operated by [1200bps](https://longseason.1200bps.xyz)
+  * `tcp://longseason.1200bps.xyz:13121`
+  * `tls://longseason.1200bps.xyz:13122`
+
 ### Texas
 
 * Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
