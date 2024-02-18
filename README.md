@@ -36,6 +36,13 @@ network.
 
 For normal usage, you probably only need 2 or 3 peers.
 
+#### Peer selection/management tools
+
+- [Yggrasil network peers checker / updater](https://github.com/ygguser/peers_updater) \
+  The utility is designed to check the availability of peers and automatically update them in the Yggdrasil configuration file, as well as using the admin API - addPeer method.
+
+
+
 ### TLS peers
 
 As of Yggdrasil v0.3.11, peering connections over TLS are now possible. This hides
