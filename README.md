@@ -41,12 +41,14 @@ URI format: `[protocol]://[host]:[port]?[options]`
 **Available protocols:**
 - Cleartext TCP: `tcp://`
 - TLS: `tls://`
-- TCP over SOCKS5: `socks://`
+- TCP over SOCKS5: `socks://[proxyhost]:[proxyport]/[host]:[port]`
 - UNIX sockets: `unix://`
 - QUIC (v0.5.0+): `quic://`
-- TLS over SOCKS5 (v0.5.2+): `sockstls://`
+- TLS over SOCKS5 (v0.5.2+): `sockstls://[proxyhost]:[proxyport]/[host]:[port]`
 
-Yggdrasil supports basic authentication for SOCKS5 using credentials in the URI like this: `socks://user:password@host`
+Yggdrasil supports basic authentication for SOCKS5 using credentials in the URI like this:
+
+`socks://[username]:[password]@[proxyhost]:[proxyport]/[host]:[port]`
 
 **Query options:**
 - Public-key authentication: `?key=[publickey]` (can have multiple values)
