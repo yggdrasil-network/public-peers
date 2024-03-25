@@ -7,6 +7,3 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://37.186.113.100:1514`
   * `tls://37.186.113.100:1515`
   * `quic://37.186.113.100:1515`
-  * `tcp://[2a02:2a57:c89b::ba0:bab]:1514`
-  * `tls://[2a02:2a57:c89b::ba0:bab]:1515`
-  * `quic://[2a02:2a57:c89b::ba0:bab]:1515`
