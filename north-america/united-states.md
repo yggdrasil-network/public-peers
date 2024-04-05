@@ -9,6 +9,16 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://165.227.17.198:2235`
   * `tcp://165.227.17.198:9002`
 
+### Florida
+
+* Miami, BuyVM, VPS, operated by [termer](https://termer.net/)
+  * `quic://45.61.188.119:9003`
+
+### Georgia
+
+* Marietta, Racknerd, VPS, operated by [termer](https://termer.net/)
+  * `quic://198.23.229.154:9003`
+
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
