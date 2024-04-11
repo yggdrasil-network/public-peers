@@ -4,9 +4,10 @@ Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
 * Falkenstein, Hetzner Cloud, operated by [Thingylabs](https://www.thingylabs.io/)
-  * `quic://ygg-uplink.thingylabs.io:443`
-  * `tls://ygg-uplink.thingylabs.io:443`
   * `tcp://ygg-uplink.thingylabs.io:80`
+  * `tls://ygg-uplink.thingylabs.io:443`
+  * `tls://ygg-uplink.thingylabs.io:993`
+  * `quic://ygg-uplink.thingylabs.io:443`
 
 * Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server
   * `tcp://94.130.203.208:5999`
