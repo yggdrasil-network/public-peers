@@ -9,9 +9,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-uplink.thingylabs.io:993`
   * `quic://ygg-uplink.thingylabs.io:443`
 
-* Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server
-  * `tcp://94.130.203.208:5999`
-
 * Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server, operated by [mkg20001](https://github.com/mkg20001)
   * `tls://ygg.mkg20001.io:443`
   * `tcp://ygg.mkg20001.io:80`
@@ -45,11 +42,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
   * `tcp://193.107.20.230:7743`
-
-* Frankfurt, hosted on SYNLINQ, dedicated server with 10Gb/s, operated by [SolSoCoG](https://ieji.de/@solsocog)
-  * `tcp://ygg.yt:80`
-  * `tls://ygg.yt:443`
-  * `quic://ygg.yt:443`
 
 * Hetzner, Falkenstein, operated by neilalexander
   * `tls://yggdrasil.neilalexander.dev:64648`

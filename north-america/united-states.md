@@ -6,7 +6,6 @@ Yggdrasil configuration file to peer with these nodes.
 ### California
 
 * San Francisco, Digital Ocean, VPS, operated by [marioaugustorama](https://github.com/marioaugustorama)
-  * `tls://165.227.17.198:2235`
   * `tcp://165.227.17.198:9002`
 
 ### Florida
