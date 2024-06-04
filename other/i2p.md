@@ -5,6 +5,9 @@ Yggdrasil configuration file to peer with these nodes.
 
 Note that the following assumes I2P is running locally and has configured SOCKS proxy on `localhost:4447`.
 
+* I2P Node by @mikaela.suomalainen:matrix.org
+  * `socks://y3uz4d2zn5bycgrciqh3czb4hzb7rjnll4hxfmd6etuyo3yh5cxa.b32.i2p:7779`
+
 * ST32 (TCP-only, Standard I2P service, b32 address), operated by [cathugger](http://cathugger.i2p/contact.html)
   * `socks://localhost:4447/7mx6ztmimo5nrnmydjjtkr6maupknr3zlyr33umly22pqnivyxcq.b32.i2p:46944`
 
