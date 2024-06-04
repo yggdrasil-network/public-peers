@@ -14,3 +14,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://78.27.153.163:3785`
   * `tls://78.27.153.163:3784`
   * `tls://78.27.153.163:179`
+ 
+* Kiev, operated by [SunSung](git@sunsung.fun)
+  * `quic://yggdrasil.sunsung.fun:4441`
+  * `tcp://yggdrasil.sunsung.fun:4442`
+  * `tls://yggdrasil.sunsung.fun:4443`
