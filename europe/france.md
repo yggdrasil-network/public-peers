@@ -24,8 +24,3 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://s2.i2pd.xyz:39575`
   * `tls://62.210.85.80:39575`
   * `tls://[2001:470:1f13:e56::64]:39575`
-
-* Paris, operated by [jmjl](https://tilde.green/~jmjl/)
-  * `tcp://boy.iwnp.org:65533`
-  * `tls://boy.iwnp.org:65534`
-  * `quic://boy.iwnp.org:65535`

@@ -33,13 +33,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
 
-### Ohio
-
-* Columbus, OH (500 Mbps, IPv4 + IPv6), operated by [herronjo](https://joshiepoo.com)
-  * `tcp://yggdrasil-2.herronjo.com:1336?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf`
-  * `tls://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf`
-  * `quic://yggdrasil-2.herronjo.com:1337?key=6cbcd23d94c9a300e442bd1054c7ced8d09dbb6349261651b24e76851efb7edf`
-
 ### Oregon
 
 * Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)

@@ -53,24 +53,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://45.95.202.91:65535`
   * `quic://[2a09:5302:ffff::aca]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
-  * `tcp://x-mow-3.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-3.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tcp://[2a00:b700::c:2e1]:65533`
-  * `tls://x-mow-3.sergeysedoy97.ru:65534`
-  * `tls://s-mow-3.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://[2a00:b700::c:2e1]:65534`
-  * `quic://[2a00:b700::c:2e1]:65535`
-
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
-  * `tcp://x-mow-4.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-4.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tcp://[2a00:b700:3::3:3b4]:65533`
-  * `tls://x-mow-4.sergeysedoy97.ru:65534`
-  * `tls://s-mow-4.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://[2a00:b700:3::3:3b4]:65534`
-  * `quic://[2a00:b700:3::3:3b4]:65535`
-  
 * Моscow, VPS public nodes operated by [gastarbeiter14](https://t.me/gastarbeiter14):
   * node1:
   * `tcp://45.147.200.202:12402`
@@ -96,15 +78,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
 
-* Saint Petersburg, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
-  * `tcp://x-led-0.sergeysedoy97.ru:65533`
-  * `tcp://s-led-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tcp://[2a00:b700:5::5:34]:65533`
-  * `tls://x-led-0.sergeysedoy97.ru:65534`
-  * `tls://s-led-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://[2a00:b700:5::5:34]:65534`
-  * `quic://[2a00:b700:5::5:34]:65535`
-
 ### Omsk
 
 * Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
@@ -117,24 +90,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Novosibirsk, VDS, operated by WipedLife 100mbit/s, IPv4 only
   * `tcp://185.177.216.199:7890`
   * `tls://185.177.216.199:7891`
-
-* Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
-  * `tcp://x-ovb-0.sergeysedoy97.ru:65533`
-  * `tcp://s-ovb-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tcp://[2a00:b700:2::5:2d4]:65533`
-  * `tls://x-ovb-0.sergeysedoy97.ru:65534`
-  * `tls://s-ovb-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://[2a00:b700:2::5:2d4]:65534`
-  * `quic://[2a00:b700:2::5:2d4]:65535`
-
-* Novoibirsk, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
-  * `tcp://x-ovb-1.sergeysedoy97.ru:65533`
-  * `tcp://s-ovb-1.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tcp://[2a00:b700:4::3:6f]:65533`
-  * `tls://x-ovb-1.sergeysedoy97.ru:65534`
-  * `tls://s-ovb-1.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://[2a00:b700:4::3:6f]:65534`
-  * `quic://[2a00:b700:4::3:6f]:65535`
 
 ### Krasnoyarsk
 
