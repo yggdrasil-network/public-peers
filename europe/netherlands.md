@@ -11,9 +11,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
   * `tls://23.137.249.65:444`
 
-* incognet NL rented dedi, run by jeff
-  * `tls://23.137.251.45:5222`
-  * `quic://23.137.251.45:5222`
 
 * Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tcp://x-ams-0.sergeysedoy97.ru:65533`
