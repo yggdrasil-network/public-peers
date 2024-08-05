@@ -7,6 +7,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://193.93.119.42:14244`
   * `tls://193.93.119.42:443`
   * `quic://193.93.119.42:1443`
+  * `ws://193.93.119.42:850`
 
 * Kiev, operated by [mvvpt](mvvpt0@bigmir.net)
   * `tcp://78.27.153.163:33165`
