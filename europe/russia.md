@@ -84,6 +84,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://srv.itrus.su:7991`
   * `tls://srv.itrus.su:7992`
   * `quic://srv.itrus.su:7993`
+  * `ws://srv.itrus.su:7994`
 
 ### Novosibirsk
 
@@ -102,6 +103,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://ekb.itrus.su:7991`
   * `tls://ekb.itrus.su:7992`
   * `quic://ekb.itrus.su:7993`
+  * `ws://ekb.itrus.su:7994`
 
 ### Kazan
 
