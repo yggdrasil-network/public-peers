@@ -7,6 +7,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://vpn.itrus.su:7991`
   * `tls://vpn.itrus.su:7992`
   * `quic://vpn.itrus.su:7993`
+  * `ws://vpn.itrus.su:7994`
 
 * Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
   * `tls://23.137.249.65:444`
