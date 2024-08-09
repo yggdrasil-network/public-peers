@@ -8,4 +8,4 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://37.186.113.100:1515`
   * `quic://37.186.113.100:1515`
   * `ws://37.186.113.100:1516`
-  * `wss://ygg-evn-1.wgos.org`
+  * `wss://ygg-evn-1.wgos.org:443`
