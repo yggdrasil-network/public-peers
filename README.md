@@ -45,6 +45,8 @@ URI format: `[protocol]://[host]:[port]?[options]`
 - UNIX sockets: `unix://`
 - QUIC (v0.5.0+): `quic://`
 - TLS over SOCKS5 (v0.5.2+): `sockstls://[proxyhost]:[proxyport]/[host]:[port]`
+- WebSocket (v0.5.7+): `ws://`
+- WebSocket over HTTPS (v0.5.7+): `wss://`
 
 Yggdrasil supports basic authentication for SOCKS5 using credentials in the URI like this:
 
