@@ -15,18 +15,14 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tcp://x-ams-0.sergeysedoy97.ru:65533`
-  * `tcp://s-ams-0.sergeysedoy97.ru:65533` *IPv6 by Cloudflare Spectrum*
+  * `tcp://s-ams-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tls://x-ams-0.sergeysedoy97.ru:65534`
-  * `tls://s-ams-0.sergeysedoy97.ru:65534` *IPv6 by Cloudflare Spectrum*
+  * `tls://s-ams-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
+  * `quic://x-ams-0.sergeysedoy97.ru:65535`
 
 * Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack
   * `tcp://x-ams-1.sergeysedoy97.ru:65533`
-  * `tcp://s-ams-1.sergeysedoy97.ru:65533` *IPv6 by Cloudflare Spectrum*
-  * `tcp://79.137.194.94:65533`
-  * `tcp://[2a12:5940:1464::2]:65533`
+  * `tcp://s-ams-1.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tls://x-ams-1.sergeysedoy97.ru:65534`
-  * `tls://s-ams-1.sergeysedoy97.ru:65534` *IPv6 by Cloudflare Spectrum*
-  * `tls://79.137.194.94:65534`
-  * `tls://[2a12:5940:1464::2]:65534`
-  * `quic://79.137.194.94:65535`
-  * `quic://[2a12:5940:1464::2]:65535`
+  * `tls://s-ams-1.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
+  * `quic://x-ams-1.sergeysedoy97.ru:65535`
