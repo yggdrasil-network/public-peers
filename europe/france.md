@@ -24,3 +24,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://s2.i2pd.xyz:39575`
   * `tls://62.210.85.80:39575`
   * `tls://[2001:470:1f13:e56::64]:39575`
+
+ * Gravelines, OVH SAS, operated by [jmjl](https://tilde.green/~jmjl/)
+  * `tls://yggpeer.tilde.green:59454`
+  * `tcp://yggpeer.tilde.green:53299`
+  * `quic://yggpeer.tilde.green:62265`
