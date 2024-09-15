@@ -65,10 +65,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://45.95.202.21:443`
   * `tls://[2a09:5302:ffff::992]:443`
 
-* Moscow, home public node (300 mbit/s) operated by [gastarbeiter14](https://t.me/gastarbeiter14):
-  * `tcp://77.37.218.131:12402`
-  * `tls://77.37.218.131:443`
-
 * Moscow, vps public node, operated by [EKCKABATOP54](androposhtar1029@gmail.com), 100 Mbit/s, IPv4 Only
   * `tcp://94.103.183.125:7676`
 
@@ -104,14 +100,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ekb.itrus.su:7992`
   * `quic://ekb.itrus.su:7993`
   * `ws://ekb.itrus.su:7994`
-
-### Kazan
-
-* Kazan, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, IPv6 Only
-  * `tcp://x-kzn-0.sergeysedoy97.ru:65533`
-  * `tcp://s-kzn-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tcp://[2a00:b700:1::38]:65533`
-  * `tls://x-kzn-0.sergeysedoy97.ru:65534`
-  * `tls://s-kzn-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `tls://[2a00:b700:1::38]:65534`
   * `quic://[2a00:b700:1::38]:65535`
