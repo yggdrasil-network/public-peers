@@ -9,12 +9,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Stockholm, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack
   * `tcp://x-sto-0.sergeysedoy97.ru:65533`
-  * `tcp://s-sto-0.sergeysedoy97.ru:65533` *IPv6 by Cloudflare Spectrum*
-  * `tcp://77.91.84.76:65533`
-  * `tcp://[2a12:5940:b1a0::2]:65533`
+  * `tcp://s-sto-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
   * `tls://x-sto-0.sergeysedoy97.ru:65534`
-  * `tls://s-sto-0.sergeysedoy97.ru:65534` *IPv6 by Cloudflare Spectrum*
-  * `tls://77.91.84.76:65534`
-  * `tls://[2a12:5940:b1a0::2]:65534`
-  * `quic://77.91.84.76:65535`
-  * `quic://[2a12:5940:b1a0::2]:65535`
+  * `tls://s-sto-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
+  * `quic://x-sto-0.sergeysedoy97.ru:65535`
