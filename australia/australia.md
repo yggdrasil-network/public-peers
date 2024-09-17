@@ -11,4 +11,4 @@ Yggdrasil configuration file to peer with these nodes.
 ### Adelaide
 
 * Adelaide, operated by [sirsegv](https://sirsegv.moe/)
-  * `tcp://[2001:44b8:26e:1300::1]`
+  * `tls://[2001:44b8:26e:1300::1]:7676`
