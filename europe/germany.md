@@ -37,6 +37,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://x-fra-0.sergeysedoy97.ru:65534`
   * `tls://s-fra-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `quic://x-fra-0.sergeysedoy97.ru:65535`
+* Frankfurt, VPS, IPv4 Only, 2Gbps operated by [lcharles123](https://github.com/lcharles123)
+  * `tcp://89.117.152.94:65535`
+  * `quic://89.117.152.94:65535`
 
 * Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
   * `tcp://193.107.20.230:7743`
