@@ -12,6 +12,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://yg-syd.magicum.net:23700`
   * `tls://yg-syd.magicum.net:23700`
 
+* Melbourne, Vultr operated by [evasil](https://matrix.to/#/@elias:illan.co) @ 250 Mbit/s, Dual Stack
+  * `quic://mel-syd.magicum.net:23800`
+  * `tls://mel-syd.magicum.net:23800`
+  
 ### Adelaide
 
 * Adelaide, operated by [sirsegv](https://sirsegv.moe/)
