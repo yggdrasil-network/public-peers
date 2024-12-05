@@ -7,9 +7,11 @@ Yggdrasil configuration file to peer with these nodes.
 
 * San Francisco, Digital Ocean, VPS, operated by [marioaugustorama](https://github.com/marioaugustorama)
   * `tcp://165.227.17.198:9002`
-* Los Angeles, Racknerd, IPv4/v6, 1Gbps operated by [lcharles123](https://github.com/lcharles123)
-  * `tcp://nerdvm.mywire.org:65535`
-  * `quic://nerdvm.mywire.org:65535`
+* Los Angeles, Racknerd, IPv4/v6, 1Gbps, meteded, operated by [lcharles123](https://github.com/lcharles123)
+  * `tcp://ip4.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
+  * `quic://ip4.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
+  * `tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
+  * `quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
 
 ### Florida
 
