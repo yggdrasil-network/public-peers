@@ -36,6 +36,26 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
 
+### Missouri
+ 
+* Kansas City, Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
+  * `tcp://ygg-kcmo.incognet.io:8883`
+  * `tls://ygg-kcmo.incognet.io:8884`
+  * `quic://ygg-kcmo.incognet.io:8885`
+  * `ws://ygg-kcmo.incognet.io:8886`
+  * `wss://ygg-kcmo.incognet.io:8887`
+  * `unix://ygg-kcmo.incognet.io:8888`
+
+### Pennsylvania
+
+* Allentown, Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
+  * `tcp://ygg-pa.incognet.io:8883`
+  * `tls://ygg-pa.incognet.io:8884`
+  * `quic://ygg-pa.incognet.io:8885`
+  * `ws://ygg-pa.incognet.io:8886`
+  * `wss://ygg-pa.incognet.io:8887`
+  * `unix://ygg-pa.incognet.io:8888`  
+
 ### Oregon
 
 * Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)
@@ -71,3 +91,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://[2602:fc24:18:7a42::1]:993`
   * `quic://23.184.48.86:993`
   * `quic://[2602:fc24:18:7a42::1]:993`
+ 
+* Liberty Lake, Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
+  * `tcp://ygg-wa.incognet.io:8883`
+  * `tls://ygg-wa.incognet.io:8884`
+  * `quic://ygg-wa.incognet.io:8885`
+  * `ws://ygg-wa.incognet.io:8886`
+  * `wss://ygg-wa.incognet.io:8887`
+  * `unix://ygg-wa.incognet.io:8888`  
