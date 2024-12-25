@@ -11,7 +11,14 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
   * `tls://23.137.249.65:444`
-
+ 
+* Naaldwijk, Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
+  * `tcp://ygg-nl.incognet.io:8883`
+  * `tls://ygg-nl.incognet.io:8884`
+  * `quic://ygg-nl.incognet.io:8885`
+  * `ws://ygg-nl.incognet.io:8886`
+  * `wss://ygg-nl.incognet.io:8887`
+  * `unix://ygg-nl.incognet.io:8888`
 
 * Amsterdam, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
   * `tcp://x-ams-0.sergeysedoy97.ru:65533`
