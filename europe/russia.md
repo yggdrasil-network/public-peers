@@ -79,8 +79,28 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ekb.itrus.su:7993`
   * `ws://ekb.itrus.su:7994`
 
+* Yekaterinburg, VPS, operated by [Ruslan Gilfanov](https://01.ekb.ru.dioni.su/yggdrasil.html), *rate-limited to 1 Gbit/s, IPv4/IPv6*
+  * IPv4:
+  * `tcp://ip4.01.ekb.ru.dioni.su:9002`
+  * `tls://ip4.01.ekb.ru.dioni.su:9003`
+  * `quic://ip4.01.ekb.ru.dioni.su:9002`
+  * `ws://ip4.01.ekb.ru.dioni.su:9004`
+  * IPv6:
+  * `tcp://ip6.01.ekb.ru.dioni.su:9002`
+  * `tls://ip6.01.ekb.ru.dioni.su:9003`
+  * `quic://ip6.01.ekb.ru.dioni.su:9002`
+  * `ws://ip6.01.ekb.ru.dioni.su:9004`
+
 ### Rostov-on-Don
 
 * Rostov-on-Don, home public node, operated by [lavacat](lavacat@fedora.email) *bandwidth up to 200 Mbit/s*
   * `tls://vix.duckdns.org:36014`
   * `quic://vix.duckdns.org:36014`
+
+### Tomsk
+
+* Tomsk, VPS, operated by [Ruslan Gilfanov](https://01.tom.ru.dioni.su/yggdrasil.html), *rate-limited to 100 Mbit/s, IPv4 Only*
+  * `tcp://ip4.01.tom.ru.dioni.su:9002`
+  * `tls://ip4.01.tom.ru.dioni.su:9003`
+  * `quic://ip4.01.tom.ru.dioni.su:9002`
+  * `ws://ip4.01.tom.ru.dioni.su:9004`
