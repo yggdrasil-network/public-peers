@@ -15,3 +15,7 @@ Yggdrasil configuration file to peer with these nodes.
   
 * Helsinki, i-SERVERS LTD, 200 Mbit/sec
   * `tls://139.28.220.141:3333`
+
+* Helsinki, Hetzner, 1 Gbit/sec
+  * `tls://95.217.35.92:1337`
+  * `tls://[2a01:4f9:2b:2d8f::2]:1337`
