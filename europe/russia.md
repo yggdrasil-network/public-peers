@@ -46,6 +46,18 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, vps public node, operated by [EKCKABATOP54](androposhtar1029@gmail.com), 100 Mbit/s, IPv4 Only
   * `tcp://94.103.183.125:7676`
 
+* Moscow, VPS, operated by [Ruslan Gilfanov](https://01.msk.ru.dioni.su/yggdrasil.html), *rate-limited to 10 Gbit/s, IPv4/IPv6*
+  * IPv4:
+  * `tcp://ip4.01.msk.ru.dioni.su:9002`
+  * `tls://ip4.01.msk.ru.dioni.su:9003`
+  * `quic://ip4.01.msk.ru.dioni.su:9002`
+  * `ws://ip4.01.msk.ru.dioni.su:9004`
+  * IPv6:
+  * `tcp://ip6.01.msk.ru.dioni.su:9002`
+  * `tls://ip6.01.msk.ru.dioni.su:9003`
+  * `quic://ip6.01.msk.ru.dioni.su:9002`
+  * `ws://ip6.01.msk.ru.dioni.su:9004`
+
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
