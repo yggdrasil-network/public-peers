@@ -11,3 +11,9 @@ Yggdrasil configuration file to peer with these nodes.
 
 * VPS, operated by [degtine](https://github.com/degtine)
   * `tls://ftp.aiwnios.com:989`
+
+### Osaka
+
+* Osaka, Vultr operated by [evasil](https://matrix.to/#/@elias:illan.co) @ 250 Mbit/s, Dual Stack
+  * `quic://yg-osa.magicum.net:23900`
+  * `tls://yg-osa.magicum.net:23900`
