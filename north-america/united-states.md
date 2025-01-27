@@ -35,6 +35,12 @@ Yggdrasil configuration file to peer with these nodes.
 * Kansas City, hosted by August Internet, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
   * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
+ 
+### Maryland
+
+* Rockville, MD, operated by [redcathode](https://redcatho.de) - 1 Gbit/s IPv4
+  * `tls://redcatho.de:9494`
+  * `quic://redcatho.de:9494`
 
 ### Missouri
  
