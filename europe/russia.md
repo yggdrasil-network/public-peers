@@ -61,6 +61,16 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, vps public node, operated by [theshezzee](mailto:thewizard3424@gmail.com), 10 Gbit/s, IPv4 Only
   * `tcp://yggdrasil.1337.moe:7676`
 
+* Moscow, vps public node, operated by [NeonXP](mailto:i@neonxp.ru), IPv4 Only
+  * `tcp://msk1.neonxp.ru:7991`
+  * `tcp://195.2.74.155:7991`
+  * `tls://msk1.neonxp.ru:7992`
+  * `tls://195.2.74.155:7992`
+  * `ws://msk1.neonxp.ru:7993`
+  * `ws://195.2.74.155:7993`
+  * `quic://msk1.neonxp.ru:7994`
+  * `quic://195.2.74.155:7994`
+
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
@@ -119,3 +129,15 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ip4.01.tom.ru.dioni.su:9003`
   * `quic://ip4.01.tom.ru.dioni.su:9002`
   * `ws://ip4.01.tom.ru.dioni.su:9004`
+
+### Kazan
+
+* Kazan, vps public node, operated by [NeonXP](mailto:i@neonxp.ru), IPv4 Only
+  * `tcp://kzn1.neonxp.ru:7991`
+  * `tcp://195.58.51.167:7991`
+  * `tls://kzn1.neonxp.ru:7992`
+  * `tls://195.58.51.167:7992`
+  * `ws://kzn1.neonxp.ru:7993`
+  * `ws://195.58.51.167:7993`
+  * `quic://kzn1.neonxp.ru:7994`
+  * `quic://195.58.51.167:7994`
