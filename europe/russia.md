@@ -68,7 +68,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://195.2.74.155:7992`
   * `ws://msk1.neonxp.ru:7993`
   * `ws://195.2.74.155:7993`
-  * `quick://msk1.neonxp.ru:7994`
+  * `quic://msk1.neonxp.ru:7994`
   * `quic://195.2.74.155:7994`
 
 ### Saint Petersburg
@@ -139,5 +139,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://195.58.51.167:7992`
   * `ws://kzn1.neonxp.ru:7993`
   * `ws://195.58.51.167:7993`
-  * `quick://kzn1.neonxp.ru:7994`
+  * `quic://kzn1.neonxp.ru:7994`
   * `quic://195.58.51.167:7994`
