@@ -13,3 +13,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://x-sto-0.sergeysedoy97.ru:65534`
   * `tls://s-sto-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `quic://x-sto-0.sergeysedoy97.ru:65535`
+
+* Stockholm, public node, operated by [Skhron](https://skhron.eu/), 1 Gbit/s, Dual-Stack
+  * `tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883`
+  * `tls://sto01.yggdrasil.hosted-by.skhron.eu:8884`
+  * `quic://sto01.yggdrasil.hosted-by.skhron.eu:8885`
+  * `ws://sto01.yggdrasil.hosted-by.skhron.eu:8886`
