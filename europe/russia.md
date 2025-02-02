@@ -141,3 +141,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `ws://195.58.51.167:7993`
   * `quic://kzn1.neonxp.ru:7994`
   * `quic://195.58.51.167:7994`
+
+### Kursk
+
+* Kursk, dual-stack, dual-home, operated by [cleverfox](https://github.com/cleverfox/)
+  * `tls://kursk.cleverfox.org:15015`
+  * `quic://kursk.cleverfox.org:15015`
+  * `ws://kursk.cleverfox.org:15016`
