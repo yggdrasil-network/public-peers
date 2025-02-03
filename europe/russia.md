@@ -58,8 +58,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ip6.01.msk.ru.dioni.su:9002`
   * `ws://ip6.01.msk.ru.dioni.su:9004`
 
-* Moscow, vps public node, operated by [theshezzee](mailto:thewizard3424@gmail.com), 10 Gbit/s, IPv4 Only
+* Moscow, vps public node, operated by [theshezzee](mailto:thewizard3424@gmail.com), 10 Gbit/s, IPv4/IPv6
+  * IPv4:
   * `tcp://yggdrasil.1337.moe:7676`
+  * IPv6 (Limited to 100 Mbit/s):
+  * `tls://yggdrasil.neko-canopus.ts.net:8443`
 
 * Moscow, vps public node, operated by [NeonXP](mailto:i@neonxp.ru), IPv4 Only
   * `tcp://msk1.neonxp.ru:7991`
