@@ -30,3 +30,6 @@ Note that the following assumes Tor is running locally and listening on the defa
 
 * HS3 (TCP-only, Hidden Service, v3), operated by [jmjl](https://tilde.green/~jmjl/)
   * `socks://localhost:9050/goux4uxdsu4gdnoxvizb74fapjtsn2pstqeqonr2juwqn5qqfgiowjyd.onion:5222`
+
+* HS3 (TCP-only, single hop mode), operated by [piru](https://piru.re)
+  * `socks://localhost:9050/mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337`
