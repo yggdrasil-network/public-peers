@@ -81,6 +81,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
   * `tcp://cowboy.supergay.network:9111`
 
+* Ft. Worth, TX operated by [Nyx](https://git.gay/nyx)
+  * `tcp://ygg.everypizza.im:9441`
+
 ### Utah
 
 * Spanish Fork, UT operated by [jjolly](https://github.com/jjolly)
