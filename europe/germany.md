@@ -46,6 +46,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
   * `tcp://193.107.20.230:7743`
 
+* Frankfurt, DigitalOcean, 2Gbps, operated by [avevad](https://t.me/avevad)
+  * `tls://helium.avevad.com:1337`
+
 * Hetzner, Falkenstein, operated by neilalexander
   * `tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358`
 
