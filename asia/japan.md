@@ -15,6 +15,10 @@ Yggdrasil configuration file to peer with these nodes.
 * VPS, operated by [degtine](https://github.com/degtine)
   * `tls://ftp.aiwnios.com:989`
 
+* Tokyo, Vultr operated by [evasil](https://matrix.to/#/@elias:illan.co) @ 250 Mbit/s, Dual Stack
+  * `tls://yg-tyo.magicum.net:32333`
+  * `quic://yg-yto.magicum.net:32334`
+
 ### Osaka
 
 * Osaka, Vultr operated by [evasil](https://matrix.to/#/@elias:illan.co) @ 250 Mbit/s, Dual Stack
