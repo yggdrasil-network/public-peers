@@ -19,8 +19,3 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://yg-tyo.magicum.net:32333`
   * `quic://yg-tyo.magicum.net:32334`
 
-### Osaka
-
-* Osaka, Vultr operated by [evasil](https://matrix.to/#/@elias:illan.co) @ 250 Mbit/s, Dual Stack
-  * `quic://yg-osa.magicum.net:23900`
-  * `tls://yg-osa.magicum.net:23900`
