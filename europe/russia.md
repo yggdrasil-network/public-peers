@@ -87,9 +87,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Novosibirsk
 
-* Novosibirsk, VDS, operated by WipedLife 100mbit/s, IPv4 only
-  * `tcp://185.177.216.199:7890`
-  * `tls://185.177.216.199:7891`
+* Novosibirsk, home public node, operated by WipedLife 100mbit/s, IPv4 only
+  * `tcp://37.192.232.33:8080`
+  * `tls://37.192.232.33:442`
 
 ### Krasnoyarsk
 
