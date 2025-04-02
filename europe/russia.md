@@ -148,3 +148,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://kursk.cleverfox.org:15015`
   * `quic://kursk.cleverfox.org:15015`
   * `ws://kursk.cleverfox.org:15016`
+
+### Vladivostok
+
+* Vladivostok, operated by [evasil](https://github.com/evasil/), IPv4 only
+  * `tls://yg-vlk.magicum.net:8443`
+  * `ws://yg-vlk.magicum.net:8080`
