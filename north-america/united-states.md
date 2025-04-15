@@ -13,16 +13,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
   * `quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
 
-### Florida
-
-* Miami, BuyVM, VPS, operated by [termer](https://termer.net/)
-  * `quic://45.61.188.119:9003`
-
-### Georgia
-
-* Marietta, Racknerd, VPS, operated by [termer](https://termer.net/)
-  * `quic://198.23.229.154:9003`
-
 ### Illinois
 
 * Chicago, IL operated by [christoofar](https://github.com/christoofar)
@@ -49,6 +39,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-kcmo.incognet.io:8884`
   * `quic://ygg-kcmo.incognet.io:8885`
   * `ws://ygg-kcmo.incognet.io:8886`
+
+### Nevada
+
+* Las Vegas, NV operated by [3DT](https://3dt.net) - 1 Gbit/s Dual-Stack
+  * `tcp://neo.node.3dt.net:9002`
+  * `tls://neo.node.3dt.net:9003`
+  * `quic://neo.node.3dt.net:9004`
+  * `wss://neo.node.3dt.net:9005`
 
 ### New Jersey
 
@@ -96,6 +94,12 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://[2602:fc24:18:7a42::1]:993`
   * `quic://23.184.48.86:993`
   * `quic://[2602:fc24:18:7a42::1]:993`
+
+* Liberty Lake, WA operated by [3DT](https://3dt.net) - 4 Gbit/s, Dual-Stack
+  * `tcp://leo.node.3dt.net:9002`
+  * `tls://leo.node.3dt.net:9003`
+  * `quic://leo.node.3dt.net:9004`
+  * `wss://leo.node.3dt.net:9005`
 
 * Liberty Lake, WA, Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
   * `tcp://ygg-wa.incognet.io:8883`
