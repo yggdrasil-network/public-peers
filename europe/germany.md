@@ -5,9 +5,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Falkenstein, Hetzner Cloud, operated by [Thingylabs](https://www.thingylabs.io/)
   * `tcp://ygg-uplink.thingylabs.io:80`
-  * `tls://ygg-uplink.thingylabs.io:443`
-  * `tls://ygg-uplink.thingylabs.io:993`
-  * `quic://ygg-uplink.thingylabs.io:443`
 
 * Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server, operated by [mkg20001](https://github.com/mkg20001)
   * `tls://ygg.mkg20001.io:443`
