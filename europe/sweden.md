@@ -19,3 +19,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://sto01.yggdrasil.hosted-by.skhron.eu:8884`
   * `quic://sto01.yggdrasil.hosted-by.skhron.eu:8885`
   * `ws://sto01.yggdrasil.hosted-by.skhron.eu:8886`
+
+* Gothenburg, anonymous yggdrasil IXP, operated by sysop, residential
+  * `tcp://sysop.link:555`
+  * `quic://sysop.link:555`
