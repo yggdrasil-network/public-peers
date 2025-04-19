@@ -31,3 +31,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://x-ams-1.sergeysedoy97.ru:65534`
   * `tls://s-ams-1.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
   * `quic://x-ams-1.sergeysedoy97.ru:65535`
+
+* Amsterdam, public node, operated by [ThatMaidGuy](https://thatmaidguy.ru), 100 Mbit/s
+  * `tcp://thatmaidguy.fvds.ru:7991`
