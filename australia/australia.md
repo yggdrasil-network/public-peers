@@ -8,8 +8,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Sydney, Flowvps, sponsored by [bondarevv23](https://github.com/bondarevv23) operated by [EKCKABATOP54](androposhtar1029@gmail.com)
   * `tcp://195.114.14.86:7676`
 
-* Sydney, Vultr operated by [evasil](https://github.com/evasil/) @ 250 Mbit/s, Dual Stack
-  * `quic://yg-syd.magicum.net:23700`
+* Sydney, Vultr operated by [evasil](https://github.com/evasil/), Dual Stack
+  * `quic://yg-syd.magicum.net:23701`
   * `tls://yg-syd.magicum.net:23700`
 
 * Sydney, OVH, operated by [joelkoen](https://github.com/joelkoen)
@@ -17,8 +17,8 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Melbourne
 
-* Melbourne, Vultr operated by [evasil](https://github.com/evasil/) @ 250 Mbit/s, Dual Stack
-  * `quic://yg-mel.magicum.net:23800`
+* Melbourne, Vultr operated by [evasil](https://github.com/evasil/), Dual Stack
+  * `quic://yg-mel.magicum.net:23801`
   * `tls://yg-mel.magicum.net:23800`
 
 ### Adelaide
