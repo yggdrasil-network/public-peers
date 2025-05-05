@@ -22,3 +22,7 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
   
 * I2P node (Java I2P, TCP-only, Standard I2P service, b32 address), operated by [Marek Küthe](https://mk16.de/)
   * `socks://localhost:4447/3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p`
+
+* I2Pd node, operated by lcharles123
+  * `socks://localhost:4447/rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337`
+ 
