@@ -152,5 +152,5 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 ### Vladivostok
 
 * Vladivostok, operated by [evasil](https://github.com/evasil/), IPv4 only
-  * `tcp://193.124.9.204:29330`
-  * `tls://193.124.9.204:29331`
+  * `tcp://yg-vvo.magicum.net:29330`
+  * `tls://yg-vvo.magicum.net:29331`
