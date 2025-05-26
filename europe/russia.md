@@ -77,6 +77,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
 
+ * Saint Petersburg, public node, operated by [Boxard](https://github.com/Boxard), *1 GB/S*
+  * `tcp://91.220.109.93:8080`
+
 ### Omsk
 
 * Omsk, RusHost public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 100 Mbps*
