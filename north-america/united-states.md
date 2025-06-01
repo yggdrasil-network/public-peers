@@ -48,7 +48,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://neo.node.3dt.net:9004`
   * `wss://neo.node.3dt.net:9005`
  
-* Las Vegas, NV, operated by [newsdeef] @ 1 Gbit/s Dual-Stack
+* Las Vegas, NV, operated by [newsdeef](https://newsdeef.eu) @ 1 Gbit/s Dual-Stack
   * `tls://srv.newsdeef.eu:59999` 
   * `tcp://srv.newsdeef.eu:9999`
 
