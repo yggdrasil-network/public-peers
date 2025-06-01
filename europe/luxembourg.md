@@ -6,3 +6,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://[2a03:90c0:85::28a]:444`
   * `ws://[2a03:90c0:85::28a]:445`
   * `tcp://[2a03:90c0:85::28a]:446`
+ 
+* Luxembourg, operated by [newsdeef] @ 1 Gbit/s
+  * `tls://srl.newsdeef.eu:59999` IP4 & IP6
+  * `tcp://srl.newsdeef.eu:9999` IP4 & IP6
