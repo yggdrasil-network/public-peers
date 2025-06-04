@@ -40,9 +40,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ip6.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217`
   * `quic://ip6.fvm.mywire.org:443?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217`
 
-* Frankfurt, VPS with 10Gb/s, operated by [Revertron](https://github.com/Revertron)
-  * `tcp://193.107.20.230:7743`
-
 * Frankfurt, DigitalOcean, 2Gbps, operated by [avevad](https://t.me/avevad)
   * `tls://helium.avevad.com:1337`
 

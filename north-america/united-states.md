@@ -13,19 +13,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
   * `quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
 
-### Illinois
-
-* Chicago, IL operated by [christoofar](https://github.com/christoofar)
-  * `tls://supergay.network:443`
-  * `tls://supergay.network:9001`
-  * `tcp://supergay.network:9002`
-
-### Kansas
-
-* Kansas City, hosted by August Internet, operated by [Marek Küthe](https://mk16.de/)
-  * `tcp://ygg4.mk16.de:1337?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
-  * `tls://ygg4.mk16.de:1338?key=0000147df8daa1cce2ad4b1d4b14c60a4c69a991b2dfde4e00ba7e95c36c530b`
- 
 ### Maryland
 
 * Rockville, MD, operated by [redcathode](https://redcatho.de) - 1 Gbit/s IPv4
@@ -33,7 +20,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://redcatho.de:9494`
 
 ### Missouri
- 
+
 * Kansas City, MO Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
   * `tcp://ygg-kcmo.incognet.io:8883`
   * `tls://ygg-kcmo.incognet.io:8884`
@@ -47,9 +34,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://neo.node.3dt.net:9003`
   * `quic://neo.node.3dt.net:9004`
   * `wss://neo.node.3dt.net:9005`
- 
+
 * Las Vegas, NV, operated by [newsdeef](https://newsdeef.eu) @ 1 Gbit/s Dual-Stack
-  * `tls://srv.newsdeef.eu:59999` 
+  * `tls://srv.newsdeef.eu:59999`
   * `tcp://srv.newsdeef.eu:9999`
 
 ### New Jersey
@@ -71,7 +58,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg.mnpnk.com:443`
 
 ### Pennsylvania
- 
+
 * Allentown, PA Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
   * `tcp://ygg-pa.incognet.io:8883`
   * `tls://ygg-pa.incognet.io:8884`
@@ -79,9 +66,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `ws://ygg-pa.incognet.io:8886`
 
 ### Texas
-
-* Ft. Worth, TX operated by [christoofar](https://github.com/christoofar)
-  * `tcp://cowboy.supergay.network:9111`
 
 * Ft. Worth, TX operated by [Nyx](https://nyx.everypizza.im)
   * `tcp://ygg.everypizza.im:9441`

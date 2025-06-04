@@ -43,9 +43,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://45.95.202.21:443`
   * `tls://[2a09:5302:ffff::992]:443`
 
-* Moscow, vps public node, operated by [EKCKABATOP54](androposhtar1029@gmail.com), 100 Mbit/s, IPv4 Only
-  * `tcp://94.103.183.125:7676`
-
 * Moscow, VPS, operated by [Ruslan Gilfanov](https://01.msk.ru.dioni.su/yggdrasil.html), *rate-limited to 10 Gbit/s, IPv4/IPv6*
   * IPv4:
   * `tcp://ip4.01.msk.ru.dioni.su:9002`
