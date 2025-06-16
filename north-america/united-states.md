@@ -19,6 +19,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://redcatho.de:9494`
   * `quic://redcatho.de:9494`
 
+### Minnesota
+
+* Minneapolis, MN Public Node, operated by [Triplebit](https://www.triplebit.org/), 10 Gbit/s, Dual-Stack
+  * `tcp://mn.us.ygg.triplebit.org:9000`
+  * `tls://mn.us.ygg.triplebit.org:993`
+  * `quic://mn.us.ygg.triplebit.org:443`
+  * `ws://mn.us.ygg.triplebit.org:9010`
+
 ### Missouri
 
 * Kansas City, MO Public Node, operated by [IncogNET](https://incognet.io/), 5 Gbit/s, Dual-Stack
