@@ -20,7 +20,7 @@ Note that the following assumes Tor is running locally and listening on the defa
   *  `socks://localhost:9050/fllrj72kxnenalmmi3uz22ljqnmuex4h2jlhwnapxlzrnn7lknadxuqd.onion:706`
 
 * HS3 (TCP-only, Hidden Service, v3), operated by jeff)
-  * `socks://localhost:9050/douchedeiqqvyyylqorwpej4q3oz46n2shpngp7d27tlcnufnpwag7ad.onion:5222`
+  * `socks://localhost:9050/2cpuaaz2igmcfth4gfoh3jfbie7cysz5xjcpqdetigza7uiloc5oayyd.onion:993`
   
 * HS3 (TCP-only), operated by [Marek Küthe](https://mk16.de/)
   * `socks://localhost:9050/p2pkbqdgvabddixbbr2y7vrra4qxq3sejfep2qknfu4owh7e3i622dqd.onion:1337`
