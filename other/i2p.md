@@ -26,3 +26,8 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 * I2Pd node, operated by lcharles123
   * `socks://localhost:4447/rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337`
  
+* I2P Node (Java I2P), operated by [Triplebit](https://www.triplebit.org/)
+  * `socks://localhost:4447/3es3qg37kp5ufqws7vn4wb4eu2ufcy4rjxycdkqisdql7cotbaca.b32.i2p:9000`
+ 
+* I2P Node (I2Pd), operated by [Triplebit](https://www.triplebit.org/)
+  * `socks://localhost:4447/7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000`
