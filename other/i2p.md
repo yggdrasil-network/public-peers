@@ -26,3 +26,6 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 * I2Pd node, operated by lcharles123
   * `socks://localhost:4447/rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337`
  
+* Short high-capacity tunnels attached to sysop.link (Sweden)
+  * `hgtciq2ususgkmomliphhwenaafdd3lvg3xayzhoyyxn2x3uix5a.b32.i2p:555`
+  * `3xgziioqsz6q7m3ihcl6k5ojti5vats2jze2ilajnt5a62v3ltfa.b32.i2p:555`
