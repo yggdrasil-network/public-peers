@@ -35,6 +35,12 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://ygg-kcmo.incognet.io:8885`
   * `ws://ygg-kcmo.incognet.io:8886`
 
+* Kansas City, MO Public Node, operated by [Triplebit](https://www.triplebit.org/), 10 Gbit/s, Dual-Stack
+  * `tcp://mo.us.ygg.triplebit.org:9000`
+  * `tls://mo.us.ygg.triplebit.org:993`
+  * `quic://mo.us.ygg.triplebit.org:443`
+  * `ws://mo.us.ygg.triplebit.org:9010`
+
 ### Nevada
 
 * Las Vegas, NV operated by [3DT](https://3dt.net) - 1 Gbit/s Dual-Stack

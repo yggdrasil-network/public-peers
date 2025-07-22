@@ -33,3 +33,6 @@ Note that the following assumes Tor is running locally and listening on the defa
 
 * HS3 (TCP-only, single hop mode), operated by [piru](https://piru.re)
   * `socks://localhost:9050/mwk5ztldlqzwz5ksp6fe4zxjhfnpdtencx23aqssqokxhxe4xvopd7id.onion:1337`
+
+* HS3 tunnel attached to sysop.link (Sweden)
+  * `socks://localhost:9050/iniuzq6i6r4tgbd3shnfgcm6ntg64lc75owmcnjyudgbajq7wvvrzwad.onion:555`
