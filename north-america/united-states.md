@@ -91,7 +91,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Virginia
 
-* Ashburn, VA, Oracle Cloud VPS(Always Free Tier), 15Mbps operated by [Twiztid](https://github.com/tvviztid).
+* Ashburn, VA, Oracle Cloud VPS(Always Free Tier, 480Mbps, Metered), operated by [Twiztid](https://github.com/tvviztid).
   * `quic://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23165`
   * `quic://129.80.167.244:23165`
   * `tls://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23164`
