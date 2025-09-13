@@ -81,6 +81,9 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Texas
 
+* Dallas, TX operated by [micr0-dev](https://micr0.dev)
+  * `tcp://micr0.dev:7991`
+  * `tls://micr0.dev:7992`
 * Ft. Worth, TX operated by [Nyx](https://nyx.everypizza.im)
   * `tcp://ygg.everypizza.im:9441`
 
