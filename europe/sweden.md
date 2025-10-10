@@ -7,12 +7,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg.ace.ctrl-c.liu.se:9999?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
   * `tcp://ygg.ace.ctrl-c.liu.se:9998?key=5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908`
 
-* Stockholm, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, Dual-Stack
-  * `tcp://x-sto-0.sergeysedoy97.ru:65533`
-  * `tcp://s-sto-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://x-sto-0.sergeysedoy97.ru:65534`
-  * `tls://s-sto-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `quic://x-sto-0.sergeysedoy97.ru:65535`
+* Stockholm, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
+  * `tcp://77.91.84.76:65535`
+  * `quic://77.91.84.76:65535`
+  * `tcp://[2a12:5940:b1a0::2]:65535`
+  * `quic://[2a12:5940:b1a0::2]:65535`
 
 * Stockholm, public node, operated by [Skhron](https://skhron.eu/), 1 Gbit/s, Dual-Stack
   * `tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883`
