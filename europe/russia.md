@@ -17,19 +17,14 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.225.9.167:18226`
   * `tls://188.225.9.167:18227`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
-  * `tcp://x-mow-0.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://x-mow-0.sergeysedoy97.ru:65534`
-  * `tls://s-mow-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `quic://x-mow-0.sergeysedoy97.ru:65535`
+* Moscow, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
+  * `tcp://89.44.86.85:65535`
+  * `quic://89.44.86.85:65535`
+  * `tcp://[2a09:5302:ffff::132a]:65535`
+  * `quic://[2a09:5302:ffff::132a]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, Dual-Stack
-  * `tcp://x-mow-1.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-1.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://x-mow-1.sergeysedoy97.ru:65534`
-  * `tls://s-mow-1.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `quic://x-mow-1.sergeysedoy97.ru:65535`
+  * `tcp://94.156.181.85:65535`
+  * `quic://94.156.181.85:65535`
 
 * Моscow, VPS public nodes operated by [gastarbeiter14](https://t.me/gastarbeiter14):
   * node1:

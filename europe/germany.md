@@ -28,12 +28,24 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, operated by [mlupo](https://mlupo.duckdns.org/), 600Mbit/s down, 300Mbit/s up
   * `tls://mlupo.duckdns.org:9001`
 
-* Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
-  * `tcp://x-fra-0.sergeysedoy97.ru:65533`
-  * `tcp://s-fra-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://x-fra-0.sergeysedoy97.ru:65534`
-  * `tls://s-fra-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `quic://x-fra-0.sergeysedoy97.ru:65535`
+* Frankfurt, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
+  * `tcp://94.159.110.4:65535`
+  * `quic://94.159.110.4:65535`
+  * `tcp://[2a0b:4142:ce0::2]:65535`
+  * `quic://[2a0b:4142:ce0::2]:65535`
+
+  * `tcp://94.159.111.184:65535`
+  * `quic://94.159.111.184:65535`
+  * `tcp://[2a0b:4142:e9e::2]:65535`
+  * `quic://[2a0b:4142:e9e::2]:65535`
+
+  * `tcp://87.251.77.39:65535`
+  * `quic://87.251.77.39:65535`
+
+  * `tcp://31.57.241.104:65535`
+  * `quic://31.57.241.104:65535`
+  * `tcp://[2a0c:b641:ce0::25d8:c5d6]:65535`
+  * `quic://[2a0c:b641:ce0::25d8:c5d6]:65535`
 
 * Frankfurt, VPS, 2Gbps operated by [lcharles123](https://github.com/lcharles123)
   * `tcp://ip4.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217`
@@ -51,7 +63,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://bode.theender.net:42069`
   * `tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4`
   * `quic://bode.theender.net:42269`
- 
+
 * Hetzner, Nuremberg, three dedicated servers operated by [SolSoCoG](https://solsocog.de)
   * `tls://n.ygg.yt:443`
   * `tls://b.ygg.yt:443`
