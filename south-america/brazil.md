@@ -13,7 +13,3 @@ Yggdrasil configuration file to peer with these nodes.
 * Jundiaí, FTTH connection, operated by [UnderEu](https://mas.to/@UnderEu), 100 Mb/s, IPv6-only
   * `tcp://Yggdrasil.UnderEu.Net:37001`
   * `quic://Yggdrasil.UnderEu.Net:37003`
-
-* São Paulo, VPS, operated by [Fijxu (nadeko.net)](https://nadeko.net), 500 Mb/s, IPv4-only
-  * `tcp://ygg.nadeko.net:44441`
-  * `tls://ygg.nadeko.net:44442`
