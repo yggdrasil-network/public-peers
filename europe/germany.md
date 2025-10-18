@@ -28,6 +28,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, operated by [mlupo](https://mlupo.duckdns.org/), 600Mbit/s down, 300Mbit/s up
   * `tls://mlupo.duckdns.org:9001`
 
+* Nuremberg, operated by [nune @ blitzw.in](https://blitzw.in), hosted with NixOS at Hetzner
+  * `tls://91.98.126.143:32000`
+
 * Frankfurt, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://94.159.110.4:65535`
   * `quic://94.159.110.4:65535`
