@@ -13,6 +13,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ip6.nerdvm.mywire.org:8080?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
   * `quic://ip6.nerdvm.mywire.org:443?key=6342592a45a234afce0966610217f798e4898f6b1607d354fb126c239d05abf7`
 
+### Illinois
+* Highland, Illinois, operated by [nune @ blitzw.in](https://blitzw.in), hosted with Debian at Nuyek
+  * `tls://209.205.228.160:5621`
+
 ### Maryland
 
 * Rockville, MD, operated by [redcathode](https://redcatho.de) - 1 Gbit/s IPv4
