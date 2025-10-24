@@ -15,7 +15,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Illinois
 * Highland, Illinois, operated by [nune @ blitzw.in](https://blitzw.in), hosted with Debian at Nuyek
-  * ``tls://209.205.228.160:5621``
+  * `tls://209.205.228.160:5621`
 
 ### Maryland
 
