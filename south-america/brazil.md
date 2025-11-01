@@ -6,7 +6,7 @@ Yggdrasil configuration file to peer with these nodes.
 ### Minas Gerais
 
 * Formiga, consumer grade connection, 3-10 Mb/s, IPv6-only
-  * `quic://ip6.casa2.mywire.org:44443?key=af4885c078c705dc0e21a696171f3d7878c48bd47164571590f29f38ed5a4573`
+  * `quic://ip6.casa2.mywire.org:44443?key=000000003cb1cc50e05147fc548f6d1f78e7ffcdc67b456f9bb0db6f0a5e4723`
 
 ### São Paulo
 
