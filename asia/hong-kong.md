@@ -7,4 +7,4 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Hong Kong, operated by [evasil](https://github.com/evasil/), Dual Stack
   * `tls://yg-hkg.magicum.net:32333`
-  * `quic://yg-hkg.magicum.net:32334`
+  * `tcp://yg-hkg.magicum.net:32334`
