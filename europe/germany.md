@@ -14,6 +14,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg2.mk16.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
   * `tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
+ 
+* Nuremberg, hosted on Netcup
+  * `tls://159.195.4.143:9001`
 
 * Hetzner, Nürnberg
   * `tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d`
