@@ -127,3 +127,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-wa.incognet.io:8884`
   * `quic://ygg-wa.incognet.io:8885`
   * `ws://ygg-wa.incognet.io:8886`
+
+
+### New York
+
+* New York City, NY, VPS, operated by [Fijxu (nadeko.net)](https://nadeko.net), 1Gbit/s, DualStack (IPv4+IPv6)
+  * `tcp://marisa.nadeko.net:44441`
+  * `tls://marisa.nadeko.net:44442`
+
+* New York City, NY, VPS, operated by [Fijxu (nadeko.net)](https://nadeko.net), 200Mbit/s down, 800Mbit/s up, IPv4
+  * `tcp://kisume.nadeko.net:44441`
+  * `tls://kisume.nadeko.net:44442`
