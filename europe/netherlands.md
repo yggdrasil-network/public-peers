@@ -56,3 +56,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Amsterdam, public node, operated by [ThatMaidGuy](https://thatmaidguy.ru), 100 Mbit/s
   * `tcp://thatmaidguy.fvds.ru:7991`
+
+* Kerkrade, VPS, operated by [Fijxu (nadeko.net)](https://nadeko.net), 1Gbit/s, DualStack (IPv4+IPv6)
+  * `tcp://cirno.nadeko.net:44441`
+  * `tls://cirno.nadeko.net:44442`
