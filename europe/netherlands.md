@@ -60,3 +60,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Kerkrade, VPS, operated by [Fijxu (nadeko.net)](https://nadeko.net), 1Gbit/s, DualStack (IPv4+IPv6)
   * `tcp://cirno.nadeko.net:44441`
   * `tls://cirno.nadeko.net:44442`
+ 
+* Lelystad, Flevoland, Leaseweb dedicated server, Public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
+  * `tls://62.212.82.55:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
+  * `tls:[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67
