@@ -90,6 +90,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * Krasnoyarsk, public node, operated by [multed](https://multed.com/about)
   * `tcp://itcom.multed.com:7991`
+ 
+### Kemerovo
+
+* Kemerovo, public node, 100mbit/s, IPv4 only
+  * `tcp://kem.txlyre.website:1337`
 
 ### Yekaterinburg
 
