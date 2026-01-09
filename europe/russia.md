@@ -113,9 +113,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Rostov-on-Don
 
-* Rostov-on-Don, home public node, operated by [lavacat](lavacat@fedora.email) *bandwidth up to 200 Mbit/s*
+* Rostov-on-Don, home public node, operated by [lavacat](lavacat@disroot.org) *bandwidth up to 200 Mbit/s*
   * `tls://vix.duckdns.org:36014`
   * `quic://vix.duckdns.org:36014`
+  * `wss://donotclickthis.link:443/api/v2/socket`
 
 ### Tomsk
 
