@@ -64,10 +64,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Portland, OR (10Gbit, AWS ARM64) operated by [christoofar](https://github.com/christoofar)
   * `tls://44.234.134.124:443`
 
-* hosted by Evolution Host via OVH SAS, operated by [Marek Küthe](https://mk16.de/)
-  * `tcp://ygg3.mk16.de:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
-  * `tls://ygg3.mk16.de:1338?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
-
 * Hillsboro, OR (Hetzner, AMD x86, IPv4 + IPv6)
   * `tls://ygg.mnpnk.com:443`
 
@@ -99,6 +95,13 @@ Yggdrasil configuration file to peer with these nodes.
 * Ashburn, VA, Oracle Cloud VPS(Always Free Tier, 480Mbps, Metered), operated by [Twiztid](https://github.com/tvviztid).
   * `quic://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23165`
   * `quic://129.80.167.244:23165`
+
+* Manassas, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
+  * `tcp://ygg4.mk16.de:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
+  * `tls://ygg4.mk16.de:1338?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
+  * `quic://ygg4.mk16.de:1339?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
+  * `ws://ygg4.mk16.de:1340?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
+  * `wss://ygg4.mk16.de:1341?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
 
 ### Washington
 
