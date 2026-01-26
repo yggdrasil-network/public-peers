@@ -22,3 +22,10 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Paris, operated by [multikatt](https://github.com/multikatt)
   * `tls://ygg.jholden.org:1555`
+
+* near Nantes, hosted on LGP CORP, operated by [Marek Küthe](https://mk16.de/)
+  * `tcp://ygg6.mk16.de:1337?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384`
+  * `tls://ygg6.mk16.de:1338?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384`
+  * `quic://ygg6.mk16.de:1339?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384`
+  * `ws://ygg6.mk16.de:1340?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384`
+  * `wss://ygg6.mk16.de:1341?key=0000005e5ced06fd4d465bc651c5deb6d70cbe82d36efb68c0450268eaaa5384`
