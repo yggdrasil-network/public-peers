@@ -12,4 +12,3 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg7.mk16.de:1338?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae`
   * `quic://ygg7.mk16.de:1339?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae`
   * `ws://ygg7.mk16.de:1340?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae`
-  * `wss://ygg7.mk16.de:1341?key=000000086278b5f3ba1eb63acb5b7f6e406f04ce83990dee9c07f49011e375ae`

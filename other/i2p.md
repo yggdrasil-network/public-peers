@@ -19,7 +19,7 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 
 * I2P Node (I2Pd), operated by Prophet
   * `socks://localhost:4447/xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112`
-  
+
 * I2P node (Java I2P, TCP-only, Standard I2P service, b32 address), operated by [Marek Küthe](https://mk16.de/)
   * `socks://localhost:4447/3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p`
 
@@ -28,7 +28,7 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 
 * I2P Node (Java I2P), operated by [Triplebit](https://www.triplebit.org/)
   * `socks://localhost:4447/3es3qg37kp5ufqws7vn4wb4eu2ufcy4rjxycdkqisdql7cotbaca.b32.i2p:9000`
- 
+
 * I2P Node (I2Pd), operated by [Triplebit](https://www.triplebit.org/)
   * `socks://localhost:4447/7e2q2nrypvbfqparjqa5ubuof6zat6eq3abk2reujyzg2v32dsxq.b32.i2p:9000`
 
