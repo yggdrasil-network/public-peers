@@ -41,6 +41,12 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://mo.us.ygg.triplebit.org:443`
   * `ws://mo.us.ygg.triplebit.org:9010`
 
+* Lenexa, hosted on IONOS, operated by [Marek Küthe](https://mk16.de/)
+  * `tcp://ygg8.mk16.de:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9`
+  * `tls://ygg8.mk16.de:1338?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9`
+  * `quic://ygg8.mk16.de:1339?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9`
+  * `ws://ygg8.mk16.de:1340?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9`
+
 ### Nevada
 
 * Las Vegas, NV operated by [3DT](https://3dt.net) - 1 Gbit/s Dual-Stack
