@@ -101,7 +101,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg4.mk16.de:1338?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
   * `quic://ygg4.mk16.de:1339?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
   * `ws://ygg4.mk16.de:1340?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
-  * `wss://ygg4.mk16.de:1341?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
 
 ### Washington
 
