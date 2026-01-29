@@ -20,8 +20,13 @@ Note that the following assumes I2P is running locally and has configured SOCKS 
 * I2P Node (I2Pd), operated by Prophet
   * `socks://localhost:4447/xmgzqfidm3zn4y3vfljqiuyfxorifntjca3rfnwv3dbbfcrx4uca.b32.i2p:30112`
 
-* I2P node (Java I2P, TCP-only, Standard I2P service, b32 address), operated by [Marek Küthe](https://mk16.de/)
-  * `socks://localhost:4447/3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p`
+* I2P node (Java I2P, TCP-only, b32 address), operated by [Marek Küthe](https://mk16.de/)
+  * `socks://localhost:4447/3qqi3lxscvx2ebatj36y6wmdzaah7eblf5fl7scayp6wgyhh3vpa.b32.i2p:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
+  * `socks://localhost:4447/fq3bcn6mnscqo5t7xaxswcfpvr6e245tsjybwz3xurjdw5t7npca.b32.i2p:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
+  * `socks://localhost:4447/jef2ems7n6ewwcyca7jauzb2ym3vogpi5sbnqqshvnhjymkdw7sq.b32.i2p:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b`
+  * `socks://localhost:4447/zjbhpptbgnoz7abawqko3mp2rreulog5tng2mctks7jgsgjezr6q.b32.i2p:1337?key=0000000b0683e38d8cb3085cfbf217edf0f0b2de76bb5ac7f02a94cd42a3fed9`
+  * `socks://localhost:4447/34kxfd4n5oxg7nztr2ek2cjhk4rl7tqw6gvcizldptqbtwlkiv6q.b32.i2p:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
+  * `socks://localhost:4447/bvjhuq5v4g63a3eqs7asbequscjzp444g6yqu337qkzxx3gupegq.b32.i2p:1337?key=000003acdaf2a60e8de2f63c3e63b7e911d02380934f09ee5c83acb758f470c1`
 
 * I2Pd node, operated by lcharles123
   * `socks://localhost:4447/rdssbb3furycghvyb7c4k6deblp45lnutluymvprw3hloonl6nrq.b32.i2p:1337`
