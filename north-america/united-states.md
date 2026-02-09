@@ -102,6 +102,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23165`
   * `quic://129.80.167.244:23165`
 
+* Ashburn, VA, OpenBSD VPS on Hetzner us-east, operated by [Alexa](https://goblin.technology/@lxak) (1Gbps, dual-stack)
+  * `tcp://ygg.lxak.net:8879`
+  * `tls://ygg.lxak.net:8880`
+
 * Manassas, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
   * `tls://ygg4.mk16.de:1338?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
