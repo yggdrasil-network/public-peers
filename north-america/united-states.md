@@ -115,7 +115,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Washington
 
-* Liberty Lake, WA operated by jeff.
+* Liberty Lake, WA operated by [jeff](https://github.com/majestrate).
   * `tls://23.184.48.86:993`
   * `tls://[2602:fc24:18:7a42::1]:993`
   * `quic://23.184.48.86:993`
