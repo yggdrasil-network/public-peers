@@ -25,15 +25,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Hetzner, Nürnberg
   * `tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d`
 
-* Hetzner, Falkenstein, operated by [Chaz6](https://github.com/chaz6)
-  * `tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444`
-
 * Nuremberg, operated by [deb](https://ysl.su)
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
-
-* Nuremberg, operated by [mlupo](https://mlupo.duckdns.org/), 600Mbit/s down, 300Mbit/s up
-  * `tls://mlupo.duckdns.org:9001`
 
 * Nuremberg, operated by [nune @ blitzw.in](https://blitzw.in), hosted with NixOS at Hetzner
   * `tls://91.98.126.143:32000`

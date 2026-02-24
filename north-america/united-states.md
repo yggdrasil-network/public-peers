@@ -49,12 +49,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Nevada
 
-* Las Vegas, NV operated by [3DT](https://3dt.net) - 1 Gbit/s Dual-Stack
-  * `tcp://neo.node.3dt.net:9002`
-  * `tls://neo.node.3dt.net:9003`
-  * `quic://neo.node.3dt.net:9004`
-  * `wss://neo.node.3dt.net:9005`
-
 * Las Vegas, NV, operated by [newsdeef](https://newsdeef.eu) @ 1 Gbit/s Dual-Stack
   * `tls://srv.newsdeef.eu:59999`
   * `tcp://srv.newsdeef.eu:9999`
@@ -83,9 +77,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Texas
 
-* Dallas, TX operated by [micr0-dev](https://micr0.dev)
-  * `tcp://micr0.dev:7991`
-  * `tls://micr0.dev:7992`
 * Ft. Worth, TX operated by [Nyx](https://nyx.everypizza.im)
   * `tcp://ygg.everypizza.im:9441`
 
