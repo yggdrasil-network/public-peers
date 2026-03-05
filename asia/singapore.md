@@ -6,3 +6,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Singapore, OVH VPS, operated by [cleverfox](https://github.com/cleverfox/) dual-stack
   * `tls://asia.deinfra.org:15015`
   * `quic://asia.deinfra.org:15015`
+
+* Singapore, Vultr operated by [evasil](https://github.com/evasil/), Dual Stack
+  * `tcp://yg-sin.magicum.net:23901`
+  * `tls://yg-sin.magicum.net:23900`
+ 
