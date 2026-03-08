@@ -12,3 +12,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-hel-1.wgos.org:45171`
   * `quic://ygg-hel-1.wgos.org:45171`
   * `ws://ygg-hel-1.wgos.org:45172`
+
+* Helsinki, Hetzner as well, operated by [blitzw.in](https://blitzw.in)
+  * `tls://204.168.147.93:1337`
