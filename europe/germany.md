@@ -29,9 +29,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
 
-* Nuremberg, operated by [nune @ blitzw.in](https://blitzw.in), hosted with NixOS at Hetzner
-  * `tls://91.98.126.143:32000`
-
 * Frankfurt, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://94.159.110.4:65535`
   * `quic://94.159.110.4:65535`
