@@ -131,6 +131,7 @@
             "tls://ru2.cert.dev:7041",
             "quic://ru2.cert.dev:7042",
             "ws://ru2.cert.dev:7043",
+            "tls://ygg.med-dev-systems.ru:6221",
             "tcp://box.paulll.cc:13337",
             "tls://box.paulll.cc:13338",
             "tcp://srv.itrus.su:7991",
@@ -215,7 +216,9 @@
             "quic://bode.theender.net:42269",
             "tls://n.ygg.yt:443",
             "tls://b.ygg.yt:443",
-            "tls://g.ygg.yt:443"
+            "tls://g.ygg.yt:443",
+            "tls://des.8px.sk:4321",
+            "quic://des.8px.sk:4321"
         ],
         "norway": [
             "tls://185.181.60.111:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9",
@@ -352,6 +355,8 @@
             "tls://ygg4.mk16.de:1338?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0",
             "quic://ygg4.mk16.de:1339?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0",
             "ws://ygg4.mk16.de:1340?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0",
+            "tls://ygg-atvps.axxa.dev:18080",
+            "quic://ygg-atvps.axxa.dev:18083",
             "tls://23.184.48.86:993",
             "tls://[2602:fc24:18:7a42::1]:993",
             "quic://23.184.48.86:993",
@@ -367,7 +372,9 @@
             "tcp://marisa.nadeko.net:44441",
             "tls://marisa.nadeko.net:44442",
             "tcp://kisume.nadeko.net:44441",
-            "tls://kisume.nadeko.net:44442"
+            "tls://kisume.nadeko.net:44442",
+            "tls://ygg-google.axxa.dev:18080",
+            "quic://ygg-google.axxa.dev:18083"
         ]
     },
     "africa": {
@@ -387,6 +394,10 @@
         ]
     },
     "asia": {
+        "india": [
+            "tls://ins.8px.sk:4321",
+            "quic://ins.8px.sk:4321"
+        ],
         "indonesia": [
             "tls://supanadit.com:15021",
             "quic://supanadit.com:15022"

@@ -103,6 +103,7 @@ europe,russia,tcp://ru2.cert.dev:7040
 europe,russia,tls://ru2.cert.dev:7041
 europe,russia,quic://ru2.cert.dev:7042
 europe,russia,ws://ru2.cert.dev:7043
+europe,russia,tls://ygg.med-dev-systems.ru:6221
 europe,russia,tcp://box.paulll.cc:13337
 europe,russia,tls://box.paulll.cc:13338
 europe,russia,tcp://srv.itrus.su:7991
@@ -184,6 +185,8 @@ europe,germany,quic://bode.theender.net:42269
 europe,germany,tls://n.ygg.yt:443
 europe,germany,tls://b.ygg.yt:443
 europe,germany,tls://g.ygg.yt:443
+europe,germany,tls://des.8px.sk:4321
+europe,germany,quic://des.8px.sk:4321
 europe,norway,tls://185.181.60.111:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9
 europe,norway,quic://185.181.60.111:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9
 europe,norway,tls://[2a03:94e0:ffff:185:181:60:0:111]:1513?key=00defa4b4b243547f2d5641ac5235ff1e35d393c576e4bb9cd45baefc81e48d9
@@ -296,6 +299,8 @@ north-america,united-states,tcp://ygg4.mk16.de:1337?key=000000573433e11f23768b07
 north-america,united-states,tls://ygg4.mk16.de:1338?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0
 north-america,united-states,quic://ygg4.mk16.de:1339?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0
 north-america,united-states,ws://ygg4.mk16.de:1340?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0
+north-america,united-states,tls://ygg-atvps.axxa.dev:18080
+north-america,united-states,quic://ygg-atvps.axxa.dev:18083
 north-america,united-states,tls://23.184.48.86:993
 north-america,united-states,tls://[2602:fc24:18:7a42::1]:993
 north-america,united-states,quic://23.184.48.86:993
@@ -312,6 +317,8 @@ north-america,united-states,tcp://marisa.nadeko.net:44441
 north-america,united-states,tls://marisa.nadeko.net:44442
 north-america,united-states,tcp://kisume.nadeko.net:44441
 north-america,united-states,tls://kisume.nadeko.net:44442
+north-america,united-states,tls://ygg-google.axxa.dev:18080
+north-america,united-states,quic://ygg-google.axxa.dev:18083
 africa,south-africa,tcp://yggdrasil.deavmi.assigned.network:2000
 africa,south-africa,tls://yggdrasil.deavmi.assigned.network:2001
 oceania,australia,tcp://yg-syd.magicum.net:23701
@@ -320,6 +327,8 @@ oceania,australia,tls://syd.joel.net.au:8443
 oceania,australia,tcp://yg-mel.magicum.net:23801
 oceania,australia,tls://yg-mel.magicum.net:23800
 oceania,australia,tls://sirsegv.moe:7676
+asia,india,tls://ins.8px.sk:4321
+asia,india,quic://ins.8px.sk:4321
 asia,indonesia,tls://supanadit.com:15021
 asia,indonesia,quic://supanadit.com:15022
 asia,taiwan,tcp://ygg-tw.lxak.net:8879
