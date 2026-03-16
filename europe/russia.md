@@ -62,6 +62,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ru2.cert.dev:7042`
   * `ws://ru2.cert.dev:7043`
 
+### Odintsovo
+
+* Odintsovo, home public node, operated by [MedDevSystems](https://github.com/MedDevSystems), IPv4 only
+  * `tls://ygg.med-dev-systems.ru:6221`
+
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
