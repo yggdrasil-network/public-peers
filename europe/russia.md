@@ -53,6 +53,20 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, vps public node, operated by [theshezzee](mailto:thewizard3424@gmail.com), 10 Gbit/s, IPv4 Only
   * `tcp://yggdrasil.1337.moe:7676`
 
+* Moscow, VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1 Gbit/s, IPv4/IPv6
+  * `wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88`
+ 
+* Moscow, VPS, public node, operated by [CERT](https://github.com/kzorin52), 10 Gbit/s, IPv4/IPv6
+  * `tcp://ru2.cert.dev:7040`
+  * `tls://ru2.cert.dev:7041`
+  * `quic://ru2.cert.dev:7042`
+  * `ws://ru2.cert.dev:7043`
+
+### Odintsovo
+
+* Odintsovo, home public node, operated by [MedDevSystems](https://github.com/MedDevSystems), IPv4 only
+  * `tls://ygg.med-dev-systems.ru:6221`
+
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*

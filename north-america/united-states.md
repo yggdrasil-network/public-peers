@@ -106,7 +106,11 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Washington
 
-* Liberty Lake, WA operated by jeff.
+* Seattle, WA, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-atvps.axxa.dev:18080`
+  * `quic://ygg-atvps.axxa.dev:18083`
+
+* Liberty Lake, WA operated by [jeff](https://github.com/majestrate).
   * `tls://23.184.48.86:993`
   * `tls://[2602:fc24:18:7a42::1]:993`
   * `quic://23.184.48.86:993`
@@ -134,3 +138,8 @@ Yggdrasil configuration file to peer with these nodes.
 * New York City, NY, VPS, operated by [Fijxu (nadeko.net)](https://nadeko.net), 200Mbit/s down, 800Mbit/s up, IPv4
   * `tcp://kisume.nadeko.net:44441`
   * `tls://kisume.nadeko.net:44442`
+ 
+### Iowa
+* Council Bluffs, IA, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-google.axxa.dev:18080`
+  * `quic://ygg-google.axxa.dev:18083`
