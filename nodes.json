@@ -210,6 +210,8 @@
             "tls://helium.avevad.com:1337",
             "tls://103.109.234.106:443?key=000000035621c71b5610434589df051aed2688510f904ae79860668dc0fbf182",
             "tls://[2a0f:b240:e:162::1]:443?key=000000035621c71b5610434589df051aed2688510f904ae79860668dc0fbf182",
+            "tls://ygg-oracle.axxa.dev:18080",
+            "quic://ygg-oracle.axxa.dev:18083",
             "tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358",
             "tcp://bode.theender.net:42069",
             "tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4",
@@ -239,7 +241,9 @@
         ],
         "romania": [
             "tcp://185.165.169.234:8880",
-            "tls://185.165.169.234:8443"
+            "tls://185.165.169.234:8443",
+            "tls://ygg-ro.axxa.dev:18080",
+            "quic://ygg-ro.axxa.dev:18083"
         ],
         "netherlands": [
             "tcp://vpn.itrus.su:7991",
@@ -414,8 +418,6 @@
             "tls://yg-sin.magicum.net:23900"
         ],
         "hong-kong": [
-            "tls://yg-hkg.magicum.net:32333",
-            "tcp://yg-hkg.magicum.net:32334",
             "tcp://ygg5.mk16.de:1337?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b",
             "tls://ygg5.mk16.de:1338?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b",
             "quic://ygg5.mk16.de:1339?key=0000009611ae5391dc0aceea9f3fa6a0dc1279f4306059339e84bfb8b74d2f9b",
