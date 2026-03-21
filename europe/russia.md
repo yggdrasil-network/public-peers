@@ -67,6 +67,8 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Odintsovo, home public node, operated by [MedDevSystems](https://github.com/MedDevSystems), IPv4 only
   * `tls://ygg.med-dev-systems.ru:6221`
 
+* Odintsovo, home public node, operated by [Cyberneural](https://t.me/cyberneural)
+
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
