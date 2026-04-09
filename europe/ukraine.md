@@ -20,3 +20,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://yggdrasil.sunsung.fun:4441`
   * `tcp://yggdrasil.sunsung.fun:4442`
   * `tls://yggdrasil.sunsung.fun:4443`
+ 
+* Ivano-Frankivsk
+  * `quic://176.117.187.69:64537`
+  * `tcp://176.117.187.69:64536`
+  * `tls://176.117.187.69:64535`

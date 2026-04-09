@@ -17,19 +17,14 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://188.225.9.167:18226`
   * `tls://188.225.9.167:18227`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 1 Gbit/s, Dual-Stack
-  * `tcp://x-mow-0.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://x-mow-0.sergeysedoy97.ru:65534`
-  * `tls://s-mow-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `quic://x-mow-0.sergeysedoy97.ru:65535`
+* Moscow, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
+  * `tcp://89.44.86.85:65535`
+  * `quic://89.44.86.85:65535`
+  * `tcp://[2a09:5302:ffff::132a]:65535`
+  * `quic://[2a09:5302:ffff::132a]:65535`
 
-* Moscow, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 200 Mbit/s, Dual-Stack
-  * `tcp://x-mow-1.sergeysedoy97.ru:65533`
-  * `tcp://s-mow-1.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://x-mow-1.sergeysedoy97.ru:65534`
-  * `tls://s-mow-1.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `quic://x-mow-1.sergeysedoy97.ru:65535`
+  * `tcp://94.156.181.85:65535`
+  * `quic://94.156.181.85:65535`
 
 * Моscow, VPS public nodes operated by [gastarbeiter14](https://t.me/gastarbeiter14):
   * node1:
@@ -58,24 +53,28 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, vps public node, operated by [theshezzee](mailto:thewizard3424@gmail.com), 10 Gbit/s, IPv4 Only
   * `tcp://yggdrasil.1337.moe:7676`
 
-* Moscow, vps public node, operated by [NeonXP](mailto:i@neonxp.ru), IPv4 Only
-  * `tcp://msk1.neonxp.ru:7991`
-  * `tcp://195.2.74.155:7991`
-  * `tls://msk1.neonxp.ru:7992`
-  * `tls://195.2.74.155:7992`
-  * `ws://msk1.neonxp.ru:7993`
-  * `ws://195.2.74.155:7993`
-  * `quic://msk1.neonxp.ru:7994`
-  * `quic://195.2.74.155:7994`
+* Moscow, VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1 Gbit/s, IPv4/IPv6
+  * `wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88`
+ 
+* Moscow, VPS, public node, operated by [CERT](https://github.com/kzorin52), 10 Gbit/s, IPv4/IPv6
+  * `tcp://ru2.cert.dev:7040`
+  * `tls://ru2.cert.dev:7041`
+  * `quic://ru2.cert.dev:7042`
+  * `ws://ru2.cert.dev:7043`
+
+### Odintsovo
+
+* Odintsovo, home public node, operated by [MedDevSystems](https://github.com/MedDevSystems), IPv4 only
+  * `tls://ygg.med-dev-systems.ru:6221`
+
+* Odintsovo, home public node, operated by [Cyberneural](https://t.me/cyberneural)
+  * `tcp://u-neroit.ru:7000`
 
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
-
- * Saint Petersburg, public node, operated by [Boxard](https://github.com/Boxard), *1 GB/S*
-  * `tcp://91.220.109.93:8080`
 
 ### Omsk
 
@@ -95,6 +94,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 * Krasnoyarsk, public node, operated by [multed](https://multed.com/about)
   * `tcp://itcom.multed.com:7991`
+ 
+### Kemerovo
+
+* Kemerovo, public node, 100mbit/s, IPv4 only
+  * `tcp://kem.txlyre.website:1337`
 
 ### Yekaterinburg
 
@@ -118,9 +122,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Rostov-on-Don
 
-* Rostov-on-Don, home public node, operated by [lavacat](lavacat@fedora.email) *bandwidth up to 200 Mbit/s*
+* Rostov-on-Don, home public node, operated by [lavacat](lavacat@disroot.org) *bandwidth up to 200 Mbit/s*
   * `tls://vix.duckdns.org:36014`
   * `quic://vix.duckdns.org:36014`
+  * `wss://donotclickthis.link:443/api/v2/socket`
 
 ### Tomsk
 
@@ -129,18 +134,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ip4.01.tom.ru.dioni.su:9003`
   * `quic://ip4.01.tom.ru.dioni.su:9002`
   * `ws://ip4.01.tom.ru.dioni.su:9004`
-
-### Kazan
-
-* Kazan, vps public node, operated by [NeonXP](mailto:i@neonxp.ru), IPv4 Only
-  * `tcp://kzn1.neonxp.ru:7991`
-  * `tcp://195.58.51.167:7991`
-  * `tls://kzn1.neonxp.ru:7992`
-  * `tls://195.58.51.167:7992`
-  * `ws://kzn1.neonxp.ru:7993`
-  * `ws://195.58.51.167:7993`
-  * `quic://kzn1.neonxp.ru:7994`
-  * `quic://195.58.51.167:7994`
 
 ### Kursk
 

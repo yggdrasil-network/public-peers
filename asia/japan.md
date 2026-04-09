@@ -14,5 +14,5 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Tokyo, Vultr operated by [evasil](https://github.com/evasil/) @ 250 Mbit/s, Dual Stack
   * `tls://yg-tyo.magicum.net:32333`
-  * `quic://yg-tyo.magicum.net:32334`
+  * `tcp://yg-tyo.magicum.net:32334`
 

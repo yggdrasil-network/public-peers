@@ -7,5 +7,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://185.165.169.234:8880` 
   * `tls://185.165.169.234:8443`
 
-* Kyun, operated by [piru](https://piru.re):
-  * `tcp://45.137.99.182:1337`
+* Timișoara, Timiș, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-ro.axxa.dev:18080`
+  * `quic://ygg-ro.axxa.dev:18083`

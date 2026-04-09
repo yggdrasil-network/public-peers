@@ -10,30 +10,43 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg1.mk16.de:1337?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
   * `tls://ygg1.mk16.de:1338?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
+  * `quic://ygg1.mk16.de:1339?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
+  * `ws://ygg1.mk16.de:1340?key=0000000087ee9949eeab56bd430ee8f324cad55abf3993ed9b9be63ce693e18a`
 
 * Nuremberg, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg2.mk16.de:1337?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
   * `tls://ygg2.mk16.de:1338?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
+  * `quic://ygg2.mk16.de:1339?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
+  * `ws://ygg2.mk16.de:1340?key=000000d80a2d7b3126ea65c8c08fc751088c491a5cdd47eff11c86fa1e4644ae`
+
+* Nuremberg, hosted on Netcup
+  * `tls://159.195.4.143:9001`
 
 * Hetzner, Nürnberg
   * `tls://vpn.ltha.de:443?key=0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d`
-
-* Hetzner, Falkenstein, operated by [Chaz6](https://github.com/chaz6)
-  * `tls://de-fsn-1.peer.v4.yggdrasil.chaz6.com:4444`
 
 * Nuremberg, operated by [deb](https://ysl.su)
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
 
-* Nuremberg, operated by [mlupo](https://mlupo.duckdns.org/), 600Mbit/s down, 300Mbit/s up
-  * `tls://mlupo.duckdns.org:9001`
+* Frankfurt, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
+  * `tcp://94.159.110.4:65535`
+  * `quic://94.159.110.4:65535`
+  * `tcp://[2a0b:4142:ce0::2]:65535`
+  * `quic://[2a0b:4142:ce0::2]:65535`
 
-* Frankfurt, public node, operated by [sergeysedoy97](https://t.me/sergeysedoy97), 100 Mbit/s, IPv4 only
-  * `tcp://x-fra-0.sergeysedoy97.ru:65533`
-  * `tcp://s-fra-0.sergeysedoy97.ru:65533` *Dual-Stack by Cloudflare Spectrum*
-  * `tls://x-fra-0.sergeysedoy97.ru:65534`
-  * `tls://s-fra-0.sergeysedoy97.ru:65534` *Dual-Stack by Cloudflare Spectrum*
-  * `quic://x-fra-0.sergeysedoy97.ru:65535`
+  * `tcp://94.159.111.184:65535`
+  * `quic://94.159.111.184:65535`
+  * `tcp://[2a0b:4142:e9e::2]:65535`
+  * `quic://[2a0b:4142:e9e::2]:65535`
+
+  * `tcp://87.251.77.39:65535`
+  * `quic://87.251.77.39:65535`
+
+  * `tcp://31.57.241.104:65535`
+  * `quic://31.57.241.104:65535`
+  * `tcp://[2a0c:b641:ce0::25d8:c5d6]:65535`
+  * `quic://[2a0c:b641:ce0::25d8:c5d6]:65535`
 
 * Frankfurt, VPS, 2Gbps operated by [lcharles123](https://github.com/lcharles123)
   * `tcp://ip4.fvm.mywire.org:8080?key=000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217`
@@ -43,6 +56,14 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Frankfurt, DigitalOcean, 2Gbps, operated by [avevad](https://t.me/avevad)
   * `tls://helium.avevad.com:1337`
+ 
+* Frankfurt, VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
+  * `tls://103.109.234.106:443?key=000000035621c71b5610434589df051aed2688510f904ae79860668dc0fbf182`
+  * `tls://[2a0f:b240:e:162::1]:443?key=000000035621c71b5610434589df051aed2688510f904ae79860668dc0fbf182`
+ 
+* Frankfurt, DE, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-oracle.axxa.dev:18080`
+  * `quic://ygg-oracle.axxa.dev:18083`
 
 * Hetzner, Falkenstein, operated by neilalexander
   * `tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358`
@@ -51,8 +72,12 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://bode.theender.net:42069`
   * `tls://bode.theender.net:42169?key=f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4`
   * `quic://bode.theender.net:42269`
- 
+
 * Hetzner, Nuremberg, three dedicated servers operated by [SolSoCoG](https://solsocog.de)
   * `tls://n.ygg.yt:443`
   * `tls://b.ygg.yt:443`
   * `tls://g.ygg.yt:443`
+ 
+* Frankfurt, DigitalOcean VPS, operated by [Octopixel](https://github.com/Octopixel40)
+  * `tls://des.8px.sk:4321`
+  * `quic://des.8px.sk:4321`
