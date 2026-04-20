@@ -65,6 +65,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-oracle.axxa.dev:18080`
   * `quic://ygg-oracle.axxa.dev:18083`
 
+* Frankfurt, DigitalOcean, operated by vito-box
+  * `tls://64.226.122.118:10000`
+
 * Hetzner, Falkenstein, operated by neilalexander
   * `tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358`
 
