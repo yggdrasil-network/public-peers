@@ -30,7 +30,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://yggdrasil.su:62586`
 
 * Nuremberg, Germany, operated by vito-box-v2
-  * `tls://91.98.161.68:9001?key=6da79789acd2b84f5362c77629324062c48a894a6449c2b889d538b123ba7109` 
+  *  `tls://91.98.161.68:9001?key=0e638944bfd6b277fa5e0dddbeb4444778eea8bece63a9862c661797022a8f05`
 
 * Frankfurt, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://94.159.110.4:65535`
