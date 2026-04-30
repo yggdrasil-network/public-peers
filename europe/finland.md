@@ -15,3 +15,10 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Helsinki, Hetzner as well, operated by [blitzw.in](https://blitzw.in)
   * `tls://204.168.147.93:1337`
+
+
+* Helsinki, shared 10gbps dual link, operated by strcat.su
+  * `tcp://vpn2.strcat.su:8888`
+  * `tls://vpn2.strcat.su:8443`
+  * `quic://vpn2.strcat.su:5353`
+  * `ws://vpn2.strcat.su:8080`
