@@ -132,6 +132,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://vix.duckdns.org:36014`
   * `wss://donotclickthis.link:443/api/v2/socket`
 
+### Smolensk
+
+* Smolensk, home public node, operated by [Gennadii Muzykantov](https://github.com/muzykantov/) *bandwidth up to 150 Mbit/s, IPv4 Only*
+  * `tcp://ygg.mnml.su:9001`
+
 ### Tomsk
 
 * Tomsk, VPS, operated by [Ruslan Gilfanov](https://01.tom.ru.dioni.su/yggdrasil.html), *rate-limited to 100 Mbit/s, IPv4 Only*
