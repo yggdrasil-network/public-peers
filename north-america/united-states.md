@@ -110,10 +110,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://ygg-atvps.axxa.dev:18083`
 
 * Liberty Lake, WA operated by [jeff](https://github.com/majestrate).
-  * `tls://23.184.48.86:993`
-  * `tls://[2602:fc24:18:7a42::1]:993`
-  * `quic://23.184.48.86:993`
-  * `quic://[2602:fc24:18:7a42::1]:993`
+  * `tls://23.184.48.86:1443`
+  * `tls://[2602:fc24:18:7a42::1]:1443`
+  * `quic://23.184.48.86:1443`
+  * `quic://[2602:fc24:18:7a42::1]:1443`
 
 * Liberty Lake, WA operated by [3DT](https://3dt.net) - 4 Gbit/s, Dual-Stack
   * `tcp://leo.node.3dt.net:9002`
