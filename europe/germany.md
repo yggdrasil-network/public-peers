@@ -3,6 +3,8 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
+      
+
 * Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server, operated by [mkg20001](https://github.com/mkg20001)
   * `tls://ygg.mkg20001.io:443`
   * `tcp://ygg.mkg20001.io:80`
@@ -87,3 +89,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, DigitalOcean VPS, operated by [Octopixel](https://github.com/Octopixel40)
   * `tls://des.8px.sk:4321`
   * `quic://des.8px.sk:4321`
+ 
+  * Bavaria, Germany, residential / Kabel Deutschland, operated by [adingbatponder](https://codeberg.org/adingbatponder)                                                                        
+    * `tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665`    
