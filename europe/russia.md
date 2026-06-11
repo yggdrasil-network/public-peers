@@ -1,6 +1,6 @@
 # Russia Peers
 
-Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Yggdrasil of the Renegades](https://github.com/DomesticMoth/shiny-octo-computing-machine) community channels!
+Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Yggdrasil RU](https://t.me/Yggdrasil_ru) community channels!
 
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.
 
@@ -62,10 +62,18 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ru2.cert.dev:7042`
   * `ws://ru2.cert.dev:7043`
 
+* Moscow, VPS public node, operated by [loskiq](mailto:loskiq@gmail.com)
+  * `tcp://ygg-ru.lskd.pw:30041`
+  * `tls://ygg-ru.lskd.pw:30042`
+  * `quic://ygg-ru.lskd.pw:30043`
+
 ### Odintsovo
 
 * Odintsovo, home public node, operated by [MedDevSystems](https://github.com/MedDevSystems), IPv4 only
   * `tls://ygg.med-dev-systems.ru:6221`
+
+* Odintsovo, home public node, operated by [Cyberneural](https://t.me/cyberneural)
+  * `tcp://u-neroit.ru:7000`
 
 ### Saint Petersburg
 

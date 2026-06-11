@@ -3,6 +3,8 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
+      
+
 * Falkenstein, public node hosted on a Hetzner Online GmbH dedicated server, operated by [mkg20001](https://github.com/mkg20001)
   * `tls://ygg.mkg20001.io:443`
   * `tcp://ygg.mkg20001.io:80`
@@ -28,6 +30,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, operated by [deb](https://ysl.su)
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
+
+* Nuremberg, Germany, operated by vito-box-v2
+  *  `tls://91.98.161.68:9001?key=0e638944bfd6b277fa5e0dddbeb4444778eea8bece63a9862c661797022a8f05`
 
 * Frankfurt, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://94.159.110.4:65535`
@@ -65,6 +70,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-oracle.axxa.dev:18080`
   * `quic://ygg-oracle.axxa.dev:18083`
 
+* Frankfurt, DigitalOcean, operated by vito-box
+  * `tls://64.226.122.118:10000`
+
 * Hetzner, Falkenstein, operated by neilalexander
   * `tls://yggdrasil.neilalexander.dev:64648?key=ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358`
 
@@ -81,3 +89,6 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, DigitalOcean VPS, operated by [Octopixel](https://github.com/Octopixel40)
   * `tls://des.8px.sk:4321`
   * `quic://des.8px.sk:4321`
+ 
+  * Bavaria, Germany, residential / Kabel Deutschland, operated by [adingbatponder](https://codeberg.org/adingbatponder)                                                                        
+    * `tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665`    
