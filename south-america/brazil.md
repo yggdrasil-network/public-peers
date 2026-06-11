@@ -13,3 +13,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Jundiaí, FTTH connection, operated by [UnderEu](https://mas.to/@UnderEu), 100 Mb/s, IPv6-only
   * `tcp://Yggdrasil.UnderEu.Net:37001`
   * `quic://Yggdrasil.UnderEu.Net:37003`
+
+  ### Paraná
+
+* Maringá, consumer grade connection, operated by [huzuni](https://github.com/huzunikkj), 300 Mb/s
+  * `tls://thinkmedia.freeddns.org:9002`
