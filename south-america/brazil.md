@@ -16,5 +16,5 @@ Yggdrasil configuration file to peer with these nodes.
 
   ### Paraná
 
-* Maringá, consumer grade connection, 300 Mb/s
+* Maringá, consumer grade connection, operated by [huzuni](https://github.com/huzunikkj), 300 Mb/s
   * `tls://thinkmedia.freeddns.org:9002`
