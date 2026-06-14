@@ -9,9 +9,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://vpn.itrus.su:7993`
   * `ws://vpn.itrus.su:7994`
 
-* Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
-  * `tls://23.137.249.65:444`
-
 * Amsterdam, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://146.103.111.53:65535`
   * `quic://146.103.111.53:65535`
