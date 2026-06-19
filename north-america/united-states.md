@@ -109,6 +109,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://ygg-atvps.axxa.dev:18080`
   * `quic://ygg-atvps.axxa.dev:18083`
 
+* Lynnwood, WA, operated by [Ed Asriyan](https://asriyan.me)
+  * `tcp://ygg1.asriyan.me:23672`
+
 * Liberty Lake, WA operated by [jeff](https://github.com/majestrate).
   * `tls://23.184.48.86:1443`
   * `tls://[2602:fc24:18:7a42::1]:1443`
