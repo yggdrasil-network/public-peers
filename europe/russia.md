@@ -62,6 +62,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ru2.cert.dev:7042`
   * `ws://ru2.cert.dev:7043`
 
+* Moscow, VPS, public node, operated by [Dmitry Modder](https://github.com/dmitrymodder)
+  * `wss://ygg.mvault.ru.net:443`
+
 * Moscow, VPS public node, operated by [loskiq](mailto:loskiq@gmail.com)
   * `tcp://ygg-ru.lskd.pw:30041`
   * `tls://ygg-ru.lskd.pw:30042`

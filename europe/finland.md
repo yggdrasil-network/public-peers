@@ -15,3 +15,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Helsinki, Hetzner as well, operated by [blitzw.in](https://blitzw.in)
   * `tls://204.168.147.93:1337`
+
+* Helsinki, VPS, public node, operated by [Dmitry Modder](https://github.com/dmitrymodder)
+  * `wss://ygg.fi.mvault.ru.net:443`
