@@ -15,10 +15,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://[2a12:5940:b1a0::2]:65535`
 
 * Stockholm, public node, operated by [Skhron](https://skhron.eu/), 1 Gbit/s, Dual-Stack
-  * `tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883`
-  * `tls://sto01.yggdrasil.hosted-by.skhron.eu:8884`
-  * `quic://sto01.yggdrasil.hosted-by.skhron.eu:8885`
-  * `ws://sto01.yggdrasil.hosted-by.skhron.eu:8886`
+  * `tcp://sto01.yggdrasil.hosted-by.skhron.eu:8883?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c`
+  * `tls://sto01.yggdrasil.hosted-by.skhron.eu:8884?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c`
+  * `quic://sto01.yggdrasil.hosted-by.skhron.eu:8885?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c`
+  * `ws://sto01.yggdrasil.hosted-by.skhron.eu:8886?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c`
 
 * Gothenburg, anonymous yggdrasil IXP, operated by sysop, residential
   * `tcp://sysop.link:555`
