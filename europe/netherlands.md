@@ -56,3 +56,8 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://nl1.route172.de:443?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
   * `tcp://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
   * `quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
+ 
+* Amsterdam, VPS, public node, operated by [oneeel5](https://github.com/oneeel5), 400 Mbit/s
+  * `tls://5.252.118.13:443`
+  * `tcp://5.252.118.13:65535`
+  * `quic://5.252.118.13:65535`
