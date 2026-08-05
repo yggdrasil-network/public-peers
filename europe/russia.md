@@ -38,18 +38,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://45.95.202.21:443`
   * `tls://[2a09:5302:ffff::992]:443`
 
-* Moscow, VPS, operated by [Ruslan Gilfanov](https://01.msk.ru.dioni.su/yggdrasil.html), *rate-limited to 10 Gbit/s, IPv4/IPv6*
-  * IPv4:
-  * `tcp://ip4.01.msk.ru.dioni.su:9002`
-  * `tls://ip4.01.msk.ru.dioni.su:9003`
-  * `quic://ip4.01.msk.ru.dioni.su:9002`
-  * `ws://ip4.01.msk.ru.dioni.su:9004`
-  * IPv6:
-  * `tcp://ip6.01.msk.ru.dioni.su:9002`
-  * `tls://ip6.01.msk.ru.dioni.su:9003`
-  * `quic://ip6.01.msk.ru.dioni.su:9002`
-  * `ws://ip6.01.msk.ru.dioni.su:9004`
-
 * Moscow, VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1 Gbit/s, IPv4/IPv6
   * `wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88`
  
@@ -113,32 +101,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ekb.itrus.su:7993`
   * `ws://ekb.itrus.su:7994`
 
-* Yekaterinburg, VPS, operated by [Ruslan Gilfanov](https://01.ekb.ru.dioni.su/yggdrasil.html), *rate-limited to 1 Gbit/s, IPv4/IPv6*
-  * IPv4:
-  * `tcp://ip4.01.ekb.ru.dioni.su:9002`
-  * `tls://ip4.01.ekb.ru.dioni.su:9003`
-  * `quic://ip4.01.ekb.ru.dioni.su:9002`
-  * `ws://ip4.01.ekb.ru.dioni.su:9004`
-  * IPv6:
-  * `tcp://ip6.01.ekb.ru.dioni.su:9002`
-  * `tls://ip6.01.ekb.ru.dioni.su:9003`
-  * `quic://ip6.01.ekb.ru.dioni.su:9002`
-  * `ws://ip6.01.ekb.ru.dioni.su:9004`
-
 ### Rostov-on-Don
 
 * Rostov-on-Don, home public node, operated by [lavacat](lavacat@disroot.org) *bandwidth up to 200 Mbit/s*
   * `tls://vix.duckdns.org:36014`
   * `quic://vix.duckdns.org:36014`
   * `wss://donotclickthis.link:443/api/v2/socket`
-
-### Tomsk
-
-* Tomsk, VPS, operated by [Ruslan Gilfanov](https://01.tom.ru.dioni.su/yggdrasil.html), *rate-limited to 100 Mbit/s, IPv4 Only*
-  * `tcp://ip4.01.tom.ru.dioni.su:9002`
-  * `tls://ip4.01.tom.ru.dioni.su:9003`
-  * `quic://ip4.01.tom.ru.dioni.su:9002`
-  * `ws://ip4.01.tom.ru.dioni.su:9004`
 
 ### Kursk
 
