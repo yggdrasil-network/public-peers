@@ -20,6 +20,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://yggpeer.tilde.green:53299`
   * `quic://yggpeer.tilde.green:62265`
 
+* Paris, vps, operated by [sumitkumarbisui](https://github.com/sumitkumarbisui)
+  * `tls://ygg.sumitkumarbisui.in:12345`
+  * `tcp://ygg.sumitkumarbisui.in:12346`
+  * `quic://ygg.sumitkumarbisui.in:12345`
+
 * Paris, operated by [multikatt](https://github.com/multikatt)
   * `tls://ygg.jholden.org:1555`
 
