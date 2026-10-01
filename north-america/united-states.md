@@ -5,15 +5,17 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### California
 
-* San Francisco, Digital Ocean, VPS, operated by [marioaugustorama](https://github.com/marioaugustorama)
+* San Francisco, Digital Ocean, VPS, operated by [marioaugustorama](https://github.com/marioaugustorama), IPv4-only
   * `tcp://165.227.17.198:9002`
+* Fremont, operated by [WCIIT](https://worker.informatics.coop/). Rejects peers with high-latency except from Asia and South America, IPv4-only
+  * `tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2`
 * Los Angeles, Racknerd, IPv4/v6, 1Gbps, meteded, operated by [lcharles123](https://github.com/lcharles123)
   * `tcp://ip4.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854`
   * `quic://ip4.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854`
   * `tcp://ip6.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854`
   * `quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854`
-* Fremont, operated by [WCIIT](https://worker.informatics.coop/). Rejects peers with high-latency except from Asia and South America.
-  * `tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2`
+* Los Angeles, ColoCrossing, IPv6-only
+  * `quic://ip6.casa2.mywire.org:44443?key=000000003cb1cc50e05147fc548f6d1f78e7ffcdc67b456f9bb0db6f0a5e4723` 
 
 ### Maryland
 
