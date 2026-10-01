@@ -79,6 +79,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Novosibirsk
 
+* Novosibirsk, VPS at ADMAN, operated by [Saiv46](https://github.com/saiv46), IPv4 only
+  * `quic://novosibirsk.mie.foundation:9952`
+
 * Novosibirsk, home public node, operated by WipedLife 100mbit/s, IPv4 only
   * `tcp://37.192.232.33:8080`
   * `tls://37.192.232.33:442`
