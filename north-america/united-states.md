@@ -115,7 +115,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://ygg1.asriyan.me:23672`
 
 * Mountlake Terrace, WA, operated by [Riley Watson](https://ryebreads.xyz)
-  * `quic://peer.ryebreads.xyz:1234`
+  * `quic://peer.ryebreads.xyz:12345`
 
 * Liberty Lake, WA operated by [jeff](https://github.com/majestrate).
   * `tls://23.184.48.86:1443`
