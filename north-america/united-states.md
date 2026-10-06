@@ -15,6 +15,12 @@ Yggdrasil configuration file to peer with these nodes.
 * Fremont, operated by [WCIIT](https://worker.informatics.coop/). Rejects peers with high-latency except from Asia and South America.
   * `tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2`
 
+### Georgia
+
+* Atlanta, VPS, 1 Gbit/s, IPv4, operated by laerad
+  * `tls://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484`
+  * `quic://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484`
+
 ### Maryland
 
 * Rockville, MD, operated by [redcathode](https://redcatho.de) - 1 Gbit/s IPv4
