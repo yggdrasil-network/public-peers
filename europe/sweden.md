@@ -24,6 +24,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://sysop.link:555`
   * `quic://sysop.link:555`
 
-* Stockholm, VPS, IPv4, operated by laerad
+* Stockholm, VPS, 300 Mbit/s, IPv4, operated by laerad
   * `tls://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8`
   * `quic://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8`

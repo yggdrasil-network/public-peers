@@ -17,7 +17,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Georgia
 
-* Atlanta, VPS, IPv4, operated by laerad
+* Atlanta, VPS, 1 Gbit/s, IPv4, operated by laerad
   * `tls://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484`
   * `quic://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484`
 
