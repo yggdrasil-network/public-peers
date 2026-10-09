@@ -25,3 +25,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://176.117.187.69:64537`
   * `tcp://176.117.187.69:64536`
   * `tls://176.117.187.69:64535`
+
+* Kharkiv, 1GbE, operated by [MeizFL](meizfl@proside.pp.ua)
+  * `tls://server.meizfl.pp.ua:7783`
