@@ -54,6 +54,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://ygg-ru.lskd.pw:30041`
   * `tls://ygg-ru.lskd.pw:30042`
   * `quic://ygg-ru.lskd.pw:30043`
+ 
+* Moscow, VPS public node, operated by [Dimoka113](https://i113d.ru), 1 Gbit/s, IPv4 only
+  * `tcp://mskaeza.i113d.ru:12631`
+  * `tls://mskaeza.i113d.ru:12632`
+  * `quic://mskaeza.i113d.ru:12633`
+  * `ws://mskaeza.i113d.ru:12634`
 
 ### Odintsovo
 
@@ -68,6 +74,14 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
+ 
+### Samara
+
+* Samara, home user public node, operated by [Dimoka113](https://i113d.ru), *rate-limited to 600 Mbit/s IPv4 only
+  * `tcp://server.i113d.ru:12631`
+  * `tls://server.i113d.ru:12632`
+  * `quic://server.i113d.ru:12633`
+  * `ws://server.i113d.ru:12634`
 
 ### Omsk
 
@@ -78,6 +92,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `ws://srv.itrus.su:7994`
 
 ### Novosibirsk
+
+* Novosibirsk, VPS at ADMAN, operated by [Saiv46](https://github.com/saiv46), IPv4 only
+  * `quic://novosibirsk.mie.foundation:9952`
 
 * Novosibirsk, home public node, operated by WipedLife 100mbit/s, IPv4 only
   * `tcp://37.192.232.33:8080`

@@ -14,3 +14,5 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://waw01.yggdrasil.hosted-by.skhron.eu:8884?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0`
   * `quic://waw01.yggdrasil.hosted-by.skhron.eu:8885?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0`
   * `ws://waw01.yggdrasil.hosted-by.skhron.eu:8886?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0`
+* Warsaw, 3GbE, operated by [MeizFL](meizfl@proside.pp.ua)
+  * `tls://51.38.153.32:7783`
