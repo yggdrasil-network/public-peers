@@ -71,6 +71,8 @@
             "tcp://ip6.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854",
             "quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854",
             "tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2",
+            "tls://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484",
+            "quic://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484",
             "tls://redcatho.de:9494",
             "quic://redcatho.de:9494",
             "tcp://mn.us.ygg.triplebit.org:9000",
@@ -113,6 +115,7 @@
             "tls://ygg-atvps.axxa.dev:18080",
             "quic://ygg-atvps.axxa.dev:18083",
             "tcp://ygg1.asriyan.me:23672",
+            "quic://peer.ryebreads.xyz:12345",
             "tls://23.184.48.86:1443",
             "tls://[2602:fc24:18:7a42::1]:1443",
             "quic://23.184.48.86:1443",
@@ -168,7 +171,8 @@
             "tcp://waw01.yggdrasil.hosted-by.skhron.eu:8883?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0",
             "tls://waw01.yggdrasil.hosted-by.skhron.eu:8884?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0",
             "quic://waw01.yggdrasil.hosted-by.skhron.eu:8885?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0",
-            "ws://waw01.yggdrasil.hosted-by.skhron.eu:8886?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0"
+            "ws://waw01.yggdrasil.hosted-by.skhron.eu:8886?key=030602cee88a761c68f5f14e1dad430f25238a703b69dc382321a38f833035b0",
+            "tls://51.38.153.32:7783"
         ],
         "slovakia": [
             "tcp://y.zbin.eu:7743",
@@ -322,7 +326,9 @@
             "quic://sto01.yggdrasil.hosted-by.skhron.eu:8885?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c",
             "ws://sto01.yggdrasil.hosted-by.skhron.eu:8886?key=ce8cfa43b8c9e71c1fe31832b39403f23166f2bac12d52c755d9ac68f55da81c",
             "tcp://sysop.link:555",
-            "quic://sysop.link:555"
+            "quic://sysop.link:555",
+            "tls://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8",
+            "quic://se.laerad.top:54001?key=29512833cbca43f1f0bb1833d0edcb45791e66f7955c577b57fd0fc78892e2f8"
         ],
         "romania": [
             "tcp://185.165.169.234:8880",
@@ -375,14 +381,23 @@
             "tcp://ygg-ru.lskd.pw:30041",
             "tls://ygg-ru.lskd.pw:30042",
             "quic://ygg-ru.lskd.pw:30043",
+            "tcp://mskaeza.i113d.ru:12631",
+            "tls://mskaeza.i113d.ru:12632",
+            "quic://mskaeza.i113d.ru:12633",
+            "ws://mskaeza.i113d.ru:12634",
             "tls://ygg.med-dev-systems.ru:6221",
             "tcp://u-neroit.ru:7000",
             "tcp://box.paulll.cc:13337",
             "tls://box.paulll.cc:13338",
+            "tcp://server.i113d.ru:12631",
+            "tls://server.i113d.ru:12632",
+            "quic://server.i113d.ru:12633",
+            "ws://server.i113d.ru:12634",
             "tcp://srv.itrus.su:7991",
             "tls://srv.itrus.su:7992",
             "quic://srv.itrus.su:7993",
             "ws://srv.itrus.su:7994",
+            "quic://novosibirsk.mie.foundation:9952",
             "tcp://37.192.232.33:8080",
             "tls://37.192.232.33:442",
             "tcp://itcom.multed.com:7991",
@@ -400,10 +415,6 @@
             "tls://yg-vvo.magicum.net:29331"
         ],
         "ukraine": [
-            "tcp://193.93.119.42:14244",
-            "tls://193.93.119.42:443",
-            "quic://193.93.119.42:1443",
-            "ws://193.93.119.42:850",
             "tcp://78.27.153.163:33165",
             "tls://78.27.153.163:33166",
             "tls://78.27.153.163:3785",
@@ -414,7 +425,8 @@
             "tls://yggdrasil.sunsung.fun:4443",
             "quic://176.117.187.69:64537",
             "tcp://176.117.187.69:64536",
-            "tls://176.117.187.69:64535"
+            "tls://176.117.187.69:64535",
+            "tls://server.meizfl.pp.ua:7783"
         ],
         "switzerland": [
             "wss://ygg.ch.mvault.ru.net:443"
@@ -425,10 +437,6 @@
         "finland": [
             "tls://95.217.35.92:1337",
             "tls://[2a01:4f9:2b:2d8f::2]:1337",
-            "tcp://ygg-hel-1.wgos.org:45170",
-            "tls://ygg-hel-1.wgos.org:45171",
-            "quic://ygg-hel-1.wgos.org:45171",
-            "ws://ygg-hel-1.wgos.org:45172",
             "tls://204.168.147.93:1337",
             "wss://ygg.fi.mvault.ru.net:443"
         ]
