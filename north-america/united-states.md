@@ -141,6 +141,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://ygg-wa.incognet.io:8885`
   * `ws://ygg-wa.incognet.io:8886`
 
+* Seattle, WA operated by [Christina Suaa](https://github.com/LEOcab)
+  * `tcp://scandic.us:2011`
+  * `tls://scandic.us:2012`
+  * `quic://scandic.us:2013`
+  * `ws://scandic.us:2014`
 
 ### New York
 
