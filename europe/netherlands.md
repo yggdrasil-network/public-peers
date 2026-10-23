@@ -64,3 +64,4 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Netherlands, public node, DualStack (IPv4+IPv6)
   * `tcp://ygg.bruijn.nu:65535`
+  * `quic://ygg.bruijn.nu:65535`
