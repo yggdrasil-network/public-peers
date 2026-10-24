@@ -9,9 +9,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://vpn.itrus.su:7993`
   * `ws://vpn.itrus.su:7994`
 
-* Naaldwijk, operated by [acetone](http://[324:71e:281a:9ed3::ace]/)
-  * `tls://23.137.249.65:444`
-
 * Amsterdam, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://146.103.111.53:65535`
   * `quic://146.103.111.53:65535`
@@ -55,6 +52,16 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://cirno.nadeko.net:44441`
   * `tls://cirno.nadeko.net:44442`
  
-* Lelystad, Flevoland, Leaseweb dedicated server, Public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
-  * `tls://62.212.82.55:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
-  * `tls://[2001:1af8:4010:a06c:3::112]:443?key=00000002a957313975d1fe53b9ac641b05b1a9c37da22d4ebcef45e7a5bd4c67`
+* Amsterdam, RoyaleHosting VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
+  * `tls://nl1.route172.de:443?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
+  * `tcp://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
+  * `quic://nl1.route172.de:65535?key=000000002643ae27bad63e2a81f1d30554ce9ea634f5990062a9e079e23593cd`
+ 
+* Amsterdam, VPS, public node, operated by [oneeel5](https://github.com/oneeel5), 400 Mbit/s
+  * `tls://5.252.118.13:443`
+  * `tcp://5.252.118.13:65535`
+  * `quic://5.252.118.13:65535`
+
+* Netherlands, public node, DualStack (IPv4+IPv6)
+  * `tcp://ygg.bruijn.nu:65535`
+  * `quic://ygg.bruijn.nu:65535`

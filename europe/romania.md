@@ -6,3 +6,11 @@ Yggdrasil configuration file to peer with these nodes.
 * Flokinet, operated by [Tolstoevsky](https://phreedom.club):
   * `tcp://185.165.169.234:8880` 
   * `tls://185.165.169.234:8443`
+
+* Timișoara, Timiș, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-ro.axxa.dev:18080`
+  * `quic://ygg-ro.axxa.dev:18083`
+
+* Internet Magnate, operated by Sam
+  * `ws://nuket0wn.mystora.su:80`
+  * `tls://nuket0wn.mystora.su:443`

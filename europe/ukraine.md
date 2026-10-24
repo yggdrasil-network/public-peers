@@ -3,12 +3,6 @@
 Add connection strings from the below list to the `Peers: []` section of your
 Yggdrasil configuration file to peer with these nodes.
 
-* Bila Tserkva, operated by [ufm](ufm@ufm.lol)
-  * `tcp://193.93.119.42:14244`
-  * `tls://193.93.119.42:443`
-  * `quic://193.93.119.42:1443`
-  * `ws://193.93.119.42:850`
-
 * Kiev, operated by [mvvpt](mvvpt0@bigmir.net)
   * `tcp://78.27.153.163:33165`
   * `tls://78.27.153.163:33166`
@@ -25,3 +19,6 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://176.117.187.69:64537`
   * `tcp://176.117.187.69:64536`
   * `tls://176.117.187.69:64535`
+
+* Kharkiv, 1GbE, operated by [MeizFL](meizfl@proside.pp.ua)
+  * `tls://server.meizfl.pp.ua:7783`

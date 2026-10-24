@@ -1,6 +1,6 @@
 # Russia Peers
 
-Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Yggdrasil of the Renegades](https://github.com/DomesticMoth/shiny-octo-computing-machine) community channels!
+Operators of Yggdrasil public peers in Russia should consider joining the [Russian Meshnet](https://github.com/russian-meshnet/meshnet-chat-agenda/blob/master/README.md#чаты-и-мосты-в-разных-сетях) and [Yggdrasil RU](https://t.me/Yggdrasil_ru) community channels!
 
 Add connection strings from the below list to the `Peers: []` section of your Yggdrasil configuration file to peer with these nodes.
 
@@ -38,21 +38,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://45.95.202.21:443`
   * `tls://[2a09:5302:ffff::992]:443`
 
-* Moscow, VPS, operated by [Ruslan Gilfanov](https://01.msk.ru.dioni.su/yggdrasil.html), *rate-limited to 10 Gbit/s, IPv4/IPv6*
-  * IPv4:
-  * `tcp://ip4.01.msk.ru.dioni.su:9002`
-  * `tls://ip4.01.msk.ru.dioni.su:9003`
-  * `quic://ip4.01.msk.ru.dioni.su:9002`
-  * `ws://ip4.01.msk.ru.dioni.su:9004`
-  * IPv6:
-  * `tcp://ip6.01.msk.ru.dioni.su:9002`
-  * `tls://ip6.01.msk.ru.dioni.su:9003`
-  * `quic://ip6.01.msk.ru.dioni.su:9002`
-  * `ws://ip6.01.msk.ru.dioni.su:9004`
-
-* Moscow, vps public node, operated by [theshezzee](mailto:thewizard3424@gmail.com), 10 Gbit/s, IPv4 Only
-  * `tcp://yggdrasil.1337.moe:7676`
-
 * Moscow, VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1 Gbit/s, IPv4/IPv6
   * `wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88`
  
@@ -62,11 +47,41 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ru2.cert.dev:7042`
   * `ws://ru2.cert.dev:7043`
 
+* Moscow, VPS, public node, operated by [Dmitry Modder](https://github.com/dmitrymodder)
+  * `wss://ygg.mvault.ru.net:443`
+
+* Moscow, VPS public node, operated by [loskiq](mailto:loskiq@gmail.com)
+  * `tcp://ygg-ru.lskd.pw:30041`
+  * `tls://ygg-ru.lskd.pw:30042`
+  * `quic://ygg-ru.lskd.pw:30043`
+ 
+* Moscow, VPS public node, operated by [Dimoka113](https://i113d.ru), 1 Gbit/s, IPv4 only
+  * `tcp://mskaeza.i113d.ru:12631`
+  * `tls://mskaeza.i113d.ru:12632`
+  * `quic://mskaeza.i113d.ru:12633`
+  * `ws://mskaeza.i113d.ru:12634`
+
+### Odintsovo
+
+* Odintsovo, home public node, operated by [MedDevSystems](https://github.com/MedDevSystems), IPv4 only
+  * `tls://ygg.med-dev-systems.ru:6221`
+
+* Odintsovo, home public node, operated by [Cyberneural](https://t.me/cyberneural)
+  * `tcp://u-neroit.ru:7000`
+
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
+ 
+### Samara
+
+* Samara, home user public node, operated by [Dimoka113](https://i113d.ru), *rate-limited to 600 Mbit/s IPv4 only
+  * `tcp://server.i113d.ru:12631`
+  * `tls://server.i113d.ru:12632`
+  * `quic://server.i113d.ru:12633`
+  * `ws://server.i113d.ru:12634`
 
 ### Omsk
 
@@ -77,6 +92,9 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `ws://srv.itrus.su:7994`
 
 ### Novosibirsk
+
+* Novosibirsk, VPS at ADMAN, operated by [Saiv46](https://github.com/saiv46), IPv4 only
+  * `quic://novosibirsk.mie.foundation:9952`
 
 * Novosibirsk, home public node, operated by WipedLife 100mbit/s, IPv4 only
   * `tcp://37.192.232.33:8080`
@@ -100,32 +118,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://ekb.itrus.su:7993`
   * `ws://ekb.itrus.su:7994`
 
-* Yekaterinburg, VPS, operated by [Ruslan Gilfanov](https://01.ekb.ru.dioni.su/yggdrasil.html), *rate-limited to 1 Gbit/s, IPv4/IPv6*
-  * IPv4:
-  * `tcp://ip4.01.ekb.ru.dioni.su:9002`
-  * `tls://ip4.01.ekb.ru.dioni.su:9003`
-  * `quic://ip4.01.ekb.ru.dioni.su:9002`
-  * `ws://ip4.01.ekb.ru.dioni.su:9004`
-  * IPv6:
-  * `tcp://ip6.01.ekb.ru.dioni.su:9002`
-  * `tls://ip6.01.ekb.ru.dioni.su:9003`
-  * `quic://ip6.01.ekb.ru.dioni.su:9002`
-  * `ws://ip6.01.ekb.ru.dioni.su:9004`
-
 ### Rostov-on-Don
 
 * Rostov-on-Don, home public node, operated by [lavacat](lavacat@disroot.org) *bandwidth up to 200 Mbit/s*
   * `tls://vix.duckdns.org:36014`
   * `quic://vix.duckdns.org:36014`
   * `wss://donotclickthis.link:443/api/v2/socket`
-
-### Tomsk
-
-* Tomsk, VPS, operated by [Ruslan Gilfanov](https://01.tom.ru.dioni.su/yggdrasil.html), *rate-limited to 100 Mbit/s, IPv4 Only*
-  * `tcp://ip4.01.tom.ru.dioni.su:9002`
-  * `tls://ip4.01.tom.ru.dioni.su:9003`
-  * `quic://ip4.01.tom.ru.dioni.su:9002`
-  * `ws://ip4.01.tom.ru.dioni.su:9004`
 
 ### Kursk
 

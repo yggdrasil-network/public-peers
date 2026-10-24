@@ -12,6 +12,14 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://ip4.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854`
   * `tcp://ip6.nerdvm.mywire.org:8080?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854`
   * `quic://ip6.nerdvm.mywire.org:443?key=00000000c61d731961a290d127cd3fc03a4c5f3f35b9083559d4c81d48d65854`
+* Fremont, operated by [WCIIT](https://worker.informatics.coop/). Rejects peers with high-latency except from Asia and South America.
+  * `tls://ca.us.ygg.informatics.coop:443?key=0000000023fc6ffb62afb79448aefb0943df2e4472cf08bd489f5407378300a2`
+
+### Georgia
+
+* Atlanta, VPS, 1 Gbit/s, IPv4, operated by laerad
+  * `tls://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484`
+  * `quic://us.laerad.top:54001?key=c81bc11f522837d2def65768a2593e30cdfa65de856fa129f1aa18e55ba3a484`
 
 ### Maryland
 
@@ -93,10 +101,9 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23165`
   * `quic://129.80.167.244:23165`
 
-* Ashburn, VA, OpenBSD VPS on Hetzner us-east, operated by [Alexa](https://goblin.technology/@lxak) (1Gbps, dual-stack)
+* Ashburn, VA, OpenBSD VPS on Hetzner us-east, operated by [Alexa](https://lxak.net) (1Gbps, dual-stack)
   * `tcp://ygg-dc.lxak.net:8879`
   * `tls://ygg-dc.lxak.net:8880`
-  * `quic://ygg-dc.lxak.net:8881`
 
 * Manassas, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
@@ -106,11 +113,21 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Washington
 
+* Seattle, WA, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-atvps.axxa.dev:18080`
+  * `quic://ygg-atvps.axxa.dev:18083`
+
+* Lynnwood, WA, operated by [Ed Asriyan](https://asriyan.me)
+  * `tcp://ygg1.asriyan.me:23672`
+
+* Mountlake Terrace, WA, operated by [Riley Watson](https://ryebreads.xyz)
+  * `quic://peer.ryebreads.xyz:12345`
+
 * Liberty Lake, WA operated by [jeff](https://github.com/majestrate).
-  * `tls://23.184.48.86:993`
-  * `tls://[2602:fc24:18:7a42::1]:993`
-  * `quic://23.184.48.86:993`
-  * `quic://[2602:fc24:18:7a42::1]:993`
+  * `tls://23.184.48.86:1443`
+  * `tls://[2602:fc24:18:7a42::1]:1443`
+  * `quic://23.184.48.86:1443`
+  * `quic://[2602:fc24:18:7a42::1]:1443`
 
 * Liberty Lake, WA operated by [3DT](https://3dt.net) - 4 Gbit/s, Dual-Stack
   * `tcp://leo.node.3dt.net:9002`
@@ -124,6 +141,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://ygg-wa.incognet.io:8885`
   * `ws://ygg-wa.incognet.io:8886`
 
+* Seattle, WA operated by [Christina Suaa](https://github.com/LEOcab)
+  * `tcp://scandic.us:2011`
+  * `tls://scandic.us:2012`
+  * `quic://scandic.us:2013`
+  * `ws://scandic.us:2014`
 
 ### New York
 
@@ -134,3 +156,11 @@ Yggdrasil configuration file to peer with these nodes.
 * New York City, NY, VPS, operated by [Fijxu (nadeko.net)](https://nadeko.net), 200Mbit/s down, 800Mbit/s up, IPv4
   * `tcp://kisume.nadeko.net:44441`
   * `tls://kisume.nadeko.net:44442`
+ 
+### Iowa
+* Council Bluffs, IA, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-google.axxa.dev:18080`
+  * `quic://ygg-google.axxa.dev:18083`
+### Other
+* Dedicated server
+* `tls://192.3.13.16:8118`
