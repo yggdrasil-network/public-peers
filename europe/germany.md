@@ -86,7 +86,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://b.ygg.yt:443`
   * `tls://g.ygg.yt:443`
  
-* Frankfurt, DigitalOcean VPS, operated by [Octopixel](https://github.com/Octopixel40)
+* Frankfurt, Oracle free-tier VM, IPv4 & IPv6, operated by [Octopixel](https://github.com/Octopixel40)
   * `tls://des.8px.sk:4321`
   * `quic://des.8px.sk:4321`
  
