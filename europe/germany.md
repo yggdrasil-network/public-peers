@@ -90,5 +90,5 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://des.8px.sk:4321`
   * `quic://des.8px.sk:4321`
  
- * Bavaria, Germany, residential / Kabel Deutschland, operated by [adingbatponder](https://codeberg.org/adingbatponder)
+* Bavaria, Germany, residential / Kabel Deutschland, operated by [adingbatponder](https://codeberg.org/adingbatponder)
   * `tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665`    
