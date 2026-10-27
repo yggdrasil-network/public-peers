@@ -107,8 +107,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
  
 ### Kemerovo
 
-* Kemerovo, public node, 100mbit/s, IPv4 only
+* Kemerovo, public node, 100mbit/s, IPv4/IPv6
   * `tcp://kem.txlyre.website:1337`
+  * `quic://kem.txlyre.website:13337`
+  * `tls://kem.txlyre.website:14437`
 
 ### Yekaterinburg
 
