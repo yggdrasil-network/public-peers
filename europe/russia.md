@@ -139,3 +139,11 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Vladivostok, operated by [evasil](https://github.com/evasil/), IPv4 only
   * `tcp://yg-vvo.magicum.net:29330`
   * `tls://yg-vvo.magicum.net:29331`
+
+### Lipetsk
+
+* Lipetsk, home public node, operated by [ke46138](https://github.com/ke46138), bandwidth up to 500 MBit/s, IPv4 only
+  * `quic://ralsei.ru:12345`
+  * `tls://ralsei.ru:12345`
+  * `quic://ke46138.ddns.net:12345`
+  * `tls://ke46138.ddns.net:12345`
