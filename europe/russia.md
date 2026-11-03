@@ -100,6 +100,10 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tcp://37.192.232.33:8080`
   * `tls://37.192.232.33:442`
 
+* Novosibirsk, operated by [evasil](https://magicum.net/)
+  * `tcp://yg-ovb.magicum.net:32332`
+  * `tls://yg-ovb.magicum.net:32333`
+
 ### Krasnoyarsk
 
 * Krasnoyarsk, public node, operated by [multed](https://multed.com/about)
@@ -136,7 +140,7 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 
 ### Vladivostok
 
-* Vladivostok, operated by [evasil](https://github.com/evasil/), IPv4 only
+* Vladivostok, operated by [evasil](https://magicum.net/), IPv4 only
   * `tcp://yg-vvo.magicum.net:29330`
   * `tls://yg-vvo.magicum.net:29331`
 
