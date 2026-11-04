@@ -92,3 +92,9 @@ Yggdrasil configuration file to peer with these nodes.
  
 * Bavaria, Germany, residential / Kabel Deutschland, operated by [adingbatponder](https://codeberg.org/adingbatponder)
   * `tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665`    
+
+* Frankfurt, VPS public node operated by [weavedwires](https://github.com/weavedwires), IPv4 only
+  * `tcp://de.wwire.su:2230`
+  * `tls://de.wwire.su:2231`
+  * `quic://de.wwire.su:2232`
+  * `ws://de.wwire.su:2233`

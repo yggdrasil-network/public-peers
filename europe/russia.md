@@ -61,6 +61,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://mskaeza.i113d.ru:12633`
   * `ws://mskaeza.i113d.ru:12634`
 
+* Moscow, VPS public node hosted on Cloud.ru (SberCloud), operated by [weavedwires](https://github.com/weavedwires), IPv4 only
+  * `tcp://cm1.wwire.su:2230`
+  * `tls://cm1.wwire.su:2231`
+  * `quic://cm1.wwire.su:2232`
+  * `ws://cm1.wwire.su:2233`
+
 ### Odintsovo
 
 * Odintsovo, home public node, operated by [MedDevSystems](https://github.com/MedDevSystems), IPv4 only
@@ -123,6 +129,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ekb.itrus.su:7992`
   * `quic://ekb.itrus.su:7993`
   * `ws://ekb.itrus.su:7994`
+
+* Yekaterinburg, home public node, operated by [weavedwires](https://github.com/weavedwires), IPv4 only
+  * `tcp://wwire.su:2230`
+  * `tls://wwire.su:2231`
+  * `quic://wwire.su:2232`
+  * `ws://wwire.su:2233`
 
 ### Rostov-on-Don
 
