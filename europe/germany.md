@@ -98,3 +98,7 @@ Yggdrasil configuration file to peer with these nodes.
   * `tls://de.wwire.su:2231`
   * `quic://de.wwire.su:2232`
   * `ws://de.wwire.su:2233`
+
+* Frankfurt, Kyonix Networks Ltd., operated by [eldritchT](https://eldritcht.fun)
+  * `tls://sb.eldritcht.fun:47736`
+  * `tcp://sb.eldritcht.fun:47737`
