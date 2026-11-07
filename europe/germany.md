@@ -102,3 +102,9 @@ Yggdrasil configuration file to peer with these nodes.
 * Frankfurt, Kyonix Networks Ltd., operated by [eldritchT](https://eldritcht.fun)
   * `tls://sb.eldritcht.fun:47736`
   * `tcp://sb.eldritcht.fun:47737`
+
+* Germany, hosted on Netcup
+  * `tls://62.83.97.198:9443?key=c706b8ea6abbcaf935b32df2b1a8783564877389619f9d4322ad6edde86c6548`
+  * `quic://62.83.97.198:9443?key=c706b8ea6abbcaf935b32df2b1a8783564877389619f9d4322ad6edde86c6548`
+  * `tls://[2a03:4000:15:1631:18c2:6eff:fe0b:432c]:9443?key=c706b8ea6abbcaf935b32df2b1a8783564877389619f9d4322ad6edde86c6548`
+  * `quic://[2a03:4000:15:1631:18c2:6eff:fe0b:432c]:9443?key=c706b8ea6abbcaf935b32df2b1a8783564877389619f9d4322ad6edde86c6548`
