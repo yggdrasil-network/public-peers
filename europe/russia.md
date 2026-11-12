@@ -122,6 +122,12 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `quic://kem.txlyre.website:13337`
   * `tls://kem.txlyre.website:14437`
 
+### Barnaul
+
+* Barnaul, home public node, operated by [belomaxorka](https://github.com/belomaxorka), IPv4 only
+  * `tls://128.0.25.252:7743`
+  * `quic://128.0.25.252:7743`
+
 ### Yekaterinburg
 
 * Yekaterinburg, home public node, operated by [Werwolf](https://t.me/Werwolf2517) *bandwidth up to 300 Mbps*
