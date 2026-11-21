@@ -14,6 +14,10 @@ Yggdrasil configuration file to peer with these nodes.
   * `tcp://Yggdrasil.UnderEu.Net:37001`
   * `quic://Yggdrasil.UnderEu.Net:37003`
 
+* São Paulo, Oracle Cloud VPS, operated by [000yesnt](https://github.com/000yesnt), 1 Gb/s, IPv6-only
+  * `tcp://yggdrasil-br.dynv6.net:64040`
+  * `quic://yggdrasil-br.dynv6.net:64041`
+ 
   ### Paraná
 
 * Maringá, consumer grade connection, operated by [huzuni](https://github.com/huzunikkj), 300 Mb/s
